@@ -25,8 +25,10 @@ jobs:
             -derivedDataPath DerivedData | scripts/xcbeautify
       - name: Verify build
         run: file DerivedData/Build/Products/Release/AltTab.app/Contents/MacOS/AltTab
+      - name: Package .app into zip
+        run: ditto -c -k --keepParent DerivedData/Build/Products/Release/AltTab.app AltTab-unsigned.zip
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: AltTab-unsigned
-          path: DerivedData/Build/Products/Release/AltTab.app
+          path: AltTab-unsigned.zip
