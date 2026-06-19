@@ -1,0 +1,32 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - main
+      - master
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: macos-15
+    steps:
+      - uses: actions/checkout@v6
+      - run: sudo xcode-select -s /Applications/Xcode_26.0.1.app/Contents/Developer
+      - run: npm ci
+      - name: Build app (unsigned)
+        run: |
+          set -o pipefail && xcodebuild -project alt-tab-macos.xcodeproj \
+            -scheme Release \
+            -configuration Release \
+            CODE_SIGN_IDENTITY="" \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGNING_ALLOWED=NO \
+            -derivedDataPath DerivedData | scripts/xcbeautify
+      - name: Verify build
+        run: file DerivedData/Build/Products/Release/AltTab.app/Contents/MacOS/AltTab
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: AltTab-unsigned
+          path: DerivedData/Build/Products/Release/AltTab.app
