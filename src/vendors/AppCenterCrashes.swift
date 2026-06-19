@@ -12,6 +12,8 @@ class AppCenterCrash: NSObject {
 //        AppCenter.logLevel = .verbose
         // without this, appcenter makes network call just from AppCenter.start; we only want networking when sending reports
         AppCenter.networkRequestsAllowed = false
+        // Skip AppCenter initialization if secret is empty (e.g., CI builds)
+        guard !AppCenterCrash.secret.isEmpty else { return }
         // Wire the delegate + confirmation handler before start: AppCenter processes pending crash
         // reports synchronously inside +start, and if userConfirmationHandler is nil at that point
         // it falls through to MSACUserConfirmationSend and silently uploads without prompting.
