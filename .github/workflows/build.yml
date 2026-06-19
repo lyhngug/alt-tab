@@ -23,6 +23,10 @@ jobs:
             CODE_SIGNING_REQUIRED=NO \
             CODE_SIGNING_ALLOWED=NO \
             -derivedDataPath DerivedData | scripts/xcbeautify
+      - name: Ad-hoc codesign
+        run: |
+          codesign --force --deep --sign - DerivedData/Build/Products/Release/AltTab.app
+          codesign --verify --verbose=2 DerivedData/Build/Products/Release/AltTab.app
       - name: Verify build
         run: file DerivedData/Build/Products/Release/AltTab.app/Contents/MacOS/AltTab
       - name: Package .app into zip
