@@ -38,7 +38,7 @@ jobs:
       - name: Package .app into zip
         run: ditto -c -k --keepParent DerivedData/Build/Products/Release/AltTab.app AltTab-unsigned.zip
       - name: Upload artifact
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v5
         with:
           name: AltTab-unsigned
           path: AltTab-unsigned.zip
