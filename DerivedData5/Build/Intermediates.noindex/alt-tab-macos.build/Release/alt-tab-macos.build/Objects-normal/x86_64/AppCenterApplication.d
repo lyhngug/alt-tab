@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/hangsyusang/Opensources/alt-tab-macos/src/ui/AppCenterApplication.m \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Crashes/AppCenterCrashes.framework/Modules/module.modulemap \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Modules/module.modulemap \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Headers/AppCenter.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Headers/MSACAbstractLog.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Headers/MSACAppCenter.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Headers/MSACConstants.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Headers/MSACAppCenterErrors.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Headers/MSACChannelGroupProtocol.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Headers/MSACChannelProtocol.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Headers/MSACEnable.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Headers/MSACConstants+Flags.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Headers/MSACCustomProperties.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Headers/MSACDevice.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Headers/MSACWrapperSdk.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Headers/MSACLog.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Headers/MSACLogWithProperties.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Headers/MSACLogger.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Headers/MSACSerializableObject.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Headers/MSACService.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Headers/MSACServiceAbstract.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Core/AppCenter.framework/Headers/MSACWrapperLogger.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Crashes/AppCenterCrashes.framework/Headers/AppCenterCrashes.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Crashes/AppCenterCrashes.framework/Headers/MSACCrashHandlerSetupDelegate.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Crashes/AppCenterCrashes.framework/Headers/MSACCrashes.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Crashes/AppCenterCrashes.framework/Headers/MSACErrorReport.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Crashes/AppCenterCrashes.framework/Headers/MSACCrashesDelegate.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Crashes/AppCenterCrashes.framework/Headers/MSACErrorAttachmentLog+Utility.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Crashes/AppCenterCrashes.framework/Headers/MSACErrorAttachmentLog.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Crashes/AppCenterCrashes.framework/Headers/MSACExceptionModel.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Crashes/AppCenterCrashes.framework/Headers/MSACStackFrame.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Crashes/AppCenterCrashes.framework/Headers/MSACWrapperCrashesHelper.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/XCFrameworkIntermediates/AppCenter/Crashes/AppCenterCrashes.framework/Headers/MSACWrapperExceptionModel.h \
+  /Users/hangsyusang/Opensources/alt-tab-macos/src/ui/AppCenterApplication.h

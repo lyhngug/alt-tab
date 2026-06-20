@@ -1,0 +1,766 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData5/Build/Products/Release/ShortcutRecorder/ShortcutRecorder.framework/Versions/A/ShortcutRecorder'
+relocations:
+  - { offsetInCU: 0x33, offset: 0x13016, size: 0x8, addend: 0x0, symName: _ShortcutRecorderVersionString, symObjAddr: 0x0, symBinAddr: 0x2D100, symSize: 0x0 }
+  - { offsetInCU: 0x67, offset: 0x1304A, size: 0x8, addend: 0x0, symName: _ShortcutRecorderVersionNumber, symObjAddr: 0x30, symBinAddr: 0x2D130, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0x13086, size: 0x8, addend: 0x0, symName: _SRBundle, symObjAddr: 0x0, symBinAddr: 0x3A10, symSize: 0x75 }
+  - { offsetInCU: 0x40, offset: 0x1309F, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringTabRight, symObjAddr: 0x6C0, symBinAddr: 0x384A0, symSize: 0x0 }
+  - { offsetInCU: 0x96, offset: 0x130F5, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringTabLeft, symObjAddr: 0x6C8, symBinAddr: 0x384A8, symSize: 0x0 }
+  - { offsetInCU: 0xAB, offset: 0x1310A, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringReturn, symObjAddr: 0x6D0, symBinAddr: 0x384B0, symSize: 0x0 }
+  - { offsetInCU: 0xC0, offset: 0x1311F, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringReturnR2L, symObjAddr: 0x6D8, symBinAddr: 0x384B8, symSize: 0x0 }
+  - { offsetInCU: 0xD5, offset: 0x13134, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringDeleteLeft, symObjAddr: 0x6E0, symBinAddr: 0x384C0, symSize: 0x0 }
+  - { offsetInCU: 0xEA, offset: 0x13149, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringDeleteRight, symObjAddr: 0x6E8, symBinAddr: 0x384C8, symSize: 0x0 }
+  - { offsetInCU: 0xFF, offset: 0x1315E, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringPadClear, symObjAddr: 0x6F0, symBinAddr: 0x384D0, symSize: 0x0 }
+  - { offsetInCU: 0x114, offset: 0x13173, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringLeftArrow, symObjAddr: 0x6F8, symBinAddr: 0x384D8, symSize: 0x0 }
+  - { offsetInCU: 0x129, offset: 0x13188, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringRightArrow, symObjAddr: 0x700, symBinAddr: 0x384E0, symSize: 0x0 }
+  - { offsetInCU: 0x13E, offset: 0x1319D, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringUpArrow, symObjAddr: 0x708, symBinAddr: 0x384E8, symSize: 0x0 }
+  - { offsetInCU: 0x153, offset: 0x131B2, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringDownArrow, symObjAddr: 0x710, symBinAddr: 0x384F0, symSize: 0x0 }
+  - { offsetInCU: 0x168, offset: 0x131C7, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringPageDown, symObjAddr: 0x718, symBinAddr: 0x384F8, symSize: 0x0 }
+  - { offsetInCU: 0x17D, offset: 0x131DC, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringPageUp, symObjAddr: 0x720, symBinAddr: 0x38500, symSize: 0x0 }
+  - { offsetInCU: 0x192, offset: 0x131F1, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringNorthwestArrow, symObjAddr: 0x728, symBinAddr: 0x38508, symSize: 0x0 }
+  - { offsetInCU: 0x1A7, offset: 0x13206, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringSoutheastArrow, symObjAddr: 0x730, symBinAddr: 0x38510, symSize: 0x0 }
+  - { offsetInCU: 0x1BC, offset: 0x1321B, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringEscape, symObjAddr: 0x738, symBinAddr: 0x38518, symSize: 0x0 }
+  - { offsetInCU: 0x1D1, offset: 0x13230, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringSpace, symObjAddr: 0x740, symBinAddr: 0x38520, symSize: 0x0 }
+  - { offsetInCU: 0x1E6, offset: 0x13245, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringHelp, symObjAddr: 0x748, symBinAddr: 0x38528, symSize: 0x0 }
+  - { offsetInCU: 0x1FB, offset: 0x1325A, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringJISUnderscore, symObjAddr: 0x750, symBinAddr: 0x38530, symSize: 0x0 }
+  - { offsetInCU: 0x210, offset: 0x1326F, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringJISComma, symObjAddr: 0x758, symBinAddr: 0x38538, symSize: 0x0 }
+  - { offsetInCU: 0x225, offset: 0x13284, size: 0x8, addend: 0x0, symName: _SRKeyCodeStringJISYen, symObjAddr: 0x760, symBinAddr: 0x38540, symSize: 0x0 }
+  - { offsetInCU: 0x23A, offset: 0x13299, size: 0x8, addend: 0x0, symName: _SRModifierFlagStringCommand, symObjAddr: 0x768, symBinAddr: 0x38548, symSize: 0x0 }
+  - { offsetInCU: 0x25F, offset: 0x132BE, size: 0x8, addend: 0x0, symName: _SRModifierFlagStringOption, symObjAddr: 0x770, symBinAddr: 0x38550, symSize: 0x0 }
+  - { offsetInCU: 0x274, offset: 0x132D3, size: 0x8, addend: 0x0, symName: _SRModifierFlagStringShift, symObjAddr: 0x778, symBinAddr: 0x38558, symSize: 0x0 }
+  - { offsetInCU: 0x289, offset: 0x132E8, size: 0x8, addend: 0x0, symName: _SRModifierFlagStringControl, symObjAddr: 0x780, symBinAddr: 0x38560, symSize: 0x0 }
+  - { offsetInCU: 0x292, offset: 0x132F1, size: 0x8, addend: 0x0, symName: _SRBundle, symObjAddr: 0x0, symBinAddr: 0x3A10, symSize: 0x75 }
+  - { offsetInCU: 0x2B7, offset: 0x13316, size: 0x8, addend: 0x0, symName: _SRBundle.onceToken, symObjAddr: 0x33A0, symBinAddr: 0x46628, symSize: 0x0 }
+  - { offsetInCU: 0x2CC, offset: 0x1332B, size: 0x8, addend: 0x0, symName: _SRBundle.Bundle, symObjAddr: 0x33A8, symBinAddr: 0x46630, symSize: 0x0 }
+  - { offsetInCU: 0x39E, offset: 0x133FD, size: 0x8, addend: 0x0, symName: '-[NSObject(SRCommon) SR_isEqual:usingSelector:ofCommonAncestor:]', symObjAddr: 0x189, symBinAddr: 0x3B99, symSize: 0x133 }
+  - { offsetInCU: 0x6A0, offset: 0x136FF, size: 0x8, addend: 0x0, symName: ___SRBundle_block_invoke, symObjAddr: 0x75, symBinAddr: 0x3A85, symSize: 0x3C }
+  - { offsetInCU: 0x6DB, offset: 0x1373A, size: 0x8, addend: 0x0, symName: _SRLoc, symObjAddr: 0xB1, symBinAddr: 0x3AC1, symSize: 0x73 }
+  - { offsetInCU: 0x753, offset: 0x137B2, size: 0x8, addend: 0x0, symName: _SRImage, symObjAddr: 0x124, symBinAddr: 0x3B34, symSize: 0x65 }
+  - { offsetInCU: 0x27, offset: 0x138F9, size: 0x8, addend: 0x0, symName: '+[SRKeyBindingTransformer sharedTransformer]', symObjAddr: 0x0, symBinAddr: 0x3CCC, symSize: 0x30 }
+  - { offsetInCU: 0x34, offset: 0x13906, size: 0x8, addend: 0x0, symName: '+[SRKeyBindingTransformer sharedTransformer]', symObjAddr: 0x0, symBinAddr: 0x3CCC, symSize: 0x30 }
+  - { offsetInCU: 0x5D, offset: 0x1392F, size: 0x8, addend: 0x0, symName: _sharedTransformer.OnceToken, symObjAddr: 0x5820, symBinAddr: 0x46638, symSize: 0x0 }
+  - { offsetInCU: 0x72, offset: 0x13944, size: 0x8, addend: 0x0, symName: _sharedTransformer.Transformer, symObjAddr: 0x5828, symBinAddr: 0x46640, symSize: 0x0 }
+  - { offsetInCU: 0x17C, offset: 0x13A4E, size: 0x8, addend: 0x0, symName: '-[SRKeyBindingTransformer transformedValue:]', symObjAddr: 0x81, symBinAddr: 0x3D4D, symSize: 0x4DB }
+  - { offsetInCU: 0x1A5, offset: 0x13A77, size: 0x8, addend: 0x0, symName: '_transformedValue:.FlagsCharacters', symObjAddr: 0x5830, symBinAddr: 0x46648, symSize: 0x0 }
+  - { offsetInCU: 0x1BA, offset: 0x13A8C, size: 0x8, addend: 0x0, symName: '_transformedValue:.OnceToken', symObjAddr: 0x5838, symBinAddr: 0x46650, symSize: 0x0 }
+  - { offsetInCU: 0x6DA, offset: 0x13FAC, size: 0x8, addend: 0x0, symName: '-[SRKeyBindingTransformer reverseTransformedValue:]', symObjAddr: 0x598, symBinAddr: 0x4264, symSize: 0x376 }
+  - { offsetInCU: 0xF49, offset: 0x1481B, size: 0x8, addend: 0x0, symName: '___44+[SRKeyBindingTransformer sharedTransformer]_block_invoke', symObjAddr: 0x30, symBinAddr: 0x3CFC, symSize: 0x2D }
+  - { offsetInCU: 0xF84, offset: 0x14856, size: 0x8, addend: 0x0, symName: '+[SRKeyBindingTransformer allowsReverseTransformation]', symObjAddr: 0x5D, symBinAddr: 0x3D29, symSize: 0xB }
+  - { offsetInCU: 0xFB4, offset: 0x14886, size: 0x8, addend: 0x0, symName: '+[SRKeyBindingTransformer transformedValueClass]', symObjAddr: 0x68, symBinAddr: 0x3D34, symSize: 0x19 }
+  - { offsetInCU: 0xFEF, offset: 0x148C1, size: 0x8, addend: 0x0, symName: '___44-[SRKeyBindingTransformer transformedValue:]_block_invoke', symObjAddr: 0x55C, symBinAddr: 0x4228, symSize: 0x3C }
+  - { offsetInCU: 0x27, offset: 0x14BD4, size: 0x8, addend: 0x0, symName: '-[_SRKeyCodeTranslatorCacheKey initWithIdentifier:implicitModifierFlags:explicitModifierFlags:keyCode:]', symObjAddr: 0x0, symBinAddr: 0x45DC, symSize: 0xA0 }
+  - { offsetInCU: 0x8B, offset: 0x14C38, size: 0x8, addend: 0x0, symName: '+[_SRKeyCodeTranslator shared]', symObjAddr: 0x241, symBinAddr: 0x481D, symSize: 0x30 }
+  - { offsetInCU: 0xB4, offset: 0x14C61, size: 0x8, addend: 0x0, symName: _shared.Cache, symObjAddr: 0x20D38, symBinAddr: 0x46658, symSize: 0x0 }
+  - { offsetInCU: 0xC9, offset: 0x14C76, size: 0x8, addend: 0x0, symName: _shared.OnceToken, symObjAddr: 0x20D40, symBinAddr: 0x46660, symSize: 0x0 }
+  - { offsetInCU: 0x269, offset: 0x14E16, size: 0x8, addend: 0x0, symName: '-[_SRKeyCodeTranslator translateKeyCode:implicitModifierFlags:explicitModifierFlags:usingCache:]', symObjAddr: 0x3D1, symBinAddr: 0x49AD, symSize: 0x639 }
+  - { offsetInCU: 0xA98, offset: 0x15645, size: 0x8, addend: 0x0, symName: '+[_SRKeyCodeASCIITranslator shared]', symObjAddr: 0xA3C, symBinAddr: 0x5018, symSize: 0x30 }
+  - { offsetInCU: 0xAC3, offset: 0x15670, size: 0x8, addend: 0x0, symName: _shared.Cache.86, symObjAddr: 0x20D48, symBinAddr: 0x46668, symSize: 0x0 }
+  - { offsetInCU: 0xAD9, offset: 0x15686, size: 0x8, addend: 0x0, symName: _shared.OnceToken.87, symObjAddr: 0x20D50, symBinAddr: 0x46670, symSize: 0x0 }
+  - { offsetInCU: 0xB59, offset: 0x15706, size: 0x8, addend: 0x0, symName: '-[_SRKeyCodeASCIITranslator keyCodeForTranslation:]', symObjAddr: 0xAA8, symBinAddr: 0x5084, symSize: 0x4F4 }
+  - { offsetInCU: 0x105C, offset: 0x15C09, size: 0x8, addend: 0x0, symName: '+[SRKeyCodeTransformer knownKeyCodes]', symObjAddr: 0x1167, symBinAddr: 0x5743, symSize: 0x30 }
+  - { offsetInCU: 0x1087, offset: 0x15C34, size: 0x8, addend: 0x0, symName: _knownKeyCodes.KnownKeyCodes, symObjAddr: 0x20D58, symBinAddr: 0x46678, symSize: 0x0 }
+  - { offsetInCU: 0x109D, offset: 0x15C4A, size: 0x8, addend: 0x0, symName: _knownKeyCodes.OnceToken, symObjAddr: 0x20D60, symBinAddr: 0x46680, symSize: 0x0 }
+  - { offsetInCU: 0x10D8, offset: 0x15C85, size: 0x8, addend: 0x0, symName: '+[SRKeyCodeTransformer specialKeyCodeToSymbolMapping]', symObjAddr: 0x307F, symBinAddr: 0x765B, symSize: 0x30 }
+  - { offsetInCU: 0x1103, offset: 0x15CB0, size: 0x8, addend: 0x0, symName: _specialKeyCodeToSymbolMapping.Mapping, symObjAddr: 0x20D68, symBinAddr: 0x46688, symSize: 0x0 }
+  - { offsetInCU: 0x1119, offset: 0x15CC6, size: 0x8, addend: 0x0, symName: _specialKeyCodeToSymbolMapping.OnceToken, symObjAddr: 0x20D70, symBinAddr: 0x46690, symSize: 0x0 }
+  - { offsetInCU: 0x114F, offset: 0x15CFC, size: 0x8, addend: 0x0, symName: '+[SRKeyCodeTransformer specialKeyCodeToLiteralMapping]', symObjAddr: 0x40BB, symBinAddr: 0x8697, symSize: 0x30 }
+  - { offsetInCU: 0x117A, offset: 0x15D27, size: 0x8, addend: 0x0, symName: _specialKeyCodeToLiteralMapping.Mapping, symObjAddr: 0x20D78, symBinAddr: 0x46698, symSize: 0x0 }
+  - { offsetInCU: 0x1190, offset: 0x15D3D, size: 0x8, addend: 0x0, symName: _specialKeyCodeToLiteralMapping.OnceToken, symObjAddr: 0x20D80, symBinAddr: 0x466A0, symSize: 0x0 }
+  - { offsetInCU: 0x11C6, offset: 0x15D73, size: 0x8, addend: 0x0, symName: '+[SRLiteralKeyCodeTransformer sharedTransformer]', symObjAddr: 0x4DFF, symBinAddr: 0x93DB, symSize: 0x30 }
+  - { offsetInCU: 0x11F1, offset: 0x15D9E, size: 0x8, addend: 0x0, symName: _sharedTransformer.Transformer, symObjAddr: 0x20D88, symBinAddr: 0x466A8, symSize: 0x0 }
+  - { offsetInCU: 0x1207, offset: 0x15DB4, size: 0x8, addend: 0x0, symName: _sharedTransformer.OnceToken, symObjAddr: 0x20D90, symBinAddr: 0x466B0, symSize: 0x0 }
+  - { offsetInCU: 0x129C, offset: 0x15E49, size: 0x8, addend: 0x0, symName: '-[SRLiteralKeyCodeTransformer transformedValue:withImplicitModifierFlags:explicitModifierFlags:layoutDirection:]', symObjAddr: 0x4EC9, symBinAddr: 0x94A5, symSize: 0x169 }
+  - { offsetInCU: 0x1421, offset: 0x15FCE, size: 0x8, addend: 0x0, symName: '___112-[SRLiteralKeyCodeTransformer transformedValue:withImplicitModifierFlags:explicitModifierFlags:layoutDirection:]_block_invoke', symObjAddr: 0x5057, symBinAddr: 0x9633, symSize: 0x104 }
+  - { offsetInCU: 0x15E0, offset: 0x1618D, size: 0x8, addend: 0x0, symName: '+[SRSymbolicKeyCodeTransformer sharedTransformer]', symObjAddr: 0x51EE, symBinAddr: 0x97CA, symSize: 0x30 }
+  - { offsetInCU: 0x160B, offset: 0x161B8, size: 0x8, addend: 0x0, symName: _sharedTransformer.Transformer.239, symObjAddr: 0x20D98, symBinAddr: 0x466B8, symSize: 0x0 }
+  - { offsetInCU: 0x1621, offset: 0x161CE, size: 0x8, addend: 0x0, symName: _sharedTransformer.OnceToken.240, symObjAddr: 0x20DA0, symBinAddr: 0x466C0, symSize: 0x0 }
+  - { offsetInCU: 0x166C, offset: 0x16219, size: 0x8, addend: 0x0, symName: '-[SRSymbolicKeyCodeTransformer transformedValue:withImplicitModifierFlags:explicitModifierFlags:layoutDirection:]', symObjAddr: 0x52B8, symBinAddr: 0x9894, symSize: 0x169 }
+  - { offsetInCU: 0x17F1, offset: 0x1639E, size: 0x8, addend: 0x0, symName: '___113-[SRSymbolicKeyCodeTransformer transformedValue:withImplicitModifierFlags:explicitModifierFlags:layoutDirection:]_block_invoke', symObjAddr: 0x5421, symBinAddr: 0x99FD, symSize: 0x104 }
+  - { offsetInCU: 0x19A4, offset: 0x16551, size: 0x8, addend: 0x0, symName: '+[SRASCIILiteralKeyCodeTransformer sharedTransformer]', symObjAddr: 0x5525, symBinAddr: 0x9B01, symSize: 0x30 }
+  - { offsetInCU: 0x19CF, offset: 0x1657C, size: 0x8, addend: 0x0, symName: _sharedTransformer.Transformer.245, symObjAddr: 0x20DA8, symBinAddr: 0x466C8, symSize: 0x0 }
+  - { offsetInCU: 0x19E5, offset: 0x16592, size: 0x8, addend: 0x0, symName: _sharedTransformer.OnceToken.246, symObjAddr: 0x20DB0, symBinAddr: 0x466D0, symSize: 0x0 }
+  - { offsetInCU: 0x1A30, offset: 0x165DD, size: 0x8, addend: 0x0, symName: '-[SRASCIILiteralKeyCodeTransformer transformedValue:withImplicitModifierFlags:explicitModifierFlags:layoutDirection:]', symObjAddr: 0x55EF, symBinAddr: 0x9BCB, symSize: 0x169 }
+  - { offsetInCU: 0x1BB5, offset: 0x16762, size: 0x8, addend: 0x0, symName: '___117-[SRASCIILiteralKeyCodeTransformer transformedValue:withImplicitModifierFlags:explicitModifierFlags:layoutDirection:]_block_invoke', symObjAddr: 0x5758, symBinAddr: 0x9D34, symSize: 0x104 }
+  - { offsetInCU: 0x1D68, offset: 0x16915, size: 0x8, addend: 0x0, symName: '-[SRASCIILiteralKeyCodeTransformer reverseTransformedValue:]', symObjAddr: 0x5867, symBinAddr: 0x9E43, symSize: 0x14C }
+  - { offsetInCU: 0x1EE5, offset: 0x16A92, size: 0x8, addend: 0x0, symName: '___60-[SRASCIILiteralKeyCodeTransformer reverseTransformedValue:]_block_invoke', symObjAddr: 0x59B3, symBinAddr: 0x9F8F, symSize: 0xA45 }
+  - { offsetInCU: 0x2283, offset: 0x16E30, size: 0x8, addend: 0x0, symName: '+[SRASCIISymbolicKeyCodeTransformer sharedTransformer]', symObjAddr: 0x646F, symBinAddr: 0xAA4B, symSize: 0x30 }
+  - { offsetInCU: 0x22AE, offset: 0x16E5B, size: 0x8, addend: 0x0, symName: _sharedTransformer.Transformer.280, symObjAddr: 0x20DB8, symBinAddr: 0x466D8, symSize: 0x0 }
+  - { offsetInCU: 0x22C4, offset: 0x16E71, size: 0x8, addend: 0x0, symName: _sharedTransformer.OnceToken.281, symObjAddr: 0x20DC0, symBinAddr: 0x466E0, symSize: 0x0 }
+  - { offsetInCU: 0x230F, offset: 0x16EBC, size: 0x8, addend: 0x0, symName: '-[SRASCIISymbolicKeyCodeTransformer transformedValue:withImplicitModifierFlags:explicitModifierFlags:layoutDirection:]', symObjAddr: 0x6539, symBinAddr: 0xAB15, symSize: 0x169 }
+  - { offsetInCU: 0x2494, offset: 0x17041, size: 0x8, addend: 0x0, symName: '___118-[SRASCIISymbolicKeyCodeTransformer transformedValue:withImplicitModifierFlags:explicitModifierFlags:layoutDirection:]_block_invoke', symObjAddr: 0x66A2, symBinAddr: 0xAC7E, symSize: 0x104 }
+  - { offsetInCU: 0x2647, offset: 0x171F4, size: 0x8, addend: 0x0, symName: '-[SRASCIISymbolicKeyCodeTransformer reverseTransformedValue:]', symObjAddr: 0x67B1, symBinAddr: 0xAD8D, symSize: 0x14C }
+  - { offsetInCU: 0x27C4, offset: 0x17371, size: 0x8, addend: 0x0, symName: '___61-[SRASCIISymbolicKeyCodeTransformer reverseTransformedValue:]_block_invoke', symObjAddr: 0x68FD, symBinAddr: 0xAED9, symSize: 0x7A3 }
+  - { offsetInCU: 0x2D36, offset: 0x178E3, size: 0x8, addend: 0x0, symName: '-[_SRKeyCodeTranslatorCacheKey initWithIdentifier:implicitModifierFlags:explicitModifierFlags:keyCode:]', symObjAddr: 0x0, symBinAddr: 0x45DC, symSize: 0xA0 }
+  - { offsetInCU: 0x2DE8, offset: 0x17995, size: 0x8, addend: 0x0, symName: '-[_SRKeyCodeTranslatorCacheKey copyWithZone:]', symObjAddr: 0xA0, symBinAddr: 0x467C, symSize: 0xB }
+  - { offsetInCU: 0x2E3A, offset: 0x179E7, size: 0x8, addend: 0x0, symName: '-[_SRKeyCodeTranslatorCacheKey isEqual:]', symObjAddr: 0xAB, symBinAddr: 0x4687, symSize: 0x105 }
+  - { offsetInCU: 0x2F7E, offset: 0x17B2B, size: 0x8, addend: 0x0, symName: '-[_SRKeyCodeTranslatorCacheKey hash]', symObjAddr: 0x1B0, symBinAddr: 0x478C, symSize: 0x4F }
+  - { offsetInCU: 0x301D, offset: 0x17BCA, size: 0x8, addend: 0x0, symName: '-[_SRKeyCodeTranslatorCacheKey identifier]', symObjAddr: 0x1FF, symBinAddr: 0x47DB, symSize: 0x14 }
+  - { offsetInCU: 0x3054, offset: 0x17C01, size: 0x8, addend: 0x0, symName: '-[_SRKeyCodeTranslatorCacheKey implicitModifierFlags]', symObjAddr: 0x213, symBinAddr: 0x47EF, symSize: 0xA }
+  - { offsetInCU: 0x3088, offset: 0x17C35, size: 0x8, addend: 0x0, symName: '-[_SRKeyCodeTranslatorCacheKey explicitModifierFlags]', symObjAddr: 0x21D, symBinAddr: 0x47F9, symSize: 0xA }
+  - { offsetInCU: 0x30BC, offset: 0x17C69, size: 0x8, addend: 0x0, symName: '-[_SRKeyCodeTranslatorCacheKey keyCode]', symObjAddr: 0x227, symBinAddr: 0x4803, symSize: 0xA }
+  - { offsetInCU: 0x30F0, offset: 0x17C9D, size: 0x8, addend: 0x0, symName: '-[_SRKeyCodeTranslatorCacheKey .cxx_destruct]', symObjAddr: 0x231, symBinAddr: 0x480D, symSize: 0x10 }
+  - { offsetInCU: 0x3164, offset: 0x17D11, size: 0x8, addend: 0x0, symName: '___30+[_SRKeyCodeTranslator shared]_block_invoke', symObjAddr: 0x271, symBinAddr: 0x484D, symSize: 0x2D }
+  - { offsetInCU: 0x319F, offset: 0x17D4C, size: 0x8, addend: 0x0, symName: '-[_SRKeyCodeTranslator init]', symObjAddr: 0x29E, symBinAddr: 0x487A, symSize: 0x19 }
+  - { offsetInCU: 0x31E5, offset: 0x17D92, size: 0x8, addend: 0x0, symName: '-[_SRKeyCodeTranslator initWithInputSourceCreator:]', symObjAddr: 0x2B7, symBinAddr: 0x4893, symSize: 0x69 }
+  - { offsetInCU: 0x323E, offset: 0x17DEB, size: 0x8, addend: 0x0, symName: '-[_SRKeyCodeTranslator initWithInputSource:]', symObjAddr: 0x320, symBinAddr: 0x48FC, symSize: 0x8D }
+  - { offsetInCU: 0x32BC, offset: 0x17E69, size: 0x8, addend: 0x0, symName: '-[_SRKeyCodeTranslator inputSource]', symObjAddr: 0x3AD, symBinAddr: 0x4989, symSize: 0x24 }
+  - { offsetInCU: 0x348D, offset: 0x1803A, size: 0x8, addend: 0x0, symName: '-[_SRKeyCodeTranslator inputSourceCreator]', symObjAddr: 0xA0A, symBinAddr: 0x4FE6, symSize: 0xA }
+  - { offsetInCU: 0x34C1, offset: 0x1806E, size: 0x8, addend: 0x0, symName: '-[_SRKeyCodeTranslator .cxx_destruct]', symObjAddr: 0xA14, symBinAddr: 0x4FF0, symSize: 0x28 }
+  - { offsetInCU: 0x34F2, offset: 0x1809F, size: 0x8, addend: 0x0, symName: '___35+[_SRKeyCodeASCIITranslator shared]_block_invoke', symObjAddr: 0xA6C, symBinAddr: 0x5048, symSize: 0x3C }
+  - { offsetInCU: 0x354A, offset: 0x180F7, size: 0x8, addend: 0x0, symName: '-[_SRKeyCodeASCIITranslator .cxx_destruct]', symObjAddr: 0xF9C, symBinAddr: 0x5578, symSize: 0x31 }
+  - { offsetInCU: 0x357C, offset: 0x18129, size: 0x8, addend: 0x0, symName: '-[SRKeyCodeTransformer init]', symObjAddr: 0xFCD, symBinAddr: 0x55A9, symSize: 0x9F }
+  - { offsetInCU: 0x3604, offset: 0x181B1, size: 0x8, addend: 0x0, symName: '-[SRKeyCodeTransformer initWithInputSource:]', symObjAddr: 0x106C, symBinAddr: 0x5648, symSize: 0xFB }
+  - { offsetInCU: 0x36EB, offset: 0x18298, size: 0x8, addend: 0x0, symName: '___37+[SRKeyCodeTransformer knownKeyCodes]_block_invoke', symObjAddr: 0x1197, symBinAddr: 0x5773, symSize: 0x1401 }
+  - { offsetInCU: 0x4401, offset: 0x18FAE, size: 0x8, addend: 0x0, symName: '+[SRKeyCodeTransformer sharedTransformer]', symObjAddr: 0x2598, symBinAddr: 0x6B74, symSize: 0x19 }
+  - { offsetInCU: 0x443D, offset: 0x18FEA, size: 0x8, addend: 0x0, symName: '-[SRKeyCodeTransformer inputSource]', symObjAddr: 0x25B1, symBinAddr: 0x6B8D, symSize: 0x1D }
+  - { offsetInCU: 0x447D, offset: 0x1902A, size: 0x8, addend: 0x0, symName: '-[SRKeyCodeTransformer literalForKeyCode:withImplicitModifierFlags:explicitModifierFlags:layoutDirection:]', symObjAddr: 0x25CE, symBinAddr: 0x6BAA, symSize: 0x3FE }
+  - { offsetInCU: 0x455E, offset: 0x1910B, size: 0x8, addend: 0x0, symName: '-[SRKeyCodeTransformer symbolForKeyCode:withImplicitModifierFlags:explicitModifierFlags:layoutDirection:]', symObjAddr: 0x29CC, symBinAddr: 0x6FA8, symSize: 0x660 }
+  - { offsetInCU: 0x4B0B, offset: 0x196B8, size: 0x8, addend: 0x0, symName: '-[SRKeyCodeTransformer transformedValue:withImplicitModifierFlags:explicitModifierFlags:layoutDirection:]', symObjAddr: 0x302C, symBinAddr: 0x7608, symSize: 0x8 }
+  - { offsetInCU: 0x4B70, offset: 0x1971D, size: 0x8, addend: 0x0, symName: '+[SRKeyCodeTransformer sharedASCIITransformer]', symObjAddr: 0x3034, symBinAddr: 0x7610, symSize: 0x19 }
+  - { offsetInCU: 0x4BAC, offset: 0x19759, size: 0x8, addend: 0x0, symName: '+[SRKeyCodeTransformer sharedPlainTransformer]', symObjAddr: 0x304D, symBinAddr: 0x7629, symSize: 0x19 }
+  - { offsetInCU: 0x4BE8, offset: 0x19795, size: 0x8, addend: 0x0, symName: '+[SRKeyCodeTransformer sharedPlainASCIITransformer]', symObjAddr: 0x3066, symBinAddr: 0x7642, symSize: 0x19 }
+  - { offsetInCU: 0x4C24, offset: 0x197D1, size: 0x8, addend: 0x0, symName: '___53+[SRKeyCodeTransformer specialKeyCodeToSymbolMapping]_block_invoke', symObjAddr: 0x30AF, symBinAddr: 0x768B, symSize: 0x100C }
+  - { offsetInCU: 0x5AB1, offset: 0x1A65E, size: 0x8, addend: 0x0, symName: '___54+[SRKeyCodeTransformer specialKeyCodeToLiteralMapping]_block_invoke', symObjAddr: 0x40EB, symBinAddr: 0x86C7, symSize: 0x994 }
+  - { offsetInCU: 0x5FAC, offset: 0x1AB59, size: 0x8, addend: 0x0, symName: '-[SRKeyCodeTransformer initWithASCIICapableKeyboardInputSource:plainStrings:]', symObjAddr: 0x4A7F, symBinAddr: 0x905B, symSize: 0x68 }
+  - { offsetInCU: 0x6020, offset: 0x1ABCD, size: 0x8, addend: 0x0, symName: '-[SRKeyCodeTransformer usesASCIICapableKeyboardInputSource]', symObjAddr: 0x4AE7, symBinAddr: 0x90C3, symSize: 0x6C }
+  - { offsetInCU: 0x60AA, offset: 0x1AC57, size: 0x8, addend: 0x0, symName: '-[SRKeyCodeTransformer usesPlainStrings]', symObjAddr: 0x4B53, symBinAddr: 0x912F, symSize: 0x6C }
+  - { offsetInCU: 0x6134, offset: 0x1ACE1, size: 0x8, addend: 0x0, symName: '-[SRKeyCodeTransformer transformedValue:withModifierFlags:]', symObjAddr: 0x4BBF, symBinAddr: 0x919B, symSize: 0x18 }
+  - { offsetInCU: 0x61B2, offset: 0x1AD5F, size: 0x8, addend: 0x0, symName: '-[SRKeyCodeTransformer transformedValue:withImplicitModifierFlags:explicitModifierFlags:]', symObjAddr: 0x4BD7, symBinAddr: 0x91B3, symSize: 0x15 }
+  - { offsetInCU: 0x6241, offset: 0x1ADEE, size: 0x8, addend: 0x0, symName: '-[SRKeyCodeTransformer transformedSpecialKeyCode:withExplicitModifierFlags:]', symObjAddr: 0x4BEC, symBinAddr: 0x91C8, symSize: 0x1A }
+  - { offsetInCU: 0x62C0, offset: 0x1AE6D, size: 0x8, addend: 0x0, symName: '-[SRKeyCodeTransformer isKeyCodeSpecial:]', symObjAddr: 0x4C06, symBinAddr: 0x91E2, symSize: 0x9D }
+  - { offsetInCU: 0x6369, offset: 0x1AF16, size: 0x8, addend: 0x0, symName: '+[SRKeyCodeTransformer transformedValueClass]', symObjAddr: 0x4CA3, symBinAddr: 0x927F, symSize: 0x19 }
+  - { offsetInCU: 0x63A5, offset: 0x1AF52, size: 0x8, addend: 0x0, symName: '-[SRKeyCodeTransformer transformedValue:]', symObjAddr: 0x4CBC, symBinAddr: 0x9298, symSize: 0x128 }
+  - { offsetInCU: 0x64A0, offset: 0x1B04D, size: 0x8, addend: 0x0, symName: '-[SRKeyCodeTransformer reverseTransformedValue:]', symObjAddr: 0x4DE4, symBinAddr: 0x93C0, symSize: 0x8 }
+  - { offsetInCU: 0x64DE, offset: 0x1B08B, size: 0x8, addend: 0x0, symName: '-[SRKeyCodeTransformer .cxx_destruct]', symObjAddr: 0x4DEC, symBinAddr: 0x93C8, symSize: 0x13 }
+  - { offsetInCU: 0x6510, offset: 0x1B0BD, size: 0x8, addend: 0x0, symName: '___48+[SRLiteralKeyCodeTransformer sharedTransformer]_block_invoke', symObjAddr: 0x4E2F, symBinAddr: 0x940B, symSize: 0x2D }
+  - { offsetInCU: 0x654F, offset: 0x1B0FC, size: 0x8, addend: 0x0, symName: '-[SRLiteralKeyCodeTransformer init]', symObjAddr: 0x4E5C, symBinAddr: 0x9438, symSize: 0x6D }
+  - { offsetInCU: 0x659A, offset: 0x1B147, size: 0x8, addend: 0x0, symName: ___Block_byref_object_copy_, symObjAddr: 0x5032, symBinAddr: 0x960E, symSize: 0x16 }
+  - { offsetInCU: 0x65BF, offset: 0x1B16C, size: 0x8, addend: 0x0, symName: ___Block_byref_object_dispose_, symObjAddr: 0x5048, symBinAddr: 0x9624, symSize: 0xF }
+  - { offsetInCU: 0x65E9, offset: 0x1B196, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56s64r, symObjAddr: 0x515B, symBinAddr: 0x9737, symSize: 0x52 }
+  - { offsetInCU: 0x663E, offset: 0x1B1EB, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s64r, symObjAddr: 0x51AD, symBinAddr: 0x9789, symSize: 0x41 }
+  - { offsetInCU: 0x6689, offset: 0x1B236, size: 0x8, addend: 0x0, symName: '___49+[SRSymbolicKeyCodeTransformer sharedTransformer]_block_invoke', symObjAddr: 0x521E, symBinAddr: 0x97FA, symSize: 0x2D }
+  - { offsetInCU: 0x66C8, offset: 0x1B275, size: 0x8, addend: 0x0, symName: '-[SRSymbolicKeyCodeTransformer init]', symObjAddr: 0x524B, symBinAddr: 0x9827, symSize: 0x6D }
+  - { offsetInCU: 0x6713, offset: 0x1B2C0, size: 0x8, addend: 0x0, symName: '___53+[SRASCIILiteralKeyCodeTransformer sharedTransformer]_block_invoke', symObjAddr: 0x5555, symBinAddr: 0x9B31, symSize: 0x2D }
+  - { offsetInCU: 0x6752, offset: 0x1B2FF, size: 0x8, addend: 0x0, symName: '-[SRASCIILiteralKeyCodeTransformer init]', symObjAddr: 0x5582, symBinAddr: 0x9B5E, symSize: 0x6D }
+  - { offsetInCU: 0x679D, offset: 0x1B34A, size: 0x8, addend: 0x0, symName: '+[SRASCIILiteralKeyCodeTransformer allowsReverseTransformation]', symObjAddr: 0x585C, symBinAddr: 0x9E38, symSize: 0xB }
+  - { offsetInCU: 0x67CF, offset: 0x1B37C, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48r, symObjAddr: 0x63F8, symBinAddr: 0xA9D4, symSize: 0x44 }
+  - { offsetInCU: 0x680E, offset: 0x1B3BB, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48r, symObjAddr: 0x643C, symBinAddr: 0xAA18, symSize: 0x33 }
+  - { offsetInCU: 0x6843, offset: 0x1B3F0, size: 0x8, addend: 0x0, symName: '___54+[SRASCIISymbolicKeyCodeTransformer sharedTransformer]_block_invoke', symObjAddr: 0x649F, symBinAddr: 0xAA7B, symSize: 0x2D }
+  - { offsetInCU: 0x6882, offset: 0x1B42F, size: 0x8, addend: 0x0, symName: '-[SRASCIISymbolicKeyCodeTransformer init]', symObjAddr: 0x64CC, symBinAddr: 0xAAA8, symSize: 0x6D }
+  - { offsetInCU: 0x68CD, offset: 0x1B47A, size: 0x8, addend: 0x0, symName: '+[SRASCIISymbolicKeyCodeTransformer allowsReverseTransformation]', symObjAddr: 0x67A6, symBinAddr: 0xAD82, symSize: 0xB }
+  - { offsetInCU: 0x27, offset: 0x1C008, size: 0x8, addend: 0x0, symName: '+[SRKeyEquivalentModifierMaskTransformer sharedTransformer]', symObjAddr: 0x0, symBinAddr: 0xB67C, symSize: 0x30 }
+  - { offsetInCU: 0x34, offset: 0x1C015, size: 0x8, addend: 0x0, symName: '+[SRKeyEquivalentModifierMaskTransformer sharedTransformer]', symObjAddr: 0x0, symBinAddr: 0xB67C, symSize: 0x30 }
+  - { offsetInCU: 0x5D, offset: 0x1C03E, size: 0x8, addend: 0x0, symName: _sharedTransformer.OnceToken, symObjAddr: 0x2438, symBinAddr: 0x466E8, symSize: 0x0 }
+  - { offsetInCU: 0x72, offset: 0x1C053, size: 0x8, addend: 0x0, symName: _sharedTransformer.Transformer, symObjAddr: 0x2440, symBinAddr: 0x466F0, symSize: 0x0 }
+  - { offsetInCU: 0x1A8, offset: 0x1C189, size: 0x8, addend: 0x0, symName: '___59+[SRKeyEquivalentModifierMaskTransformer sharedTransformer]_block_invoke', symObjAddr: 0x30, symBinAddr: 0xB6AC, symSize: 0x2D }
+  - { offsetInCU: 0x1E3, offset: 0x1C1C4, size: 0x8, addend: 0x0, symName: '+[SRKeyEquivalentModifierMaskTransformer allowsReverseTransformation]', symObjAddr: 0x5D, symBinAddr: 0xB6D9, symSize: 0x8 }
+  - { offsetInCU: 0x213, offset: 0x1C1F4, size: 0x8, addend: 0x0, symName: '+[SRKeyEquivalentModifierMaskTransformer transformedValueClass]', symObjAddr: 0x65, symBinAddr: 0xB6E1, symSize: 0x19 }
+  - { offsetInCU: 0x24E, offset: 0x1C22F, size: 0x8, addend: 0x0, symName: '-[SRKeyEquivalentModifierMaskTransformer transformedValue:]', symObjAddr: 0x7E, symBinAddr: 0xB6FA, symSize: 0xE6 }
+  - { offsetInCU: 0x27, offset: 0x1C44E, size: 0x8, addend: 0x0, symName: '+[SRKeyEquivalentTransformer sharedTransformer]', symObjAddr: 0x0, symBinAddr: 0xB7E0, symSize: 0x30 }
+  - { offsetInCU: 0x34, offset: 0x1C45B, size: 0x8, addend: 0x0, symName: '+[SRKeyEquivalentTransformer sharedTransformer]', symObjAddr: 0x0, symBinAddr: 0xB7E0, symSize: 0x30 }
+  - { offsetInCU: 0x5D, offset: 0x1C484, size: 0x8, addend: 0x0, symName: _sharedTransformer.OnceToken, symObjAddr: 0x26C0, symBinAddr: 0x466F8, symSize: 0x0 }
+  - { offsetInCU: 0x72, offset: 0x1C499, size: 0x8, addend: 0x0, symName: _sharedTransformer.Transformer, symObjAddr: 0x26C8, symBinAddr: 0x46700, symSize: 0x0 }
+  - { offsetInCU: 0x1A0, offset: 0x1C5C7, size: 0x8, addend: 0x0, symName: '___47+[SRKeyEquivalentTransformer sharedTransformer]_block_invoke', symObjAddr: 0x30, symBinAddr: 0xB810, symSize: 0x2D }
+  - { offsetInCU: 0x1DB, offset: 0x1C602, size: 0x8, addend: 0x0, symName: '+[SRKeyEquivalentTransformer allowsReverseTransformation]', symObjAddr: 0x5D, symBinAddr: 0xB83D, symSize: 0x8 }
+  - { offsetInCU: 0x20B, offset: 0x1C632, size: 0x8, addend: 0x0, symName: '+[SRKeyEquivalentTransformer transformedValueClass]', symObjAddr: 0x65, symBinAddr: 0xB845, symSize: 0x19 }
+  - { offsetInCU: 0x246, offset: 0x1C66D, size: 0x8, addend: 0x0, symName: '-[SRKeyEquivalentTransformer transformedValue:]', symObjAddr: 0x7E, symBinAddr: 0xB85E, symSize: 0x1AE }
+  - { offsetInCU: 0x27, offset: 0x1C8FE, size: 0x8, addend: 0x0, symName: '-[SRModifierFlagsTransformer init]', symObjAddr: 0x0, symBinAddr: 0xBA0C, symSize: 0x9F }
+  - { offsetInCU: 0x34, offset: 0x1C90B, size: 0x8, addend: 0x0, symName: '+[SRLiteralModifierFlagsTransformer sharedTransformer]', symObjAddr: 0x190, symBinAddr: 0xBB9C, symSize: 0x30 }
+  - { offsetInCU: 0x5D, offset: 0x1C934, size: 0x8, addend: 0x0, symName: _sharedTransformer.OnceToken, symObjAddr: 0x60A0, symBinAddr: 0x46708, symSize: 0x0 }
+  - { offsetInCU: 0x72, offset: 0x1C949, size: 0x8, addend: 0x0, symName: _sharedTransformer.Transformer, symObjAddr: 0x60A8, symBinAddr: 0x46710, symSize: 0x0 }
+  - { offsetInCU: 0x157, offset: 0x1CA2E, size: 0x8, addend: 0x0, symName: '-[SRLiteralModifierFlagsTransformer transformedValue:layoutDirection:]', symObjAddr: 0x1ED, symBinAddr: 0xBBF9, symSize: 0x284 }
+  - { offsetInCU: 0x434, offset: 0x1CD0B, size: 0x8, addend: 0x0, symName: '+[SRSymbolicModifierFlagsTransformer sharedTransformer]', symObjAddr: 0x471, symBinAddr: 0xBE7D, symSize: 0x30 }
+  - { offsetInCU: 0x45D, offset: 0x1CD34, size: 0x8, addend: 0x0, symName: _sharedTransformer.OnceToken.51, symObjAddr: 0x60B0, symBinAddr: 0x46718, symSize: 0x0 }
+  - { offsetInCU: 0x472, offset: 0x1CD49, size: 0x8, addend: 0x0, symName: _sharedTransformer.Transformer.52, symObjAddr: 0x60B8, symBinAddr: 0x46720, symSize: 0x0 }
+  - { offsetInCU: 0x4BC, offset: 0x1CD93, size: 0x8, addend: 0x0, symName: '-[SRSymbolicModifierFlagsTransformer transformedValue:layoutDirection:]', symObjAddr: 0x4D9, symBinAddr: 0xBEE5, symSize: 0x1EE }
+  - { offsetInCU: 0x6E0, offset: 0x1CFB7, size: 0x8, addend: 0x0, symName: '-[SRSymbolicModifierFlagsTransformer reverseTransformedValue:]', symObjAddr: 0x6C7, symBinAddr: 0xC0D3, symSize: 0x1E2 }
+  - { offsetInCU: 0x95D, offset: 0x1D234, size: 0x8, addend: 0x0, symName: '-[SRModifierFlagsTransformer init]', symObjAddr: 0x0, symBinAddr: 0xBA0C, symSize: 0x9F }
+  - { offsetInCU: 0x9E4, offset: 0x1D2BB, size: 0x8, addend: 0x0, symName: '+[SRModifierFlagsTransformer sharedTransformer]', symObjAddr: 0x9F, symBinAddr: 0xBAAB, symSize: 0x19 }
+  - { offsetInCU: 0xA1F, offset: 0x1D2F6, size: 0x8, addend: 0x0, symName: '+[SRModifierFlagsTransformer sharedPlainTransformer]', symObjAddr: 0xB8, symBinAddr: 0xBAC4, symSize: 0x19 }
+  - { offsetInCU: 0xA5A, offset: 0x1D331, size: 0x8, addend: 0x0, symName: '-[SRModifierFlagsTransformer initWithPlainStrings:]', symObjAddr: 0xD1, symBinAddr: 0xBADD, symSize: 0x4A }
+  - { offsetInCU: 0xABA, offset: 0x1D391, size: 0x8, addend: 0x0, symName: '-[SRModifierFlagsTransformer usesPlainStrings]', symObjAddr: 0x11B, symBinAddr: 0xBB27, symSize: 0x38 }
+  - { offsetInCU: 0xB0C, offset: 0x1D3E3, size: 0x8, addend: 0x0, symName: '+[SRModifierFlagsTransformer transformedValueClass]', symObjAddr: 0x153, symBinAddr: 0xBB5F, symSize: 0x19 }
+  - { offsetInCU: 0xB47, offset: 0x1D41E, size: 0x8, addend: 0x0, symName: '+[SRModifierFlagsTransformer allowsReverseTransformation]', symObjAddr: 0x16C, symBinAddr: 0xBB78, symSize: 0x8 }
+  - { offsetInCU: 0xB77, offset: 0x1D44E, size: 0x8, addend: 0x0, symName: '-[SRModifierFlagsTransformer transformedValue:layoutDirection:]', symObjAddr: 0x174, symBinAddr: 0xBB80, symSize: 0x8 }
+  - { offsetInCU: 0xBBD, offset: 0x1D494, size: 0x8, addend: 0x0, symName: '-[SRModifierFlagsTransformer transformedValue:]', symObjAddr: 0x17C, symBinAddr: 0xBB88, symSize: 0x14 }
+  - { offsetInCU: 0xC69, offset: 0x1D540, size: 0x8, addend: 0x0, symName: '___54+[SRLiteralModifierFlagsTransformer sharedTransformer]_block_invoke', symObjAddr: 0x1C0, symBinAddr: 0xBBCC, symSize: 0x2D }
+  - { offsetInCU: 0xCBC, offset: 0x1D593, size: 0x8, addend: 0x0, symName: '___55+[SRSymbolicModifierFlagsTransformer sharedTransformer]_block_invoke', symObjAddr: 0x4A1, symBinAddr: 0xBEAD, symSize: 0x2D }
+  - { offsetInCU: 0xCF7, offset: 0x1D5CE, size: 0x8, addend: 0x0, symName: '+[SRSymbolicModifierFlagsTransformer allowsReverseTransformation]', symObjAddr: 0x4CE, symBinAddr: 0xBEDA, symSize: 0xB }
+  - { offsetInCU: 0xD27, offset: 0x1D5FE, size: 0x8, addend: 0x0, symName: '___62-[SRSymbolicModifierFlagsTransformer reverseTransformedValue:]_block_invoke', symObjAddr: 0x8A9, symBinAddr: 0xC2B5, symSize: 0x122 }
+  - { offsetInCU: 0xE29, offset: 0x1D700, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32r40r, symObjAddr: 0x9CB, symBinAddr: 0xC3D7, symSize: 0x38 }
+  - { offsetInCU: 0xE52, offset: 0x1D729, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32r40r, symObjAddr: 0xA03, symBinAddr: 0xC40F, symSize: 0x2B }
+  - { offsetInCU: 0x27, offset: 0x1DAE0, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl initWithFrame:]', symObjAddr: 0x0, symBinAddr: 0xC43A, symSize: 0x5D }
+  - { offsetInCU: 0x40, offset: 0x1DAF9, size: 0x8, addend: 0x0, symName: _SRRecorderControlLabelWidthPriority, symObjAddr: 0x9088, symBinAddr: 0x2D170, symSize: 0x0 }
+  - { offsetInCU: 0x1E4, offset: 0x1DC9D, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl beginRecording]', symObjAddr: 0x1B5C, symBinAddr: 0xDF96, symSize: 0x102 }
+  - { offsetInCU: 0x29D, offset: 0x1DD56, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl endRecording]', symObjAddr: 0x2265, symBinAddr: 0xE65D, symSize: 0x6A }
+  - { offsetInCU: 0x304, offset: 0x1DDBD, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl clearAndEndRecording]', symObjAddr: 0x22F0, symBinAddr: 0xE6E8, symSize: 0x6A }
+  - { offsetInCU: 0x36B, offset: 0x1DE24, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl endRecordingWithObjectValue:]', symObjAddr: 0x2372, symBinAddr: 0xE76A, symSize: 0x10D }
+  - { offsetInCU: 0x462, offset: 0x1DF1B, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl drawBackground:]', symObjAddr: 0x2F30, symBinAddr: 0xF2FC, symSize: 0x8A1 }
+  - { offsetInCU: 0xB4E, offset: 0x1E607, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl areModifierFlagsValid:forKeyCode:]', symObjAddr: 0x4099, symBinAddr: 0x10465, symSize: 0xA9 }
+  - { offsetInCU: 0xBDB, offset: 0x1E694, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl areModifierFlagsAllowed:forKeyCode:]', symObjAddr: 0x4212, symBinAddr: 0x105DE, symSize: 0x12B }
+  - { offsetInCU: 0xCA1, offset: 0x1E75A, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl propagateValue:forBinding:]', symObjAddr: 0x44AC, symBinAddr: 0x10878, symSize: 0x4D7 }
+  - { offsetInCU: 0x10CA, offset: 0x1EB83, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl canCaptureKeyEvent]', symObjAddr: 0x4AD8, symBinAddr: 0x10EA4, symSize: 0x173 }
+  - { offsetInCU: 0x1468, offset: 0x1EF21, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl canEndRecordingWithObjectValue:]', symObjAddr: 0x4C4B, symBinAddr: 0x11017, symSize: 0x133 }
+  - { offsetInCU: 0x1560, offset: 0x1F019, size: 0x8, addend: 0x0, symName: '___52-[SRRecorderControl canEndRecordingWithObjectValue:]_block_invoke.437', symObjAddr: 0x4F2F, symBinAddr: 0x112FB, symSize: 0x197 }
+  - { offsetInCU: 0x1909, offset: 0x1F3C2, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl updateTrackingAreas]', symObjAddr: 0x64F1, symBinAddr: 0x128BD, symSize: 0x64E }
+  - { offsetInCU: 0x1C81, offset: 0x1F73A, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl performKeyEquivalent:]', symObjAddr: 0x81F8, symBinAddr: 0x145C4, symSize: 0xD4 }
+  - { offsetInCU: 0x1D2D, offset: 0x1F7E6, size: 0x8, addend: 0x0, symName: '___42-[SRRecorderControl performKeyEquivalent:]_block_invoke', symObjAddr: 0x82CC, symBinAddr: 0x14698, symSize: 0x2E9 }
+  - { offsetInCU: 0x225A, offset: 0x1FD13, size: 0x8, addend: 0x0, symName: __SRStyleUserInterfaceLayoutDirectionObservingContext, symObjAddr: 0xC858, symBinAddr: 0x46180, symSize: 0x0 }
+  - { offsetInCU: 0x2270, offset: 0x1FD29, size: 0x8, addend: 0x0, symName: __SRStyleAppearanceObservingContext, symObjAddr: 0xC860, symBinAddr: 0x46188, symSize: 0x0 }
+  - { offsetInCU: 0x2285, offset: 0x1FD3E, size: 0x8, addend: 0x0, symName: __SRStyleGuideObservingContext, symObjAddr: 0xC868, symBinAddr: 0x46190, symSize: 0x0 }
+  - { offsetInCU: 0x2C37, offset: 0x206F0, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl initWithFrame:]', symObjAddr: 0x0, symBinAddr: 0xC43A, symSize: 0x5D }
+  - { offsetInCU: 0x2C8C, offset: 0x20745, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl initInternalState]', symObjAddr: 0x5D, symBinAddr: 0xC497, symSize: 0x1C9 }
+  - { offsetInCU: 0x2DB1, offset: 0x2086A, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl dealloc]', symObjAddr: 0x226, symBinAddr: 0xC660, symSize: 0x210 }
+  - { offsetInCU: 0x2F40, offset: 0x209F9, size: 0x8, addend: 0x0, symName: '+[SRRecorderControl automaticallyNotifiesObserversOfValue]', symObjAddr: 0x436, symBinAddr: 0xC870, symSize: 0x8 }
+  - { offsetInCU: 0x2F70, offset: 0x20A29, size: 0x8, addend: 0x0, symName: '+[SRRecorderControl automaticallyNotifiesObserversOfObjectValue]', symObjAddr: 0x43E, symBinAddr: 0xC878, symSize: 0x8 }
+  - { offsetInCU: 0x2FA0, offset: 0x20A59, size: 0x8, addend: 0x0, symName: '+[SRRecorderControl automaticallyNotifiesObserversOfStringValue]', symObjAddr: 0x446, symBinAddr: 0xC880, symSize: 0x8 }
+  - { offsetInCU: 0x2FD0, offset: 0x20A89, size: 0x8, addend: 0x0, symName: '+[SRRecorderControl automaticallyNotifiesObserversOfAttributedStringValue]', symObjAddr: 0x44E, symBinAddr: 0xC888, symSize: 0x8 }
+  - { offsetInCU: 0x3000, offset: 0x20AB9, size: 0x8, addend: 0x0, symName: '+[SRRecorderControl keyPathsForValuesAffectingDictionaryValue]', symObjAddr: 0x456, symBinAddr: 0xC890, symSize: 0x20 }
+  - { offsetInCU: 0x303B, offset: 0x20AF4, size: 0x8, addend: 0x0, symName: '+[SRRecorderControl keyPathsForValuesAffectingStringValue]', symObjAddr: 0x476, symBinAddr: 0xC8B0, symSize: 0x37 }
+  - { offsetInCU: 0x307D, offset: 0x20B36, size: 0x8, addend: 0x0, symName: '+[SRRecorderControl keyPathsForValuesAffectingAttributedStringValue]', symObjAddr: 0x4AD, symBinAddr: 0xC8E7, symSize: 0x20 }
+  - { offsetInCU: 0x30B8, offset: 0x20B71, size: 0x8, addend: 0x0, symName: '+[SRRecorderControl keyPathsForValuesAffectingUserInterfaceLayoutDirection]', symObjAddr: 0x4CD, symBinAddr: 0xC907, symSize: 0x20 }
+  - { offsetInCU: 0x30F3, offset: 0x20BAC, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl setAllowedModifierFlags:requiredModifierFlags:allowsEmptyModifierFlags:]', symObjAddr: 0x4ED, symBinAddr: 0xC927, symSize: 0x179 }
+  - { offsetInCU: 0x3217, offset: 0x20CD0, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl objectValue]', symObjAddr: 0x666, symBinAddr: 0xCAA0, symSize: 0x42 }
+  - { offsetInCU: 0x3261, offset: 0x20D1A, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl setObjectValue:]', symObjAddr: 0x6A8, symBinAddr: 0xCAE2, symSize: 0x28B }
+  - { offsetInCU: 0x345C, offset: 0x20F15, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl dictionaryValue]', symObjAddr: 0x933, symBinAddr: 0xCD6D, symSize: 0x1D }
+  - { offsetInCU: 0x349C, offset: 0x20F55, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl setDictionaryValue:]', symObjAddr: 0x950, symBinAddr: 0xCD8A, symSize: 0x53 }
+  - { offsetInCU: 0x350E, offset: 0x20FC7, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl value]', symObjAddr: 0x9A3, symBinAddr: 0xCDDD, symSize: 0x12 }
+  - { offsetInCU: 0x3556, offset: 0x2100F, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl setValue:]', symObjAddr: 0x9B5, symBinAddr: 0xCDEF, symSize: 0x69 }
+  - { offsetInCU: 0x3600, offset: 0x210B9, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl style]', symObjAddr: 0xA1E, symBinAddr: 0xCE58, symSize: 0x81 }
+  - { offsetInCU: 0x3664, offset: 0x2111D, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl setStyle:]', symObjAddr: 0xA9F, symBinAddr: 0xCED9, symSize: 0x9F }
+  - { offsetInCU: 0x3725, offset: 0x211DE, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl _setStyle:]', symObjAddr: 0xB3E, symBinAddr: 0xCF78, symSize: 0x4E9 }
+  - { offsetInCU: 0x3AC7, offset: 0x21580, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl focusRingShape]', symObjAddr: 0x1027, symBinAddr: 0xD461, symSize: 0x2DE }
+  - { offsetInCU: 0x3C54, offset: 0x2170D, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl isMainButtonHighlighted]', symObjAddr: 0x1305, symBinAddr: 0xD73F, symSize: 0xBE }
+  - { offsetInCU: 0x3D09, offset: 0x217C2, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl isCancelButtonHighlighted]', symObjAddr: 0x13C3, symBinAddr: 0xD7FD, symSize: 0x200 }
+  - { offsetInCU: 0x3E7F, offset: 0x21938, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl isClearButtonHighlighted]', symObjAddr: 0x15C3, symBinAddr: 0xD9FD, symSize: 0x208 }
+  - { offsetInCU: 0x3FF5, offset: 0x21AAE, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl drawingLabel]', symObjAddr: 0x17CB, symBinAddr: 0xDC05, symSize: 0x260 }
+  - { offsetInCU: 0x418F, offset: 0x21C48, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl drawingLabelAttributes]', symObjAddr: 0x1A2B, symBinAddr: 0xDE65, symSize: 0x110 }
+  - { offsetInCU: 0x4263, offset: 0x21D1C, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl makeDefaultStyle]', symObjAddr: 0x1B3B, symBinAddr: 0xDF75, symSize: 0x21 }
+  - { offsetInCU: 0x429F, offset: 0x21D58, size: 0x8, addend: 0x0, symName: '___35-[SRRecorderControl beginRecording]_block_invoke', symObjAddr: 0x1C5E, symBinAddr: 0xE098, symSize: 0xF6 }
+  - { offsetInCU: 0x4383, offset: 0x21E3C, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s, symObjAddr: 0x1D54, symBinAddr: 0xE18E, symSize: 0xF }
+  - { offsetInCU: 0x43B5, offset: 0x21E6E, size: 0x8, addend: 0x0, symName: '___35-[SRRecorderControl beginRecording]_block_invoke.222', symObjAddr: 0x1D72, symBinAddr: 0xE19D, symSize: 0x47E }
+  - { offsetInCU: 0x4713, offset: 0x221CC, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40b48r, symObjAddr: 0x21F0, symBinAddr: 0xE61B, symSize: 0x42 }
+  - { offsetInCU: 0x4747, offset: 0x22200, size: 0x8, addend: 0x0, symName: '___33-[SRRecorderControl endRecording]_block_invoke', symObjAddr: 0x22CF, symBinAddr: 0xE6C7, symSize: 0x21 }
+  - { offsetInCU: 0x4793, offset: 0x2224C, size: 0x8, addend: 0x0, symName: '___41-[SRRecorderControl clearAndEndRecording]_block_invoke', symObjAddr: 0x235A, symBinAddr: 0xE752, symSize: 0x18 }
+  - { offsetInCU: 0x47E6, offset: 0x2229F, size: 0x8, addend: 0x0, symName: '___49-[SRRecorderControl endRecordingWithObjectValue:]_block_invoke', symObjAddr: 0x247F, symBinAddr: 0xE877, symSize: 0xFB }
+  - { offsetInCU: 0x48C6, offset: 0x2237F, size: 0x8, addend: 0x0, symName: '___49-[SRRecorderControl endRecordingWithObjectValue:]_block_invoke_2', symObjAddr: 0x257A, symBinAddr: 0xE972, symSize: 0x433 }
+  - { offsetInCU: 0x4C19, offset: 0x226D2, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48b, symObjAddr: 0x29AD, symBinAddr: 0xEDA5, symSize: 0x44 }
+  - { offsetInCU: 0x4C58, offset: 0x22711, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl updateActiveConstraints]', symObjAddr: 0x2A1D, symBinAddr: 0xEDE9, symSize: 0x384 }
+  - { offsetInCU: 0x4F46, offset: 0x229FF, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl updateLabelConstraints]', symObjAddr: 0x2DA1, symBinAddr: 0xF16D, symSize: 0x18F }
+  - { offsetInCU: 0x510E, offset: 0x22BC7, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl drawInterior:]', symObjAddr: 0x37D1, symBinAddr: 0xFB9D, symSize: 0x94 }
+  - { offsetInCU: 0x51B3, offset: 0x22C6C, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl drawLabel:]', symObjAddr: 0x3865, symBinAddr: 0xFC31, symSize: 0x33A }
+  - { offsetInCU: 0x5467, offset: 0x22F20, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl drawCancelButton:]', symObjAddr: 0x3B9F, symBinAddr: 0xFF6B, symSize: 0x27D }
+  - { offsetInCU: 0x5606, offset: 0x230BF, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl drawClearButton:]', symObjAddr: 0x3E1C, symBinAddr: 0x101E8, symSize: 0x27D }
+  - { offsetInCU: 0x57A5, offset: 0x2325E, size: 0x8, addend: 0x0, symName: '___54-[SRRecorderControl areModifierFlagsValid:forKeyCode:]_block_invoke', symObjAddr: 0x4142, symBinAddr: 0x1050E, symSize: 0x79 }
+  - { offsetInCU: 0x5845, offset: 0x232FE, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40r, symObjAddr: 0x41BB, symBinAddr: 0x10587, symSize: 0x30 }
+  - { offsetInCU: 0x5879, offset: 0x23332, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40r, symObjAddr: 0x41EB, symBinAddr: 0x105B7, symSize: 0x27 }
+  - { offsetInCU: 0x58A3, offset: 0x2335C, size: 0x8, addend: 0x0, symName: '___56-[SRRecorderControl areModifierFlagsAllowed:forKeyCode:]_block_invoke', symObjAddr: 0x433D, symBinAddr: 0x10709, symSize: 0x108 }
+  - { offsetInCU: 0x59A7, offset: 0x23460, size: 0x8, addend: 0x0, symName: '___56-[SRRecorderControl areModifierFlagsAllowed:forKeyCode:]_block_invoke.396', symObjAddr: 0x4445, symBinAddr: 0x10811, symSize: 0x5D }
+  - { offsetInCU: 0x5A39, offset: 0x234F2, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl playAlert]', symObjAddr: 0x44A2, symBinAddr: 0x1086E, symSize: 0xA }
+  - { offsetInCU: 0x5A7D, offset: 0x23536, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl controlTintDidChange:]', symObjAddr: 0x4983, symBinAddr: 0x10D4F, symSize: 0x12 }
+  - { offsetInCU: 0x5AD8, offset: 0x23591, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl accessibilityDisplayOptionsDidChange:]', symObjAddr: 0x4995, symBinAddr: 0x10D61, symSize: 0x12 }
+  - { offsetInCU: 0x5B33, offset: 0x235EC, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl scheduleControlViewAppearanceDidChange:]', symObjAddr: 0x49A7, symBinAddr: 0x10D73, symSize: 0x131 }
+  - { offsetInCU: 0x5C1F, offset: 0x236D8, size: 0x8, addend: 0x0, symName: '___52-[SRRecorderControl canEndRecordingWithObjectValue:]_block_invoke', symObjAddr: 0x4D7E, symBinAddr: 0x1114A, symSize: 0x1B1 }
+  - { offsetInCU: 0x5DB4, offset: 0x2386D, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48b56r, symObjAddr: 0x50C6, symBinAddr: 0x11492, symSize: 0x56 }
+  - { offsetInCU: 0x5DF3, offset: 0x238AC, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56r, symObjAddr: 0x511C, symBinAddr: 0x114E8, symSize: 0x3A }
+  - { offsetInCU: 0x5E33, offset: 0x238EC, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl isAccessibilityElement]', symObjAddr: 0x5156, symBinAddr: 0x11522, symSize: 0xB }
+  - { offsetInCU: 0x5E65, offset: 0x2391E, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl isAccessibilityEnabled]', symObjAddr: 0x5161, symBinAddr: 0x1152D, symSize: 0x12 }
+  - { offsetInCU: 0x5EAE, offset: 0x23967, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl accessibilityLabel]', symObjAddr: 0x5173, symBinAddr: 0x1153F, symSize: 0xDC }
+  - { offsetInCU: 0x5F3B, offset: 0x239F4, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl accessibilityValue]', symObjAddr: 0x524F, symBinAddr: 0x1161B, symSize: 0x26D }
+  - { offsetInCU: 0x60E0, offset: 0x23B99, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl accessibilityHelp]', symObjAddr: 0x54BC, symBinAddr: 0x11888, symSize: 0x8 }
+  - { offsetInCU: 0x6111, offset: 0x23BCA, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl accessibilityRole]', symObjAddr: 0x54C4, symBinAddr: 0x11890, symSize: 0x14 }
+  - { offsetInCU: 0x6142, offset: 0x23BFB, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl accessibilityRoleDescription]', symObjAddr: 0x54D8, symBinAddr: 0x118A4, symSize: 0x69 }
+  - { offsetInCU: 0x61B4, offset: 0x23C6D, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl accessibilityHitTest:]', symObjAddr: 0x5541, symBinAddr: 0x1190D, symSize: 0x9 }
+  - { offsetInCU: 0x61F5, offset: 0x23CAE, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl accessibilityPerformPress]', symObjAddr: 0x554A, symBinAddr: 0x11916, symSize: 0x12 }
+  - { offsetInCU: 0x623E, offset: 0x23CF7, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl accessibilityPerformCancel]', symObjAddr: 0x555C, symBinAddr: 0x11928, symSize: 0x3A }
+  - { offsetInCU: 0x6299, offset: 0x23D52, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl accessibilityPerformDelete]', symObjAddr: 0x5596, symBinAddr: 0x11962, symSize: 0x48 }
+  - { offsetInCU: 0x62F4, offset: 0x23DAD, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl commitEditing]', symObjAddr: 0x55DE, symBinAddr: 0x119AA, symSize: 0x18 }
+  - { offsetInCU: 0x633D, offset: 0x23DF6, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl commitEditingWithDelegate:didCommitSelector:contextInfo:]', symObjAddr: 0x55F6, symBinAddr: 0x119C2, symSize: 0x190 }
+  - { offsetInCU: 0x6502, offset: 0x23FBB, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl commitEditingAndReturnError:]', symObjAddr: 0x5786, symBinAddr: 0x11B52, symSize: 0x12 }
+  - { offsetInCU: 0x6558, offset: 0x24011, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl discardEditing]', symObjAddr: 0x5798, symBinAddr: 0x11B64, symSize: 0x12 }
+  - { offsetInCU: 0x659D, offset: 0x24056, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl prepareForInterfaceBuilder]', symObjAddr: 0x57AA, symBinAddr: 0x11B76, symSize: 0x8A }
+  - { offsetInCU: 0x65FE, offset: 0x240B7, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl view:stringForToolTip:point:userData:]', symObjAddr: 0x5834, symBinAddr: 0x11C00, symSize: 0x1E7 }
+  - { offsetInCU: 0x6749, offset: 0x24202, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl initWithCoder:]', symObjAddr: 0x5A1B, symBinAddr: 0x11DE7, symSize: 0x4C }
+  - { offsetInCU: 0x67A0, offset: 0x24259, size: 0x8, addend: 0x0, symName: '+[SRRecorderControl cellClass]', symObjAddr: 0x5A67, symBinAddr: 0x11E33, symSize: 0x8 }
+  - { offsetInCU: 0x67D1, offset: 0x2428A, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl attributedStringValue]', symObjAddr: 0x5A6F, symBinAddr: 0x11E3B, symSize: 0x69 }
+  - { offsetInCU: 0x6835, offset: 0x242EE, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl setAttributedStringValue:]', symObjAddr: 0x5AD8, symBinAddr: 0x11EA4, symSize: 0x7B }
+  - { offsetInCU: 0x68C4, offset: 0x2437D, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl stringValue]', symObjAddr: 0x5B53, symBinAddr: 0x11F1F, symSize: 0x28E }
+  - { offsetInCU: 0x6A7E, offset: 0x24537, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl setStringValue:]', symObjAddr: 0x5DE1, symBinAddr: 0x121AD, symSize: 0x53 }
+  - { offsetInCU: 0x6AF0, offset: 0x245A9, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl isHighlighted]', symObjAddr: 0x5E34, symBinAddr: 0x12200, symSize: 0x12 }
+  - { offsetInCU: 0x6B39, offset: 0x245F2, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl abortEditing]', symObjAddr: 0x5E46, symBinAddr: 0x12212, symSize: 0x15 }
+  - { offsetInCU: 0x6B82, offset: 0x2463B, size: 0x8, addend: 0x0, symName: '+[SRRecorderControl requiresConstraintBasedLayout]', symObjAddr: 0x5E5B, symBinAddr: 0x12227, symSize: 0xB }
+  - { offsetInCU: 0x6BB4, offset: 0x2466D, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl isOpaque]', symObjAddr: 0x5E66, symBinAddr: 0x12232, symSize: 0x45 }
+  - { offsetInCU: 0x6C12, offset: 0x246CB, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl allowsVibrancy]', symObjAddr: 0x5EAB, symBinAddr: 0x12277, symSize: 0x45 }
+  - { offsetInCU: 0x6C70, offset: 0x24729, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl isFlipped]', symObjAddr: 0x5EF0, symBinAddr: 0x122BC, symSize: 0xB }
+  - { offsetInCU: 0x6CA2, offset: 0x2475B, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl setUserInterfaceLayoutDirection:]', symObjAddr: 0x5EFB, symBinAddr: 0x122C7, symSize: 0xB0 }
+  - { offsetInCU: 0x6DB3, offset: 0x2486C, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl userInterfaceLayoutDirection]', symObjAddr: 0x5FAB, symBinAddr: 0x12377, symSize: 0x142 }
+  - { offsetInCU: 0x6ECF, offset: 0x24988, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl drawRect:]', symObjAddr: 0x60ED, symBinAddr: 0x124B9, symSize: 0x47 }
+  - { offsetInCU: 0x6F37, offset: 0x249F0, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl drawFocusRingMask]', symObjAddr: 0x6134, symBinAddr: 0x12500, symSize: 0xBC }
+  - { offsetInCU: 0x6FD8, offset: 0x24A91, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl focusRingMaskBounds]', symObjAddr: 0x61F0, symBinAddr: 0x125BC, symSize: 0xE7 }
+  - { offsetInCU: 0x7070, offset: 0x24B29, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl alignmentRectInsets]', symObjAddr: 0x62D7, symBinAddr: 0x126A3, symSize: 0x5C }
+  - { offsetInCU: 0x70C2, offset: 0x24B7B, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl intrinsicContentSize]', symObjAddr: 0x6333, symBinAddr: 0x126FF, symSize: 0x5A }
+  - { offsetInCU: 0x7120, offset: 0x24BD9, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl baselineOffsetFromBottom]', symObjAddr: 0x638D, symBinAddr: 0x12759, symSize: 0xA0 }
+  - { offsetInCU: 0x71BA, offset: 0x24C73, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl firstBaselineOffsetFromTop]', symObjAddr: 0x642D, symBinAddr: 0x127F9, symSize: 0xC4 }
+  - { offsetInCU: 0x723C, offset: 0x24CF5, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl updateConstraints]', symObjAddr: 0x6B3F, symBinAddr: 0x12F0B, symSize: 0x53 }
+  - { offsetInCU: 0x7293, offset: 0x24D4C, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl prepareForReuse]', symObjAddr: 0x6B92, symBinAddr: 0x12F5E, symSize: 0x3E }
+  - { offsetInCU: 0x72D8, offset: 0x24D91, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl viewWillMoveToWindow:]', symObjAddr: 0x6BD0, symBinAddr: 0x12F9C, symSize: 0x2A1 }
+  - { offsetInCU: 0x750C, offset: 0x24FC5, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl viewDidChangeBackingProperties]', symObjAddr: 0x6E71, symBinAddr: 0x1323D, symSize: 0x43 }
+  - { offsetInCU: 0x7555, offset: 0x2500E, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl viewDidChangeEffectiveAppearance]', symObjAddr: 0x6EB4, symBinAddr: 0x13280, symSize: 0x43 }
+  - { offsetInCU: 0x759E, offset: 0x25057, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl acceptsFirstResponder]', symObjAddr: 0x6EF7, symBinAddr: 0x132C3, symSize: 0x3D }
+  - { offsetInCU: 0x75F9, offset: 0x250B2, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl resignFirstResponder]', symObjAddr: 0x6F34, symBinAddr: 0x13300, symSize: 0x50 }
+  - { offsetInCU: 0x7642, offset: 0x250FB, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl acceptsFirstMouse:]', symObjAddr: 0x6F84, symBinAddr: 0x13350, symSize: 0xB }
+  - { offsetInCU: 0x7681, offset: 0x2513A, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl canBecomeKeyView]', symObjAddr: 0x6F8F, symBinAddr: 0x1335B, symSize: 0x56 }
+  - { offsetInCU: 0x76C2, offset: 0x2517B, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl needsPanelToBecomeKey]', symObjAddr: 0x6FE5, symBinAddr: 0x133B1, symSize: 0xB }
+  - { offsetInCU: 0x76F4, offset: 0x251AD, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl mouseDown:]', symObjAddr: 0x6FF0, symBinAddr: 0x133BC, symSize: 0x73F }
+  - { offsetInCU: 0x7AF5, offset: 0x255AE, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl mouseUp:]', symObjAddr: 0x772F, symBinAddr: 0x13AFB, symSize: 0x539 }
+  - { offsetInCU: 0x7E03, offset: 0x258BC, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl mouseEntered:]', symObjAddr: 0x7C68, symBinAddr: 0x14034, symSize: 0x296 }
+  - { offsetInCU: 0x7F4B, offset: 0x25A04, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl mouseExited:]', symObjAddr: 0x7EFE, symBinAddr: 0x142CA, symSize: 0x296 }
+  - { offsetInCU: 0x8093, offset: 0x25B4C, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl keyDown:]', symObjAddr: 0x8194, symBinAddr: 0x14560, symSize: 0x64 }
+  - { offsetInCU: 0x810C, offset: 0x25BC5, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl flagsChanged:]', symObjAddr: 0x85F9, symBinAddr: 0x14981, symSize: 0x318 }
+  - { offsetInCU: 0x832C, offset: 0x25DE5, size: 0x8, addend: 0x0, symName: '+[SRRecorderControl initialize]', symObjAddr: 0x8911, symBinAddr: 0x14C99, symSize: 0x49 }
+  - { offsetInCU: 0x837C, offset: 0x25E35, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl valueClassForBinding:]', symObjAddr: 0x895A, symBinAddr: 0x14CE2, symSize: 0x9B }
+  - { offsetInCU: 0x8403, offset: 0x25EBC, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl optionDescriptionsForBinding:]', symObjAddr: 0x89F5, symBinAddr: 0x14D7D, symSize: 0x198 }
+  - { offsetInCU: 0x8586, offset: 0x2603F, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl observeValueForKeyPath:ofObject:change:context:]', symObjAddr: 0x8B8D, symBinAddr: 0x14F15, symSize: 0x2C0 }
+  - { offsetInCU: 0x8782, offset: 0x2623B, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl refusesFirstResponder]', symObjAddr: 0x8E4D, symBinAddr: 0x151D5, symSize: 0x11 }
+  - { offsetInCU: 0x87B7, offset: 0x26270, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl setRefusesFirstResponder:]', symObjAddr: 0x8E5E, symBinAddr: 0x151E6, symSize: 0x10 }
+  - { offsetInCU: 0x87F4, offset: 0x262AD, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl tag]', symObjAddr: 0x8E6E, symBinAddr: 0x151F6, symSize: 0x11 }
+  - { offsetInCU: 0x8829, offset: 0x262E2, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl setTag:]', symObjAddr: 0x8E7F, symBinAddr: 0x15207, symSize: 0x11 }
+  - { offsetInCU: 0x8866, offset: 0x2631F, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl delegate]', symObjAddr: 0x8E90, symBinAddr: 0x15218, symSize: 0x19 }
+  - { offsetInCU: 0x889B, offset: 0x26354, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl setDelegate:]', symObjAddr: 0x8EA9, symBinAddr: 0x15231, symSize: 0x14 }
+  - { offsetInCU: 0x88D8, offset: 0x26391, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl allowedModifierFlags]', symObjAddr: 0x8EBD, symBinAddr: 0x15245, symSize: 0x11 }
+  - { offsetInCU: 0x890C, offset: 0x263C5, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl requiredModifierFlags]', symObjAddr: 0x8ECE, symBinAddr: 0x15256, symSize: 0x11 }
+  - { offsetInCU: 0x8940, offset: 0x263F9, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl allowsEmptyModifierFlags]', symObjAddr: 0x8EDF, symBinAddr: 0x15267, symSize: 0x11 }
+  - { offsetInCU: 0x8974, offset: 0x2642D, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl drawsASCIIEquivalentOfShortcut]', symObjAddr: 0x8EF0, symBinAddr: 0x15278, symSize: 0x11 }
+  - { offsetInCU: 0x89A8, offset: 0x26461, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl setDrawsASCIIEquivalentOfShortcut:]', symObjAddr: 0x8F01, symBinAddr: 0x15289, symSize: 0x10 }
+  - { offsetInCU: 0x89E4, offset: 0x2649D, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl allowsEscapeToCancelRecording]', symObjAddr: 0x8F11, symBinAddr: 0x15299, symSize: 0x11 }
+  - { offsetInCU: 0x8A18, offset: 0x264D1, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl setAllowsEscapeToCancelRecording:]', symObjAddr: 0x8F22, symBinAddr: 0x152AA, symSize: 0x10 }
+  - { offsetInCU: 0x8A54, offset: 0x2650D, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl allowsDeleteToClearShortcutAndEndRecording]', symObjAddr: 0x8F32, symBinAddr: 0x152BA, symSize: 0x11 }
+  - { offsetInCU: 0x8A88, offset: 0x26541, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl setAllowsDeleteToClearShortcutAndEndRecording:]', symObjAddr: 0x8F43, symBinAddr: 0x152CB, symSize: 0x10 }
+  - { offsetInCU: 0x8AC4, offset: 0x2657D, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl pausesGlobalShortcutMonitorWhileRecording]', symObjAddr: 0x8F53, symBinAddr: 0x152DB, symSize: 0x11 }
+  - { offsetInCU: 0x8AF8, offset: 0x265B1, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl setPausesGlobalShortcutMonitorWhileRecording:]', symObjAddr: 0x8F64, symBinAddr: 0x152EC, symSize: 0x10 }
+  - { offsetInCU: 0x8B34, offset: 0x265ED, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl stringValueRespectsUserInterfaceLayoutDirection]', symObjAddr: 0x8F74, symBinAddr: 0x152FC, symSize: 0x11 }
+  - { offsetInCU: 0x8B68, offset: 0x26621, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl setStringValueRespectsUserInterfaceLayoutDirection:]', symObjAddr: 0x8F85, symBinAddr: 0x1530D, symSize: 0x10 }
+  - { offsetInCU: 0x8BA4, offset: 0x2665D, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl allowsModifierFlagsOnlyShortcut]', symObjAddr: 0x8F95, symBinAddr: 0x1531D, symSize: 0x11 }
+  - { offsetInCU: 0x8BD8, offset: 0x26691, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl setAllowsModifierFlagsOnlyShortcut:]', symObjAddr: 0x8FA6, symBinAddr: 0x1532E, symSize: 0x10 }
+  - { offsetInCU: 0x8C14, offset: 0x266CD, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl isRecording]', symObjAddr: 0x8FB6, symBinAddr: 0x1533E, symSize: 0x11 }
+  - { offsetInCU: 0x8C48, offset: 0x26701, size: 0x8, addend: 0x0, symName: '-[SRRecorderControl .cxx_destruct]', symObjAddr: 0x8FC7, symBinAddr: 0x1534F, symSize: 0x95 }
+  - { offsetInCU: 0x41, offset: 0x271D3, size: 0x8, addend: 0x0, symName: _SRMinimalDrawableWidthAttributeName, symObjAddr: 0xC438, symBinAddr: 0x389C8, symSize: 0x0 }
+  - { offsetInCU: 0x155, offset: 0x272E7, size: 0x8, addend: 0x0, symName: _SRRecorderControlStyleComponentsAppearanceFromSystem, symObjAddr: 0x0, symBinAddr: 0x153F0, symSize: 0x171 }
+  - { offsetInCU: 0x17A, offset: 0x2730C, size: 0x8, addend: 0x0, symName: _SRRecorderControlStyleComponentsAppearanceFromSystem.Map, symObjAddr: 0x353F0, symBinAddr: 0x46728, symSize: 0x0 }
+  - { offsetInCU: 0x18F, offset: 0x27321, size: 0x8, addend: 0x0, symName: _SRRecorderControlStyleComponentsAppearanceFromSystem.onceToken, symObjAddr: 0x353F8, symBinAddr: 0x46730, symSize: 0x0 }
+  - { offsetInCU: 0x2AB, offset: 0x2743D, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyleComponents compare:relativeToComponents:]', symObjAddr: 0x854, symBinAddr: 0x15C44, symSize: 0x3C5 }
+  - { offsetInCU: 0x2D6, offset: 0x27468, size: 0x8, addend: 0x0, symName: '_compare:relativeToComponents:.AppearanceOrderMap', symObjAddr: 0x35400, symBinAddr: 0x46738, symSize: 0x0 }
+  - { offsetInCU: 0x2EC, offset: 0x2747E, size: 0x8, addend: 0x0, symName: '_compare:relativeToComponents:.TintOrderMap', symObjAddr: 0x35408, symBinAddr: 0x46740, symSize: 0x0 }
+  - { offsetInCU: 0x302, offset: 0x27494, size: 0x8, addend: 0x0, symName: '_compare:relativeToComponents:.DirectionOrderMap', symObjAddr: 0x35410, symBinAddr: 0x46748, symSize: 0x0 }
+  - { offsetInCU: 0x318, offset: 0x274AA, size: 0x8, addend: 0x0, symName: '_compare:relativeToComponents:.onceToken', symObjAddr: 0x35418, symBinAddr: 0x46750, symSize: 0x0 }
+  - { offsetInCU: 0x65F, offset: 0x277F1, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyleResourceLoader infoForStyle:]', symObjAddr: 0x1D65, symBinAddr: 0x17155, symSize: 0x678 }
+  - { offsetInCU: 0xC17, offset: 0x27DA9, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke.307', symObjAddr: 0x3E0E, symBinAddr: 0x191FE, symSize: 0x630 }
+  - { offsetInCU: 0x13C8, offset: 0x2855A, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyleResourceLoader lookupPrefixesForStyle:]', symObjAddr: 0x4C89, symBinAddr: 0x1A079, symSize: 0xFF }
+  - { offsetInCU: 0x1495, offset: 0x28627, size: 0x8, addend: 0x0, symName: '___63-[SRRecorderControlStyleResourceLoader lookupPrefixesForStyle:]_block_invoke', symObjAddr: 0x4D88, symBinAddr: 0x1A178, symSize: 0x651 }
+  - { offsetInCU: 0x1A9C, offset: 0x28C2E, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyleResourceLoader imageNamed:forStyle:]', symObjAddr: 0x54ED, symBinAddr: 0x1A86D, symSize: 0x13A }
+  - { offsetInCU: 0x1BC1, offset: 0x28D53, size: 0x8, addend: 0x0, symName: '___60-[SRRecorderControlStyleResourceLoader imageNamed:forStyle:]_block_invoke', symObjAddr: 0x5627, symBinAddr: 0x1A9A7, symSize: 0x66B }
+  - { offsetInCU: 0x2202, offset: 0x29394, size: 0x8, addend: 0x0, symName: '+[SRRecorderControlStyle resourceLoader]', symObjAddr: 0x60BD, symBinAddr: 0x1B40D, symSize: 0x30 }
+  - { offsetInCU: 0x222D, offset: 0x293BF, size: 0x8, addend: 0x0, symName: _resourceLoader.Loader, symObjAddr: 0x35420, symBinAddr: 0x46758, symSize: 0x0 }
+  - { offsetInCU: 0x2243, offset: 0x293D5, size: 0x8, addend: 0x0, symName: _resourceLoader.onceToken, symObjAddr: 0x35428, symBinAddr: 0x46760, symSize: 0x0 }
+  - { offsetInCU: 0x2F2A, offset: 0x2A0BC, size: 0x8, addend: 0x0, symName: ___SRRecorderControlStyleComponentsAppearanceFromSystem_block_invoke, symObjAddr: 0x171, symBinAddr: 0x15561, symSize: 0x1B8 }
+  - { offsetInCU: 0x3011, offset: 0x2A1A3, size: 0x8, addend: 0x0, symName: _SRRecorderControlStyleComponentsAppearanceToSystem, symObjAddr: 0x329, symBinAddr: 0x15719, symSize: 0x8F }
+  - { offsetInCU: 0x304E, offset: 0x2A1E0, size: 0x8, addend: 0x0, symName: _SRRecorderControlStyleComponentsAppearanceToSystem.cold.1, symObjAddr: 0xA10A, symBinAddr: 0x2CA8A, symSize: 0x30 }
+  - { offsetInCU: 0x3066, offset: 0x2A1F8, size: 0x8, addend: 0x0, symName: _SRRecorderControlStyleComponentsTintFromSystem, symObjAddr: 0x3B8, symBinAddr: 0x157A8, symSize: 0x1A }
+  - { offsetInCU: 0x3082, offset: 0x2A214, size: 0x8, addend: 0x0, symName: _SRRecorderControlStyleComponentsTintToSystem, symObjAddr: 0x3D2, symBinAddr: 0x157C2, symSize: 0x22 }
+  - { offsetInCU: 0x30B8, offset: 0x2A24A, size: 0x8, addend: 0x0, symName: _SRRecorderControlStyleComponentsTintToSystem.cold.1, symObjAddr: 0xA13A, symBinAddr: 0x2CABA, symSize: 0x30 }
+  - { offsetInCU: 0x30D0, offset: 0x2A262, size: 0x8, addend: 0x0, symName: _SRRecorderControlStyleComponentsLayoutDirectionFromSystem, symObjAddr: 0x3F4, symBinAddr: 0x157E4, symSize: 0x1E }
+  - { offsetInCU: 0x30F8, offset: 0x2A28A, size: 0x8, addend: 0x0, symName: _SRRecorderControlStyleComponentsLayoutDirectionToSystem, symObjAddr: 0x412, symBinAddr: 0x15802, symSize: 0x22 }
+  - { offsetInCU: 0x312E, offset: 0x2A2C0, size: 0x8, addend: 0x0, symName: _SRRecorderControlStyleComponentsLayoutDirectionToSystem.cold.1, symObjAddr: 0xA16A, symBinAddr: 0x2CAEA, symSize: 0x30 }
+  - { offsetInCU: 0x3146, offset: 0x2A2D8, size: 0x8, addend: 0x0, symName: '+[SRRecorderControlStyleComponents currentComponents]', symObjAddr: 0x434, symBinAddr: 0x15824, symSize: 0x14 }
+  - { offsetInCU: 0x31AB, offset: 0x2A33D, size: 0x8, addend: 0x0, symName: '+[SRRecorderControlStyleComponents currentComponentsForView:]', symObjAddr: 0x448, symBinAddr: 0x15838, symSize: 0x18A }
+  - { offsetInCU: 0x332A, offset: 0x2A4BC, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyleComponents initWithAppearance:accessibility:layoutDirection:tint:]', symObjAddr: 0x5D2, symBinAddr: 0x159C2, symSize: 0x5E }
+  - { offsetInCU: 0x339A, offset: 0x2A52C, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyleComponents init]', symObjAddr: 0x630, symBinAddr: 0x15A20, symSize: 0x1C }
+  - { offsetInCU: 0x33F4, offset: 0x2A586, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyleComponents isSpecified]', symObjAddr: 0x64C, symBinAddr: 0x15A3C, symSize: 0x2A }
+  - { offsetInCU: 0x3427, offset: 0x2A5B9, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyleComponents stringRepresentation]', symObjAddr: 0x676, symBinAddr: 0x15A66, symSize: 0xDC }
+  - { offsetInCU: 0x34FE, offset: 0x2A690, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyleComponents isEqualToComponents:]', symObjAddr: 0x752, symBinAddr: 0x15B42, symSize: 0x102 }
+  - { offsetInCU: 0x3753, offset: 0x2A8E5, size: 0x8, addend: 0x0, symName: '___65-[SRRecorderControlStyleComponents compare:relativeToComponents:]_block_invoke_2', symObjAddr: 0x15F7, symBinAddr: 0x169E7, symSize: 0xCF }
+  - { offsetInCU: 0x3863, offset: 0x2A9F5, size: 0x8, addend: 0x0, symName: '___65-[SRRecorderControlStyleComponents compare:relativeToComponents:]_block_invoke', symObjAddr: 0xC19, symBinAddr: 0x16009, symSize: 0x9DE }
+  - { offsetInCU: 0x3E73, offset: 0x2B005, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyleComponents copyWithZone:]', symObjAddr: 0x16C6, symBinAddr: 0x16AB6, symSize: 0xB }
+  - { offsetInCU: 0x3EC8, offset: 0x2B05A, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyleComponents isEqual:]', symObjAddr: 0x16D1, symBinAddr: 0x16AC1, symSize: 0x72 }
+  - { offsetInCU: 0x3F63, offset: 0x2B0F5, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyleComponents hash]', symObjAddr: 0x1743, symBinAddr: 0x16B33, symSize: 0x6D }
+  - { offsetInCU: 0x400C, offset: 0x2B19E, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyleComponents description]', symObjAddr: 0x17B0, symBinAddr: 0x16BA0, symSize: 0x12 }
+  - { offsetInCU: 0x4054, offset: 0x2B1E6, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyleComponents appearance]', symObjAddr: 0x17C2, symBinAddr: 0x16BB2, symSize: 0xA }
+  - { offsetInCU: 0x4088, offset: 0x2B21A, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyleComponents accessibility]', symObjAddr: 0x17CC, symBinAddr: 0x16BBC, symSize: 0xA }
+  - { offsetInCU: 0x40BC, offset: 0x2B24E, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyleComponents layoutDirection]', symObjAddr: 0x17D6, symBinAddr: 0x16BC6, symSize: 0xA }
+  - { offsetInCU: 0x40F0, offset: 0x2B282, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyleComponents tint]', symObjAddr: 0x17E0, symBinAddr: 0x16BD0, symSize: 0xA }
+  - { offsetInCU: 0x4124, offset: 0x2B2B6, size: 0x8, addend: 0x0, symName: '-[_SRRecorderControlStyleResourceLoaderCacheLookupPrefixesKey hash]', symObjAddr: 0x17EA, symBinAddr: 0x16BDA, symSize: 0x90 }
+  - { offsetInCU: 0x41B8, offset: 0x2B34A, size: 0x8, addend: 0x0, symName: '-[_SRRecorderControlStyleResourceLoaderCacheLookupPrefixesKey isEqual:]', symObjAddr: 0x187A, symBinAddr: 0x16C6A, symSize: 0x124 }
+  - { offsetInCU: 0x42DF, offset: 0x2B471, size: 0x8, addend: 0x0, symName: '-[_SRRecorderControlStyleResourceLoaderCacheLookupPrefixesKey copyWithZone:]', symObjAddr: 0x199E, symBinAddr: 0x16D8E, symSize: 0xB }
+  - { offsetInCU: 0x4334, offset: 0x2B4C6, size: 0x8, addend: 0x0, symName: '-[_SRRecorderControlStyleResourceLoaderCacheLookupPrefixesKey identifier]', symObjAddr: 0x19A9, symBinAddr: 0x16D99, symSize: 0x14 }
+  - { offsetInCU: 0x436C, offset: 0x2B4FE, size: 0x8, addend: 0x0, symName: '-[_SRRecorderControlStyleResourceLoaderCacheLookupPrefixesKey setIdentifier:]', symObjAddr: 0x19BD, symBinAddr: 0x16DAD, symSize: 0xF }
+  - { offsetInCU: 0x43AC, offset: 0x2B53E, size: 0x8, addend: 0x0, symName: '-[_SRRecorderControlStyleResourceLoaderCacheLookupPrefixesKey components]', symObjAddr: 0x19CC, symBinAddr: 0x16DBC, symSize: 0x14 }
+  - { offsetInCU: 0x43E4, offset: 0x2B576, size: 0x8, addend: 0x0, symName: '-[_SRRecorderControlStyleResourceLoaderCacheLookupPrefixesKey setComponents:]', symObjAddr: 0x19E0, symBinAddr: 0x16DD0, symSize: 0xF }
+  - { offsetInCU: 0x4424, offset: 0x2B5B6, size: 0x8, addend: 0x0, symName: '-[_SRRecorderControlStyleResourceLoaderCacheLookupPrefixesKey .cxx_destruct]', symObjAddr: 0x19EF, symBinAddr: 0x16DDF, symSize: 0x28 }
+  - { offsetInCU: 0x4456, offset: 0x2B5E8, size: 0x8, addend: 0x0, symName: '-[_SRRecorderControlStyleResourceLoaderCacheImageKey hash]', symObjAddr: 0x1A17, symBinAddr: 0x16E07, symSize: 0xBA }
+  - { offsetInCU: 0x4514, offset: 0x2B6A6, size: 0x8, addend: 0x0, symName: '-[_SRRecorderControlStyleResourceLoaderCacheImageKey isEqual:]', symObjAddr: 0x1AD1, symBinAddr: 0x16EC1, symSize: 0x172 }
+  - { offsetInCU: 0x4678, offset: 0x2B80A, size: 0x8, addend: 0x0, symName: '-[_SRRecorderControlStyleResourceLoaderCacheImageKey copyWithZone:]', symObjAddr: 0x1C43, symBinAddr: 0x17033, symSize: 0xB }
+  - { offsetInCU: 0x46CD, offset: 0x2B85F, size: 0x8, addend: 0x0, symName: '-[_SRRecorderControlStyleResourceLoaderCacheImageKey identifier]', symObjAddr: 0x1C4E, symBinAddr: 0x1703E, symSize: 0x14 }
+  - { offsetInCU: 0x4705, offset: 0x2B897, size: 0x8, addend: 0x0, symName: '-[_SRRecorderControlStyleResourceLoaderCacheImageKey setIdentifier:]', symObjAddr: 0x1C62, symBinAddr: 0x17052, symSize: 0xF }
+  - { offsetInCU: 0x4745, offset: 0x2B8D7, size: 0x8, addend: 0x0, symName: '-[_SRRecorderControlStyleResourceLoaderCacheImageKey components]', symObjAddr: 0x1C71, symBinAddr: 0x17061, symSize: 0x14 }
+  - { offsetInCU: 0x477D, offset: 0x2B90F, size: 0x8, addend: 0x0, symName: '-[_SRRecorderControlStyleResourceLoaderCacheImageKey setComponents:]', symObjAddr: 0x1C85, symBinAddr: 0x17075, symSize: 0xF }
+  - { offsetInCU: 0x47BD, offset: 0x2B94F, size: 0x8, addend: 0x0, symName: '-[_SRRecorderControlStyleResourceLoaderCacheImageKey name]', symObjAddr: 0x1C94, symBinAddr: 0x17084, symSize: 0x14 }
+  - { offsetInCU: 0x47F5, offset: 0x2B987, size: 0x8, addend: 0x0, symName: '-[_SRRecorderControlStyleResourceLoaderCacheImageKey setName:]', symObjAddr: 0x1CA8, symBinAddr: 0x17098, symSize: 0xF }
+  - { offsetInCU: 0x4835, offset: 0x2B9C7, size: 0x8, addend: 0x0, symName: '-[_SRRecorderControlStyleResourceLoaderCacheImageKey .cxx_destruct]', symObjAddr: 0x1CB7, symBinAddr: 0x170A7, symSize: 0x33 }
+  - { offsetInCU: 0x4867, offset: 0x2B9F9, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyleResourceLoader init]', symObjAddr: 0x1CEA, symBinAddr: 0x170DA, symSize: 0x7B }
+  - { offsetInCU: 0x48BD, offset: 0x2BA4F, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke', symObjAddr: 0x23DD, symBinAddr: 0x177CD, symSize: 0xF3 }
+  - { offsetInCU: 0x4A0A, offset: 0x2BB9C, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke_2', symObjAddr: 0x24D0, symBinAddr: 0x178C0, symSize: 0x136 }
+  - { offsetInCU: 0x4BAE, offset: 0x2BD40, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b, symObjAddr: 0x2606, symBinAddr: 0x179F6, symSize: 0x17 }
+  - { offsetInCU: 0x4BD7, offset: 0x2BD69, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke.183', symObjAddr: 0x262C, symBinAddr: 0x17A1C, symSize: 0xCB }
+  - { offsetInCU: 0x4CE2, offset: 0x2BE74, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke.187', symObjAddr: 0x26F7, symBinAddr: 0x17AE7, symSize: 0xA0 }
+  - { offsetInCU: 0x4DB3, offset: 0x2BF45, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke_2.192', symObjAddr: 0x2797, symBinAddr: 0x17B87, symSize: 0x78 }
+  - { offsetInCU: 0x4E8A, offset: 0x2C01C, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke.194', symObjAddr: 0x280F, symBinAddr: 0x17BFF, symSize: 0x78 }
+  - { offsetInCU: 0x4F61, offset: 0x2C0F3, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke.196', symObjAddr: 0x2887, symBinAddr: 0x17C77, symSize: 0x78 }
+  - { offsetInCU: 0x5038, offset: 0x2C1CA, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke.198', symObjAddr: 0x28FF, symBinAddr: 0x17CEF, symSize: 0x78 }
+  - { offsetInCU: 0x510F, offset: 0x2C2A1, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke.200', symObjAddr: 0x2977, symBinAddr: 0x17D67, symSize: 0x425 }
+  - { offsetInCU: 0x5461, offset: 0x2C5F3, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b40b48b, symObjAddr: 0x2D9C, symBinAddr: 0x1818C, symSize: 0x4A }
+  - { offsetInCU: 0x548A, offset: 0x2C61C, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s, symObjAddr: 0x2DE6, symBinAddr: 0x181D6, symSize: 0x2C }
+  - { offsetInCU: 0x54CA, offset: 0x2C65C, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke.217', symObjAddr: 0x2E12, symBinAddr: 0x18202, symSize: 0x1C2 }
+  - { offsetInCU: 0x56A1, offset: 0x2C833, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke_2.230', symObjAddr: 0x2FD4, symBinAddr: 0x183C4, symSize: 0x2DF }
+  - { offsetInCU: 0x5960, offset: 0x2CAF2, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke_3', symObjAddr: 0x32B3, symBinAddr: 0x186A3, symSize: 0x2DF }
+  - { offsetInCU: 0x5C2F, offset: 0x2CDC1, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b40b48b56b, symObjAddr: 0x3592, symBinAddr: 0x18982, symSize: 0x5C }
+  - { offsetInCU: 0x5C58, offset: 0x2CDEA, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s, symObjAddr: 0x35EE, symBinAddr: 0x189DE, symSize: 0x33 }
+  - { offsetInCU: 0x5CA3, offset: 0x2CE35, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke.263', symObjAddr: 0x3621, symBinAddr: 0x18A11, symSize: 0x13F }
+  - { offsetInCU: 0x5E01, offset: 0x2CF93, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke_2.266', symObjAddr: 0x3760, symBinAddr: 0x18B50, symSize: 0xD6 }
+  - { offsetInCU: 0x5F17, offset: 0x2D0A9, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke_3.274', symObjAddr: 0x3836, symBinAddr: 0x18C26, symSize: 0x16C }
+  - { offsetInCU: 0x609B, offset: 0x2D22D, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke_4', symObjAddr: 0x39A2, symBinAddr: 0x18D92, symSize: 0x2DF }
+  - { offsetInCU: 0x634A, offset: 0x2D4DC, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke_5', symObjAddr: 0x3C81, symBinAddr: 0x19071, symSize: 0xC3 }
+  - { offsetInCU: 0x6484, offset: 0x2D616, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke_6', symObjAddr: 0x3D44, symBinAddr: 0x19134, symSize: 0xA5 }
+  - { offsetInCU: 0x6590, offset: 0x2D722, size: 0x8, addend: 0x0, symName: ___Block_byref_object_copy_, symObjAddr: 0x3DE9, symBinAddr: 0x191D9, symSize: 0x16 }
+  - { offsetInCU: 0x65B5, offset: 0x2D747, size: 0x8, addend: 0x0, symName: ___Block_byref_object_dispose_, symObjAddr: 0x3DFF, symBinAddr: 0x191EF, symSize: 0xF }
+  - { offsetInCU: 0x6628, offset: 0x2D7BA, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke.309', symObjAddr: 0x443E, symBinAddr: 0x1982E, symSize: 0x81 }
+  - { offsetInCU: 0x66F6, offset: 0x2D888, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke.338', symObjAddr: 0x44CE, symBinAddr: 0x198BE, symSize: 0x16B }
+  - { offsetInCU: 0x68B5, offset: 0x2DA47, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke_2.342', symObjAddr: 0x4639, symBinAddr: 0x19A29, symSize: 0xC1 }
+  - { offsetInCU: 0x69F4, offset: 0x2DB86, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48b56b, symObjAddr: 0x46FA, symBinAddr: 0x19AEA, symSize: 0x56 }
+  - { offsetInCU: 0x6A33, offset: 0x2DBC5, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b40b, symObjAddr: 0x4750, symBinAddr: 0x19B40, symSize: 0x38 }
+  - { offsetInCU: 0x6A5C, offset: 0x2DBEE, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s, symObjAddr: 0x4788, symBinAddr: 0x19B78, symSize: 0x25 }
+  - { offsetInCU: 0x6A91, offset: 0x2DC23, size: 0x8, addend: 0x0, symName: '___53-[SRRecorderControlStyleResourceLoader infoForStyle:]_block_invoke.353', symObjAddr: 0x47AD, symBinAddr: 0x19B9D, symSize: 0x22B }
+  - { offsetInCU: 0x6D69, offset: 0x2DEFB, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32b40b48b56b64b72b80b88b, symObjAddr: 0x49D8, symBinAddr: 0x19DC8, symSize: 0xA4 }
+  - { offsetInCU: 0x6D92, offset: 0x2DF24, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s64s72s80s88s, symObjAddr: 0x4A7C, symBinAddr: 0x19E6C, symSize: 0x4F }
+  - { offsetInCU: 0x6E09, offset: 0x2DF9B, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48b56b64b72b80b88b96b104b112b120b128b136b144r, symObjAddr: 0x4ACB, symBinAddr: 0x19EBB, symSize: 0x12E }
+  - { offsetInCU: 0x6E48, offset: 0x2DFDA, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s40s48s56s64s72s80s88s96s104s112s120s128s136s144r, symObjAddr: 0x4BF9, symBinAddr: 0x19FE9, symSize: 0x90 }
+  - { offsetInCU: 0x6F01, offset: 0x2E093, size: 0x8, addend: 0x0, symName: '___63-[SRRecorderControlStyleResourceLoader lookupPrefixesForStyle:]_block_invoke.389', symObjAddr: 0x53D9, symBinAddr: 0x1A7C9, symSize: 0x81 }
+  - { offsetInCU: 0x6FB1, offset: 0x2E143, size: 0x8, addend: 0x0, symName: '___63-[SRRecorderControlStyleResourceLoader lookupPrefixesForStyle:]_block_invoke.396', symObjAddr: 0x545A, symBinAddr: 0x1A84A, symSize: 0x1C }
+  - { offsetInCU: 0x703F, offset: 0x2E1D1, size: 0x8, addend: 0x0, symName: '___60-[SRRecorderControlStyleResourceLoader imageNamed:forStyle:]_block_invoke.409', symObjAddr: 0x5C92, symBinAddr: 0x1B012, symSize: 0xB5 }
+  - { offsetInCU: 0x711E, offset: 0x2E2B0, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s, symObjAddr: 0x5D47, symBinAddr: 0x1B0C7, symSize: 0x25 }
+  - { offsetInCU: 0x715D, offset: 0x2E2EF, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56r, symObjAddr: 0x5D6C, symBinAddr: 0x1B0EC, symSize: 0x4B }
+  - { offsetInCU: 0x71A7, offset: 0x2E339, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyleResourceLoader .cxx_destruct]', symObjAddr: 0x5DF1, symBinAddr: 0x1B141, symSize: 0x10 }
+  - { offsetInCU: 0x71D9, offset: 0x2E36B, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle init]', symObjAddr: 0x5E01, symBinAddr: 0x1B151, symSize: 0x16 }
+  - { offsetInCU: 0x722A, offset: 0x2E3BC, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle initWithIdentifier:components:]', symObjAddr: 0x5E17, symBinAddr: 0x1B167, symSize: 0x2A6 }
+  - { offsetInCU: 0x7400, offset: 0x2E592, size: 0x8, addend: 0x0, symName: '___40+[SRRecorderControlStyle resourceLoader]_block_invoke', symObjAddr: 0x60ED, symBinAddr: 0x1B43D, symSize: 0x2D }
+  - { offsetInCU: 0x743F, offset: 0x2E5D1, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle addConstraints]', symObjAddr: 0x611A, symBinAddr: 0x1B46A, symSize: 0x23C9 }
+  - { offsetInCU: 0x8EB8, offset: 0x3004A, size: 0x8, addend: 0x0, symName: '___40-[SRRecorderControlStyle addConstraints]_block_invoke_2', symObjAddr: 0x851C, symBinAddr: 0x1D86C, symSize: 0x130 }
+  - { offsetInCU: 0x901A, offset: 0x301AC, size: 0x8, addend: 0x0, symName: '___40-[SRRecorderControlStyle addConstraints]_block_invoke', symObjAddr: 0x84E3, symBinAddr: 0x1D833, symSize: 0x39 }
+  - { offsetInCU: 0x907A, offset: 0x3020C, size: 0x8, addend: 0x0, symName: '___40-[SRRecorderControlStyle addConstraints]_block_invoke_3', symObjAddr: 0x864C, symBinAddr: 0x1D99C, symSize: 0x1F }
+  - { offsetInCU: 0x9110, offset: 0x302A2, size: 0x8, addend: 0x0, symName: '___40-[SRRecorderControlStyle addConstraints]_block_invoke.483', symObjAddr: 0x866B, symBinAddr: 0x1D9BB, symSize: 0x22 }
+  - { offsetInCU: 0x91A6, offset: 0x30338, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle noValueNormalLabel]', symObjAddr: 0x868D, symBinAddr: 0x1D9DD, symSize: 0x11 }
+  - { offsetInCU: 0x91F8, offset: 0x3038A, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle noValueDisableLabel]', symObjAddr: 0x869E, symBinAddr: 0x1D9EE, symSize: 0x11 }
+  - { offsetInCU: 0x9237, offset: 0x303C9, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle noValueRecordingLabel]', symObjAddr: 0x86AF, symBinAddr: 0x1D9FF, symSize: 0x11 }
+  - { offsetInCU: 0x9276, offset: 0x30408, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle prepareForRecorderControl:]', symObjAddr: 0x86C0, symBinAddr: 0x1DA10, symSize: 0x9B }
+  - { offsetInCU: 0x934E, offset: 0x304E0, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle prepareForRemoval]', symObjAddr: 0x875B, symBinAddr: 0x1DAAB, symSize: 0xD5 }
+  - { offsetInCU: 0x9475, offset: 0x30607, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle recorderControlAppearanceDidChange:]', symObjAddr: 0x8830, symBinAddr: 0x1DB80, symSize: 0xDB3 }
+  - { offsetInCU: 0x9DE5, offset: 0x30F77, size: 0x8, addend: 0x0, symName: '___61-[SRRecorderControlStyle recorderControlAppearanceDidChange:]_block_invoke', symObjAddr: 0x95E3, symBinAddr: 0x1E933, symSize: 0x26B }
+  - { offsetInCU: 0xA064, offset: 0x311F6, size: 0x8, addend: 0x0, symName: '___61-[SRRecorderControlStyle recorderControlAppearanceDidChange:]_block_invoke.601', symObjAddr: 0x984E, symBinAddr: 0x1EB9E, symSize: 0x1A0 }
+  - { offsetInCU: 0xA246, offset: 0x313D8, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle copyWithZone:]', symObjAddr: 0x99EE, symBinAddr: 0x1ED3E, symSize: 0x8F }
+  - { offsetInCU: 0xA2ED, offset: 0x3147F, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle identifier]', symObjAddr: 0x9A7D, symBinAddr: 0x1EDCD, symSize: 0x14 }
+  - { offsetInCU: 0xA325, offset: 0x314B7, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle allowsVibrancy]', symObjAddr: 0x9A91, symBinAddr: 0x1EDE1, symSize: 0xD }
+  - { offsetInCU: 0xA35A, offset: 0x314EC, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle isOpaque]', symObjAddr: 0x9A9E, symBinAddr: 0x1EDEE, symSize: 0xD }
+  - { offsetInCU: 0xA38F, offset: 0x31521, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle isLabelDrawingFrameOpaque]', symObjAddr: 0x9AAB, symBinAddr: 0x1EDFB, symSize: 0xD }
+  - { offsetInCU: 0xA3C4, offset: 0x31556, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle normalLabelAttributes]', symObjAddr: 0x9AB8, symBinAddr: 0x1EE08, symSize: 0x14 }
+  - { offsetInCU: 0xA3FC, offset: 0x3158E, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle recordingLabelAttributes]', symObjAddr: 0x9ACC, symBinAddr: 0x1EE1C, symSize: 0x14 }
+  - { offsetInCU: 0xA434, offset: 0x315C6, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle disabledLabelAttributes]', symObjAddr: 0x9AE0, symBinAddr: 0x1EE30, symSize: 0x14 }
+  - { offsetInCU: 0xA46C, offset: 0x315FE, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle bezelNormalLeft]', symObjAddr: 0x9AF4, symBinAddr: 0x1EE44, symSize: 0x14 }
+  - { offsetInCU: 0xA4A4, offset: 0x31636, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle bezelNormalCenter]', symObjAddr: 0x9B08, symBinAddr: 0x1EE58, symSize: 0x14 }
+  - { offsetInCU: 0xA4DC, offset: 0x3166E, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle bezelNormalRight]', symObjAddr: 0x9B1C, symBinAddr: 0x1EE6C, symSize: 0x14 }
+  - { offsetInCU: 0xA514, offset: 0x316A6, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle bezelPressedLeft]', symObjAddr: 0x9B30, symBinAddr: 0x1EE80, symSize: 0x14 }
+  - { offsetInCU: 0xA54C, offset: 0x316DE, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle bezelPressedCenter]', symObjAddr: 0x9B44, symBinAddr: 0x1EE94, symSize: 0x14 }
+  - { offsetInCU: 0xA584, offset: 0x31716, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle bezelPressedRight]', symObjAddr: 0x9B58, symBinAddr: 0x1EEA8, symSize: 0x14 }
+  - { offsetInCU: 0xA5BC, offset: 0x3174E, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle bezelRecordingLeft]', symObjAddr: 0x9B6C, symBinAddr: 0x1EEBC, symSize: 0x14 }
+  - { offsetInCU: 0xA5F4, offset: 0x31786, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle bezelRecordingCenter]', symObjAddr: 0x9B80, symBinAddr: 0x1EED0, symSize: 0x14 }
+  - { offsetInCU: 0xA62C, offset: 0x317BE, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle bezelRecordingRight]', symObjAddr: 0x9B94, symBinAddr: 0x1EEE4, symSize: 0x14 }
+  - { offsetInCU: 0xA664, offset: 0x317F6, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle bezelDisabledLeft]', symObjAddr: 0x9BA8, symBinAddr: 0x1EEF8, symSize: 0x14 }
+  - { offsetInCU: 0xA69C, offset: 0x3182E, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle bezelDisabledCenter]', symObjAddr: 0x9BBC, symBinAddr: 0x1EF0C, symSize: 0x14 }
+  - { offsetInCU: 0xA6D4, offset: 0x31866, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle bezelDisabledRight]', symObjAddr: 0x9BD0, symBinAddr: 0x1EF20, symSize: 0x14 }
+  - { offsetInCU: 0xA70C, offset: 0x3189E, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle cancelButton]', symObjAddr: 0x9BE4, symBinAddr: 0x1EF34, symSize: 0x14 }
+  - { offsetInCU: 0xA744, offset: 0x318D6, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle cancelButtonPressed]', symObjAddr: 0x9BF8, symBinAddr: 0x1EF48, symSize: 0x14 }
+  - { offsetInCU: 0xA77C, offset: 0x3190E, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle clearButton]', symObjAddr: 0x9C0C, symBinAddr: 0x1EF5C, symSize: 0x14 }
+  - { offsetInCU: 0xA7B4, offset: 0x31946, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle clearButtonPressed]', symObjAddr: 0x9C20, symBinAddr: 0x1EF70, symSize: 0x14 }
+  - { offsetInCU: 0xA7EC, offset: 0x3197E, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle focusRingCornerRadius]', symObjAddr: 0x9C34, symBinAddr: 0x1EF84, symSize: 0x39 }
+  - { offsetInCU: 0xA822, offset: 0x319B4, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle focusRingInsets]', symObjAddr: 0x9C6D, symBinAddr: 0x1EFBD, symSize: 0x2C }
+  - { offsetInCU: 0xA858, offset: 0x319EA, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle baselineLayoutOffsetFromBottom]', symObjAddr: 0x9C99, symBinAddr: 0x1EFE9, symSize: 0xE }
+  - { offsetInCU: 0xA88D, offset: 0x31A1F, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle baselineDrawingOffsetFromBottom]', symObjAddr: 0x9CA7, symBinAddr: 0x1EFF7, symSize: 0xE }
+  - { offsetInCU: 0xA8C2, offset: 0x31A54, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle alignmentRectInsets]', symObjAddr: 0x9CB5, symBinAddr: 0x1F005, symSize: 0x2C }
+  - { offsetInCU: 0xA8F8, offset: 0x31A8A, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle intrinsicContentSize]', symObjAddr: 0x9CE1, symBinAddr: 0x1F031, symSize: 0x39 }
+  - { offsetInCU: 0xA92E, offset: 0x31AC0, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle alignmentGuide]', symObjAddr: 0x9D1A, symBinAddr: 0x1F06A, symSize: 0x14 }
+  - { offsetInCU: 0xA966, offset: 0x31AF8, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle backgroundDrawingGuide]', symObjAddr: 0x9D2E, symBinAddr: 0x1F07E, symSize: 0x14 }
+  - { offsetInCU: 0xA99E, offset: 0x31B30, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle labelDrawingGuide]', symObjAddr: 0x9D42, symBinAddr: 0x1F092, symSize: 0x14 }
+  - { offsetInCU: 0xA9D6, offset: 0x31B68, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle cancelButtonDrawingGuide]', symObjAddr: 0x9D56, symBinAddr: 0x1F0A6, symSize: 0x14 }
+  - { offsetInCU: 0xAA0E, offset: 0x31BA0, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle clearButtonDrawingGuide]', symObjAddr: 0x9D6A, symBinAddr: 0x1F0BA, symSize: 0x14 }
+  - { offsetInCU: 0xAA46, offset: 0x31BD8, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle cancelButtonLayoutGuide]', symObjAddr: 0x9D7E, symBinAddr: 0x1F0CE, symSize: 0x14 }
+  - { offsetInCU: 0xAA7E, offset: 0x31C10, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle clearButtonLayoutGuide]', symObjAddr: 0x9D92, symBinAddr: 0x1F0E2, symSize: 0x14 }
+  - { offsetInCU: 0xAAB6, offset: 0x31C48, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle alwaysConstraints]', symObjAddr: 0x9DA6, symBinAddr: 0x1F0F6, symSize: 0x14 }
+  - { offsetInCU: 0xAAEE, offset: 0x31C80, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle displayingConstraints]', symObjAddr: 0x9DBA, symBinAddr: 0x1F10A, symSize: 0x14 }
+  - { offsetInCU: 0xAB26, offset: 0x31CB8, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle recordingWithNoValueConstraints]', symObjAddr: 0x9DCE, symBinAddr: 0x1F11E, symSize: 0x14 }
+  - { offsetInCU: 0xAB5E, offset: 0x31CF0, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle recordingWithValueConstraints]', symObjAddr: 0x9DE2, symBinAddr: 0x1F132, symSize: 0x14 }
+  - { offsetInCU: 0xAB96, offset: 0x31D28, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle preferredComponents]', symObjAddr: 0x9DF6, symBinAddr: 0x1F146, symSize: 0x14 }
+  - { offsetInCU: 0xABCE, offset: 0x31D60, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle recorderControl]', symObjAddr: 0x9E0A, symBinAddr: 0x1F15A, symSize: 0x19 }
+  - { offsetInCU: 0xAC04, offset: 0x31D96, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle effectiveComponents]', symObjAddr: 0x9E23, symBinAddr: 0x1F173, symSize: 0x14 }
+  - { offsetInCU: 0xAC3C, offset: 0x31DCE, size: 0x8, addend: 0x0, symName: '-[SRRecorderControlStyle .cxx_destruct]', symObjAddr: 0x9E37, symBinAddr: 0x1F187, symSize: 0x2C9 }
+  - { offsetInCU: 0x27, offset: 0x337B7, size: 0x8, addend: 0x0, symName: '+[SRShortcut shortcutWithCode:modifierFlags:characters:charactersIgnoringModifiers:]', symObjAddr: 0x0, symBinAddr: 0x1F450, symSize: 0x85 }
+  - { offsetInCU: 0x40, offset: 0x337D0, size: 0x8, addend: 0x0, symName: _SRShortcutKeyKeyCode, symObjAddr: 0x23C0, symBinAddr: 0x39010, symSize: 0x0 }
+  - { offsetInCU: 0x137, offset: 0x338C7, size: 0x8, addend: 0x0, symName: _SRShortcutKeyModifierFlags, symObjAddr: 0x23C8, symBinAddr: 0x39018, symSize: 0x0 }
+  - { offsetInCU: 0x14C, offset: 0x338DC, size: 0x8, addend: 0x0, symName: _SRShortcutKeyCharacters, symObjAddr: 0x23D0, symBinAddr: 0x39020, symSize: 0x0 }
+  - { offsetInCU: 0x161, offset: 0x338F1, size: 0x8, addend: 0x0, symName: _SRShortcutKeyCharactersIgnoringModifiers, symObjAddr: 0x23D8, symBinAddr: 0x39028, symSize: 0x0 }
+  - { offsetInCU: 0x176, offset: 0x33906, size: 0x8, addend: 0x0, symName: _SRShortcutKeyCode, symObjAddr: 0x23E0, symBinAddr: 0x39030, symSize: 0x0 }
+  - { offsetInCU: 0x190, offset: 0x33920, size: 0x8, addend: 0x0, symName: _SRShortcutModifierFlagsKey, symObjAddr: 0x23E8, symBinAddr: 0x39038, symSize: 0x0 }
+  - { offsetInCU: 0x1A5, offset: 0x33935, size: 0x8, addend: 0x0, symName: _SRShortcutCharacters, symObjAddr: 0x23F0, symBinAddr: 0x39040, symSize: 0x0 }
+  - { offsetInCU: 0x1BA, offset: 0x3394A, size: 0x8, addend: 0x0, symName: _SRShortcutCharactersIgnoringModifiers, symObjAddr: 0x23F8, symBinAddr: 0x39048, symSize: 0x0 }
+  - { offsetInCU: 0x1D1, offset: 0x33961, size: 0x8, addend: 0x0, symName: '+[SRShortcut shortcutWithEvent:]', symObjAddr: 0x85, symBinAddr: 0x1F4D5, symSize: 0x2CC }
+  - { offsetInCU: 0x535, offset: 0x33CC5, size: 0x8, addend: 0x0, symName: '+[SRShortcut shortcutWithKeyEquivalent:]', symObjAddr: 0x573, symBinAddr: 0x1F9C3, symSize: 0x36B }
+  - { offsetInCU: 0x55E, offset: 0x33CEE, size: 0x8, addend: 0x0, symName: '_shortcutWithKeyEquivalent:.PossibleFlags', symObjAddr: 0xCE90, symBinAddr: 0x46768, symSize: 0x0 }
+  - { offsetInCU: 0x573, offset: 0x33D03, size: 0x8, addend: 0x0, symName: '_shortcutWithKeyEquivalent:.OnceToken', symObjAddr: 0xCE98, symBinAddr: 0x46770, symSize: 0x0 }
+  - { offsetInCU: 0x941, offset: 0x340D1, size: 0x8, addend: 0x0, symName: '-[SRShortcut isEqualToKeyEquivalent:withModifierFlags:usingTransformer:]', symObjAddr: 0x15E5, symBinAddr: 0x20A35, symSize: 0x3E4 }
+  - { offsetInCU: 0x96D, offset: 0x340FD, size: 0x8, addend: 0x0, symName: '_isEqualToKeyEquivalent:withModifierFlags:usingTransformer:.PossibleFlags', symObjAddr: 0x2EF0, symBinAddr: 0x2D1B0, symSize: 0x0 }
+  - { offsetInCU: 0xD22, offset: 0x344B2, size: 0x8, addend: 0x0, symName: '-[SRShortcut description]', symObjAddr: 0x1EE4, symBinAddr: 0x21334, symSize: 0x45 }
+  - { offsetInCU: 0xD4D, offset: 0x344DD, size: 0x8, addend: 0x0, symName: _description.formatter, symObjAddr: 0xCEA0, symBinAddr: 0x46778, symSize: 0x0 }
+  - { offsetInCU: 0xD63, offset: 0x344F3, size: 0x8, addend: 0x0, symName: _description.onceToken, symObjAddr: 0xCEA8, symBinAddr: 0x46780, symSize: 0x0 }
+  - { offsetInCU: 0x1188, offset: 0x34918, size: 0x8, addend: 0x0, symName: '+[SRShortcut shortcutWithCode:modifierFlags:characters:charactersIgnoringModifiers:]', symObjAddr: 0x0, symBinAddr: 0x1F450, symSize: 0x85 }
+  - { offsetInCU: 0x1267, offset: 0x349F7, size: 0x8, addend: 0x0, symName: '+[SRShortcut shortcutWithDictionary:]', symObjAddr: 0x351, symBinAddr: 0x1F7A1, symSize: 0x222 }
+  - { offsetInCU: 0x14D0, offset: 0x34C60, size: 0x8, addend: 0x0, symName: '___40+[SRShortcut shortcutWithKeyEquivalent:]_block_invoke', symObjAddr: 0x8DE, symBinAddr: 0x1FD2E, symSize: 0x96 }
+  - { offsetInCU: 0x1529, offset: 0x34CB9, size: 0x8, addend: 0x0, symName: '+[SRShortcut shortcutWithKeyBinding:]', symObjAddr: 0x974, symBinAddr: 0x1FDC4, symSize: 0x7E }
+  - { offsetInCU: 0x15B5, offset: 0x34D45, size: 0x8, addend: 0x0, symName: '-[SRShortcut initWithCode:modifierFlags:characters:charactersIgnoringModifiers:]', symObjAddr: 0x9F2, symBinAddr: 0x1FE42, symSize: 0x284 }
+  - { offsetInCU: 0x1774, offset: 0x34F04, size: 0x8, addend: 0x0, symName: '-[SRShortcut dictionaryRepresentation]', symObjAddr: 0xC76, symBinAddr: 0x200C6, symSize: 0x1B7 }
+  - { offsetInCU: 0x18CA, offset: 0x3505A, size: 0x8, addend: 0x0, symName: '-[SRShortcut readableStringRepresentation:]', symObjAddr: 0xE2D, symBinAddr: 0x2027D, symSize: 0x69 }
+  - { offsetInCU: 0x194C, offset: 0x350DC, size: 0x8, addend: 0x0, symName: _SRReadableASCIIStringForCocoaModifierFlagsAndKeyCode, symObjAddr: 0xE96, symBinAddr: 0x202E6, symSize: 0x1E9 }
+  - { offsetInCU: 0x1A93, offset: 0x35223, size: 0x8, addend: 0x0, symName: _SRReadableStringForCocoaModifierFlagsAndKeyCode, symObjAddr: 0x107F, symBinAddr: 0x204CF, symSize: 0x1E9 }
+  - { offsetInCU: 0x1BED, offset: 0x3537D, size: 0x8, addend: 0x0, symName: '-[SRShortcut isEqualToShortcut:]', symObjAddr: 0x1268, symBinAddr: 0x206B8, symSize: 0xB9 }
+  - { offsetInCU: 0x1CD2, offset: 0x35462, size: 0x8, addend: 0x0, symName: '-[SRShortcut isEqualToDictionary:]', symObjAddr: 0x1321, symBinAddr: 0x20771, symSize: 0x1BE }
+  - { offsetInCU: 0x1E34, offset: 0x355C4, size: 0x8, addend: 0x0, symName: '-[SRShortcut isEqualToKeyEquivalent:withModifierFlags:]', symObjAddr: 0x14DF, symBinAddr: 0x2092F, symSize: 0x106 }
+  - { offsetInCU: 0x1F42, offset: 0x356D2, size: 0x8, addend: 0x0, symName: '-[SRShortcut objectForKeyedSubscript:]', symObjAddr: 0x19C9, symBinAddr: 0x20E19, symSize: 0x12C }
+  - { offsetInCU: 0x204B, offset: 0x357DB, size: 0x8, addend: 0x0, symName: '-[SRShortcut copyWithZone:]', symObjAddr: 0x1AF5, symBinAddr: 0x20F45, symSize: 0xB }
+  - { offsetInCU: 0x20A0, offset: 0x35830, size: 0x8, addend: 0x0, symName: '+[SRShortcut supportsSecureCoding]', symObjAddr: 0x1B00, symBinAddr: 0x20F50, symSize: 0xB }
+  - { offsetInCU: 0x20D2, offset: 0x35862, size: 0x8, addend: 0x0, symName: '-[SRShortcut initWithCoder:]', symObjAddr: 0x1B0B, symBinAddr: 0x20F5B, symSize: 0x15F }
+  - { offsetInCU: 0x224A, offset: 0x359DA, size: 0x8, addend: 0x0, symName: '-[SRShortcut encodeWithCoder:]', symObjAddr: 0x1C6A, symBinAddr: 0x210BA, symSize: 0x1C2 }
+  - { offsetInCU: 0x241B, offset: 0x35BAB, size: 0x8, addend: 0x0, symName: '-[SRShortcut isEqual:]', symObjAddr: 0x1E2C, symBinAddr: 0x2127C, symSize: 0x72 }
+  - { offsetInCU: 0x24B6, offset: 0x35C46, size: 0x8, addend: 0x0, symName: '-[SRShortcut hash]', symObjAddr: 0x1E9E, symBinAddr: 0x212EE, symSize: 0x46 }
+  - { offsetInCU: 0x2511, offset: 0x35CA1, size: 0x8, addend: 0x0, symName: '___25-[SRShortcut description]_block_invoke', symObjAddr: 0x1F29, symBinAddr: 0x21379, symSize: 0x76 }
+  - { offsetInCU: 0x2584, offset: 0x35D14, size: 0x8, addend: 0x0, symName: '-[SRShortcut keyCode]', symObjAddr: 0x1F9F, symBinAddr: 0x213EF, symSize: 0xA }
+  - { offsetInCU: 0x25B8, offset: 0x35D48, size: 0x8, addend: 0x0, symName: '-[SRShortcut modifierFlags]', symObjAddr: 0x1FA9, symBinAddr: 0x213F9, symSize: 0xA }
+  - { offsetInCU: 0x25EC, offset: 0x35D7C, size: 0x8, addend: 0x0, symName: '-[SRShortcut characters]', symObjAddr: 0x1FB3, symBinAddr: 0x21403, symSize: 0x14 }
+  - { offsetInCU: 0x2623, offset: 0x35DB3, size: 0x8, addend: 0x0, symName: '-[SRShortcut charactersIgnoringModifiers]', symObjAddr: 0x1FC7, symBinAddr: 0x21417, symSize: 0x14 }
+  - { offsetInCU: 0x265A, offset: 0x35DEA, size: 0x8, addend: 0x0, symName: '-[SRShortcut .cxx_destruct]', symObjAddr: 0x1FDB, symBinAddr: 0x2142B, symSize: 0x28 }
+  - { offsetInCU: 0x268B, offset: 0x35E1B, size: 0x8, addend: 0x0, symName: '-[SRShortcut(Carbon) carbonKeyCode]', symObjAddr: 0x2003, symBinAddr: 0x21453, symSize: 0x16 }
+  - { offsetInCU: 0x26FD, offset: 0x35E8D, size: 0x8, addend: 0x0, symName: '-[SRShortcut(Carbon) carbonModifierFlags]', symObjAddr: 0x2019, symBinAddr: 0x21469, symSize: 0xB5 }
+  - { offsetInCU: 0x27BA, offset: 0x35F4A, size: 0x8, addend: 0x0, symName: _SRKeyCodeWithFlagsEqualToKeyEquivalentWithFlags, symObjAddr: 0x20CE, symBinAddr: 0x2151E, symSize: 0x8F }
+  - { offsetInCU: 0x27, offset: 0x36247, size: 0x8, addend: 0x0, symName: '+[SRShortcutAction shortcutActionWithShortcut:target:action:tag:]', symObjAddr: 0x0, symBinAddr: 0x215B0, symSize: 0xB8 }
+  - { offsetInCU: 0x34, offset: 0x36254, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction setShortcut:]', symObjAddr: 0x38F, symBinAddr: 0x2193F, symSize: 0x93 }
+  - { offsetInCU: 0xE4, offset: 0x36304, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction setObservedObject:withKeyPath:]', symObjAddr: 0x59F, symBinAddr: 0x21B0F, symSize: 0xBD }
+  - { offsetInCU: 0x1D1, offset: 0x363F1, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction performActionOnTarget:]', symObjAddr: 0xB25, symBinAddr: 0x22075, symSize: 0xD4 }
+  - { offsetInCU: 0x283, offset: 0x364A3, size: 0x8, addend: 0x0, symName: '___42-[SRShortcutAction performActionOnTarget:]_block_invoke', symObjAddr: 0xBF9, symBinAddr: 0x22149, symSize: 0x450 }
+  - { offsetInCU: 0xB6B, offset: 0x36D8B, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction observeValueForKeyPath:ofObject:change:context:]', symObjAddr: 0x1131, symBinAddr: 0x22611, symSize: 0x120 }
+  - { offsetInCU: 0xCC3, offset: 0x36EE3, size: 0x8, addend: 0x0, symName: '-[NSEvent(SRShortcutAction) SR_keyEventType]', symObjAddr: 0x1609, symBinAddr: 0x22AB9, symSize: 0x1E3 }
+  - { offsetInCU: 0xFFF, offset: 0x3721F, size: 0x8, addend: 0x0, symName: _SRShortcutActionSignature, symObjAddr: 0xD4E0, symBinAddr: 0x2D230, symSize: 0x0 }
+  - { offsetInCU: 0x1015, offset: 0x37235, size: 0x8, addend: 0x0, symName: '+[SRGlobalShortcutMonitor sharedMonitor]', symObjAddr: 0x3B8F, symBinAddr: 0x2503F, symSize: 0x30 }
+  - { offsetInCU: 0x1040, offset: 0x37260, size: 0x8, addend: 0x0, symName: _sharedMonitor.Shared, symObjAddr: 0x2E368, symBinAddr: 0x46788, symSize: 0x0 }
+  - { offsetInCU: 0x1056, offset: 0x37276, size: 0x8, addend: 0x0, symName: _sharedMonitor.onceToken, symObjAddr: 0x2E370, symBinAddr: 0x46790, symSize: 0x0 }
+  - { offsetInCU: 0x1298, offset: 0x374B8, size: 0x8, addend: 0x0, symName: '-[SRGlobalShortcutMonitor resume]', symObjAddr: 0x3E20, symBinAddr: 0x252D0, symSize: 0x2D4 }
+  - { offsetInCU: 0x14D0, offset: 0x376F0, size: 0x8, addend: 0x0, symName: '-[SRGlobalShortcutMonitor pause]', symObjAddr: 0x40F4, symBinAddr: 0x255A4, symSize: 0x2DF }
+  - { offsetInCU: 0x16FC, offset: 0x3791C, size: 0x8, addend: 0x0, symName: '-[SRGlobalShortcutMonitor handleEvent:]', symObjAddr: 0x43D3, symBinAddr: 0x25883, symSize: 0xA1 }
+  - { offsetInCU: 0x176E, offset: 0x3798E, size: 0x8, addend: 0x0, symName: '___39-[SRGlobalShortcutMonitor handleEvent:]_block_invoke', symObjAddr: 0x4474, symBinAddr: 0x25924, symSize: 0x593 }
+  - { offsetInCU: 0x1F98, offset: 0x381B8, size: 0x8, addend: 0x0, symName: '-[SRGlobalShortcutMonitor didAddEventHandler]', symObjAddr: 0x4ABC, symBinAddr: 0x25F1C, symSize: 0x4B }
+  - { offsetInCU: 0x20B7, offset: 0x382D7, size: 0x8, addend: 0x0, symName: '-[SRGlobalShortcutMonitor didRemoveEventHandler]', symObjAddr: 0x4B07, symBinAddr: 0x25F67, symSize: 0x4B }
+  - { offsetInCU: 0x21CA, offset: 0x383EA, size: 0x8, addend: 0x0, symName: '-[SRGlobalShortcutMonitor _installEventHandlerIfNeeded]', symObjAddr: 0x4B52, symBinAddr: 0x25FB2, symSize: 0x146 }
+  - { offsetInCU: 0x21F2, offset: 0x38412, size: 0x8, addend: 0x0, symName: __installEventHandlerIfNeeded.EventSpec, symObjAddr: 0xD4F0, symBinAddr: 0x2D240, symSize: 0x0 }
+  - { offsetInCU: 0x244A, offset: 0x3866A, size: 0x8, addend: 0x0, symName: '-[SRGlobalShortcutMonitor _removeEventHandlerIfNeeded]', symObjAddr: 0x4D38, symBinAddr: 0x26198, symSize: 0x127 }
+  - { offsetInCU: 0x2695, offset: 0x388B5, size: 0x8, addend: 0x0, symName: '-[SRGlobalShortcutMonitor _registerHotKeyForShortcutIfNeeded:]', symObjAddr: 0x4E5F, symBinAddr: 0x262BF, symSize: 0x375 }
+  - { offsetInCU: 0x26D3, offset: 0x388F3, size: 0x8, addend: 0x0, symName: '__registerHotKeyForShortcutIfNeeded:.CarbonID', symObjAddr: 0x2E378, symBinAddr: 0x46798, symSize: 0x0 }
+  - { offsetInCU: 0x2C02, offset: 0x38E22, size: 0x8, addend: 0x0, symName: '-[SRGlobalShortcutMonitor _unregisterHotKeyForShortcutIfNeeded:]', symObjAddr: 0x52D6, symBinAddr: 0x26736, symSize: 0x375 }
+  - { offsetInCU: 0x30E9, offset: 0x39309, size: 0x8, addend: 0x0, symName: __SRQuartzEventHandler, symObjAddr: 0x57EB, symBinAddr: 0x26C4B, symSize: 0x143 }
+  - { offsetInCU: 0x33BF, offset: 0x395DF, size: 0x8, addend: 0x0, symName: '-[SRAXGlobalShortcutMonitor initWithRunLoop:]', symObjAddr: 0x5988, symBinAddr: 0x26DE8, symSize: 0x129 }
+  - { offsetInCU: 0x362E, offset: 0x3984E, size: 0x8, addend: 0x0, symName: '-[SRAXGlobalShortcutMonitor handleEvent:]', symObjAddr: 0x5B07, symBinAddr: 0x26F67, symSize: 0x9E }
+  - { offsetInCU: 0x369D, offset: 0x398BD, size: 0x8, addend: 0x0, symName: '___41-[SRAXGlobalShortcutMonitor handleEvent:]_block_invoke', symObjAddr: 0x5BA5, symBinAddr: 0x27005, symSize: 0x1EB }
+  - { offsetInCU: 0x395D, offset: 0x39B7D, size: 0x8, addend: 0x0, symName: '-[SRLocalShortcutMonitor handleEvent:withTarget:]', symObjAddr: 0x711F, symBinAddr: 0x2857F, symSize: 0x1CF }
+  - { offsetInCU: 0x3B80, offset: 0x39DA0, size: 0x8, addend: 0x0, symName: '+[SRLocalShortcutMonitor _parseSystemKeyBindings]', symObjAddr: 0x7840, symBinAddr: 0x28CA0, symSize: 0x1F8 }
+  - { offsetInCU: 0x3E0C, offset: 0x3A02C, size: 0x8, addend: 0x0, symName: '+[SRLocalShortcutMonitor _parseUserKeyBindings]', symObjAddr: 0x7AB9, symBinAddr: 0x28F19, symSize: 0x1FF }
+  - { offsetInCU: 0x40ED, offset: 0x3A30D, size: 0x8, addend: 0x0, symName: __SRShortcutActionContext, symObjAddr: 0xBD10, symBinAddr: 0x46498, symSize: 0x0 }
+  - { offsetInCU: 0x4104, offset: 0x3A324, size: 0x8, addend: 0x0, symName: __SRShortcutMonitorContext, symObjAddr: 0xBDD8, symBinAddr: 0x46560, symSize: 0x0 }
+  - { offsetInCU: 0x410D, offset: 0x3A32D, size: 0x8, addend: 0x0, symName: __SRCarbonEventHandler, symObjAddr: 0x4C98, symBinAddr: 0x260F8, symSize: 0xA0 }
+  - { offsetInCU: 0x49BF, offset: 0x3ABDF, size: 0x8, addend: 0x0, symName: '+[SRShortcutAction shortcutActionWithShortcut:target:action:tag:]', symObjAddr: 0x0, symBinAddr: 0x215B0, symSize: 0xB8 }
+  - { offsetInCU: 0x4AF7, offset: 0x3AD17, size: 0x8, addend: 0x0, symName: '+[SRShortcutAction shortcutActionWithShortcut:actionHandler:]', symObjAddr: 0xB8, symBinAddr: 0x21668, symSize: 0x90 }
+  - { offsetInCU: 0x4BE3, offset: 0x3AE03, size: 0x8, addend: 0x0, symName: '+[SRShortcutAction shortcutActionWithKeyPath:ofObject:target:action:tag:]', symObjAddr: 0x148, symBinAddr: 0x216F8, symSize: 0xD5 }
+  - { offsetInCU: 0x4D56, offset: 0x3AF76, size: 0x8, addend: 0x0, symName: '+[SRShortcutAction shortcutActionWithKeyPath:ofObject:actionHandler:]', symObjAddr: 0x21D, symBinAddr: 0x217CD, symSize: 0xA1 }
+  - { offsetInCU: 0x4E75, offset: 0x3B095, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction init]', symObjAddr: 0x2BE, symBinAddr: 0x2186E, symSize: 0x38 }
+  - { offsetInCU: 0x4EA9, offset: 0x3B0C9, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction dealloc]', symObjAddr: 0x2F6, symBinAddr: 0x218A6, symSize: 0x3E }
+  - { offsetInCU: 0x4EED, offset: 0x3B10D, size: 0x8, addend: 0x0, symName: '+[SRShortcutAction automaticallyNotifiesObserversOfShortcut]', symObjAddr: 0x334, symBinAddr: 0x218E4, symSize: 0x8 }
+  - { offsetInCU: 0x4F1D, offset: 0x3B13D, size: 0x8, addend: 0x0, symName: '+[SRShortcutAction automaticallyNotifiesObserversOfActionHandler]', symObjAddr: 0x33C, symBinAddr: 0x218EC, symSize: 0x8 }
+  - { offsetInCU: 0x4F4D, offset: 0x3B16D, size: 0x8, addend: 0x0, symName: '+[SRShortcutAction automaticallyNotifiesObserversOfTarget]', symObjAddr: 0x344, symBinAddr: 0x218F4, symSize: 0x8 }
+  - { offsetInCU: 0x4F7D, offset: 0x3B19D, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction shortcut]', symObjAddr: 0x34C, symBinAddr: 0x218FC, symSize: 0x43 }
+  - { offsetInCU: 0x4FE1, offset: 0x3B201, size: 0x8, addend: 0x0, symName: '___32-[SRShortcutAction setShortcut:]_block_invoke', symObjAddr: 0x422, symBinAddr: 0x219D2, symSize: 0x133 }
+  - { offsetInCU: 0x50DA, offset: 0x3B2FA, size: 0x8, addend: 0x0, symName: '___50-[SRShortcutAction setObservedObject:withKeyPath:]_block_invoke', symObjAddr: 0x65C, symBinAddr: 0x21BCC, symSize: 0x159 }
+  - { offsetInCU: 0x51E1, offset: 0x3B401, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s, symObjAddr: 0x7B5, symBinAddr: 0x21D25, symSize: 0x2C }
+  - { offsetInCU: 0x522B, offset: 0x3B44B, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction actionHandler]', symObjAddr: 0x80D, symBinAddr: 0x21D5D, symSize: 0x41 }
+  - { offsetInCU: 0x5284, offset: 0x3B4A4, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction setActionHandler:]', symObjAddr: 0x84E, symBinAddr: 0x21D9E, symSize: 0x112 }
+  - { offsetInCU: 0x5378, offset: 0x3B598, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction target]', symObjAddr: 0x960, symBinAddr: 0x21EB0, symSize: 0x9B }
+  - { offsetInCU: 0x540E, offset: 0x3B62E, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction setTarget:]', symObjAddr: 0x9FB, symBinAddr: 0x21F4B, symSize: 0x12A }
+  - { offsetInCU: 0x5579, offset: 0x3B799, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction _invalidateObserving]', symObjAddr: 0x10C0, symBinAddr: 0x225A0, symSize: 0x71 }
+  - { offsetInCU: 0x55F1, offset: 0x3B811, size: 0x8, addend: 0x0, symName: '___67-[SRShortcutAction observeValueForKeyPath:ofObject:change:context:]_block_invoke', symObjAddr: 0x1251, symBinAddr: 0x22731, symSize: 0x27A }
+  - { offsetInCU: 0x57D1, offset: 0x3B9F1, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32s40s48s56s, symObjAddr: 0x14CB, symBinAddr: 0x229AB, symSize: 0x33 }
+  - { offsetInCU: 0x5826, offset: 0x3BA46, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction identifier]', symObjAddr: 0x1531, symBinAddr: 0x229E1, symSize: 0x14 }
+  - { offsetInCU: 0x585D, offset: 0x3BA7D, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction setIdentifier:]', symObjAddr: 0x1545, symBinAddr: 0x229F5, symSize: 0xF }
+  - { offsetInCU: 0x589C, offset: 0x3BABC, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction tag]', symObjAddr: 0x1554, symBinAddr: 0x22A04, symSize: 0xA }
+  - { offsetInCU: 0x58D0, offset: 0x3BAF0, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction setTag:]', symObjAddr: 0x155E, symBinAddr: 0x22A0E, symSize: 0xA }
+  - { offsetInCU: 0x590C, offset: 0x3BB2C, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction observedObject]', symObjAddr: 0x1568, symBinAddr: 0x22A18, symSize: 0x16 }
+  - { offsetInCU: 0x5941, offset: 0x3BB61, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction observedKeyPath]', symObjAddr: 0x157E, symBinAddr: 0x22A2E, symSize: 0x14 }
+  - { offsetInCU: 0x5978, offset: 0x3BB98, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction action]', symObjAddr: 0x1592, symBinAddr: 0x22A42, symSize: 0xA }
+  - { offsetInCU: 0x59AC, offset: 0x3BBCC, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction setAction:]', symObjAddr: 0x159C, symBinAddr: 0x22A4C, symSize: 0xA }
+  - { offsetInCU: 0x59E8, offset: 0x3BC08, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction isEnabled]', symObjAddr: 0x15A6, symBinAddr: 0x22A56, symSize: 0xA }
+  - { offsetInCU: 0x5A1C, offset: 0x3BC3C, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction setEnabled:]', symObjAddr: 0x15B0, symBinAddr: 0x22A60, symSize: 0x9 }
+  - { offsetInCU: 0x5A58, offset: 0x3BC78, size: 0x8, addend: 0x0, symName: '-[SRShortcutAction .cxx_destruct]', symObjAddr: 0x15B9, symBinAddr: 0x22A69, symSize: 0x50 }
+  - { offsetInCU: 0x5A89, offset: 0x3BCA9, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor init]', symObjAddr: 0x17EC, symBinAddr: 0x22C9C, symSize: 0x109 }
+  - { offsetInCU: 0x5B89, offset: 0x3BDA9, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor dealloc]', symObjAddr: 0x18F5, symBinAddr: 0x22DA5, symSize: 0x255 }
+  - { offsetInCU: 0x5C9F, offset: 0x3BEBF, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor actions]', symObjAddr: 0x1B4A, symBinAddr: 0x22FFA, symSize: 0x6B }
+  - { offsetInCU: 0x5CFC, offset: 0x3BF1C, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor shortcuts]', symObjAddr: 0x1BB5, symBinAddr: 0x23065, symSize: 0x6B }
+  - { offsetInCU: 0x5D59, offset: 0x3BF79, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor actionsForKeyEvent:]', symObjAddr: 0x1C20, symBinAddr: 0x230D0, symSize: 0x9D }
+  - { offsetInCU: 0x5DE3, offset: 0x3C003, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor enabledActionsForShortcut:keyEvent:]', symObjAddr: 0x1CBD, symBinAddr: 0x2316D, symSize: 0x105 }
+  - { offsetInCU: 0x5EE3, offset: 0x3C103, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor addAction:forKeyEvent:]', symObjAddr: 0x1DC2, symBinAddr: 0x23272, symSize: 0x2A4 }
+  - { offsetInCU: 0x6194, offset: 0x3C3B4, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor removeAction:forKeyEvent:]', symObjAddr: 0x2066, symBinAddr: 0x23516, symSize: 0x28A }
+  - { offsetInCU: 0x6413, offset: 0x3C633, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor removeAction:]', symObjAddr: 0x22F0, symBinAddr: 0x237A0, symSize: 0x97 }
+  - { offsetInCU: 0x64DE, offset: 0x3C6FE, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor removeAllActions]', symObjAddr: 0x2387, symBinAddr: 0x23837, symSize: 0x4C7 }
+  - { offsetInCU: 0x67B8, offset: 0x3C9D8, size: 0x8, addend: 0x0, symName: '___37-[SRShortcutMonitor removeAllActions]_block_invoke', symObjAddr: 0x284E, symBinAddr: 0x23CFE, symSize: 0x19 }
+  - { offsetInCU: 0x6837, offset: 0x3CA57, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32s, symObjAddr: 0x2876, symBinAddr: 0x23D26, symSize: 0xF }
+  - { offsetInCU: 0x6861, offset: 0x3CA81, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor willAddShortcut:]', symObjAddr: 0x2885, symBinAddr: 0x23D35, symSize: 0x6 }
+  - { offsetInCU: 0x689C, offset: 0x3CABC, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor didAddShortcut:]', symObjAddr: 0x288B, symBinAddr: 0x23D3B, symSize: 0x6 }
+  - { offsetInCU: 0x68D7, offset: 0x3CAF7, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor willRemoveShortcut:]', symObjAddr: 0x2891, symBinAddr: 0x23D41, symSize: 0x6 }
+  - { offsetInCU: 0x6912, offset: 0x3CB32, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor didRemoveShortcut:]', symObjAddr: 0x2897, symBinAddr: 0x23D47, symSize: 0x6 }
+  - { offsetInCU: 0x694D, offset: 0x3CB6D, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor _actionsForKeyEvent:]', symObjAddr: 0x289D, symBinAddr: 0x23D4D, symSize: 0x61 }
+  - { offsetInCU: 0x69A8, offset: 0x3CBC8, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor _shortcutToEnabledActionsForKeyEvent:]', symObjAddr: 0x28FE, symBinAddr: 0x23DAE, symSize: 0x61 }
+  - { offsetInCU: 0x6A03, offset: 0x3CC23, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor _enabledActionsForShortcut:keyEvent:]', symObjAddr: 0x295F, symBinAddr: 0x23E0F, symSize: 0x89 }
+  - { offsetInCU: 0x6AA5, offset: 0x3CCC5, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor _shortcutForEnabledAction:hint:]', symObjAddr: 0x29E8, symBinAddr: 0x23E98, symSize: 0x25B }
+  - { offsetInCU: 0x6C71, offset: 0x3CE91, size: 0x8, addend: 0x0, symName: '___52-[SRShortcutMonitor _shortcutForEnabledAction:hint:]_block_invoke', symObjAddr: 0x2C43, symBinAddr: 0x240F3, symSize: 0x13F }
+  - { offsetInCU: 0x6D86, offset: 0x3CFA6, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor _enabledActionDidChangeShortcut:from:to:]', symObjAddr: 0x2D82, symBinAddr: 0x24232, symSize: 0x230 }
+  - { offsetInCU: 0x6FF0, offset: 0x3D210, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor _addEnabledAction:toShortcut:forKeyEvent:]', symObjAddr: 0x2FB2, symBinAddr: 0x24462, symSize: 0x114 }
+  - { offsetInCU: 0x7163, offset: 0x3D383, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor _removeEnabledAction:fromShortcut:forKeyEvent:]', symObjAddr: 0x30C6, symBinAddr: 0x24576, symSize: 0xF0 }
+  - { offsetInCU: 0x72C6, offset: 0x3D4E6, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor observeValueForKeyPath:ofObject:change:context:]', symObjAddr: 0x31B6, symBinAddr: 0x24666, symSize: 0x4E1 }
+  - { offsetInCU: 0x7723, offset: 0x3D943, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor debugDescription]', symObjAddr: 0x3697, symBinAddr: 0x24B47, symSize: 0x15B }
+  - { offsetInCU: 0x787D, offset: 0x3DA9D, size: 0x8, addend: 0x0, symName: '___37-[SRShortcutMonitor debugDescription]_block_invoke', symObjAddr: 0x37F2, symBinAddr: 0x24CA2, symSize: 0x299 }
+  - { offsetInCU: 0x79B6, offset: 0x3DBD6, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor .cxx_destruct]', symObjAddr: 0x3A8B, symBinAddr: 0x24F3B, symSize: 0x5F }
+  - { offsetInCU: 0x79E8, offset: 0x3DC08, size: 0x8, addend: 0x0, symName: '-[SRShortcutMonitor(SRShortcutMonitorConveniences) addAction:forKeyEquivalent:tag:]', symObjAddr: 0x3AEA, symBinAddr: 0x24F9A, symSize: 0xA5 }
+  - { offsetInCU: 0x7AE1, offset: 0x3DD01, size: 0x8, addend: 0x0, symName: '___40+[SRGlobalShortcutMonitor sharedMonitor]_block_invoke', symObjAddr: 0x3BBF, symBinAddr: 0x2506F, symSize: 0x2D }
+  - { offsetInCU: 0x7B20, offset: 0x3DD40, size: 0x8, addend: 0x0, symName: '-[SRGlobalShortcutMonitor init]', symObjAddr: 0x3BEC, symBinAddr: 0x2509C, symSize: 0xD1 }
+  - { offsetInCU: 0x7BA5, offset: 0x3DDC5, size: 0x8, addend: 0x0, symName: '-[SRGlobalShortcutMonitor dealloc]', symObjAddr: 0x3CBD, symBinAddr: 0x2516D, symSize: 0x163 }
+  - { offsetInCU: 0x7CEF, offset: 0x3DF0F, size: 0x8, addend: 0x0, symName: '___39-[SRGlobalShortcutMonitor handleEvent:]_block_invoke.343', symObjAddr: 0x4A07, symBinAddr: 0x25EB7, symSize: 0x34 }
+  - { offsetInCU: 0x7D71, offset: 0x3DF91, size: 0x8, addend: 0x0, symName: ___copy_helper_block_e8_32r, symObjAddr: 0x4A3B, symBinAddr: 0x25EEB, symSize: 0x17 }
+  - { offsetInCU: 0x7D9A, offset: 0x3DFBA, size: 0x8, addend: 0x0, symName: ___destroy_helper_block_e8_32r, symObjAddr: 0x4A52, symBinAddr: 0x25F02, symSize: 0x13 }
+  - { offsetInCU: 0x7E53, offset: 0x3E073, size: 0x8, addend: 0x0, symName: '___62-[SRGlobalShortcutMonitor _registerHotKeyForShortcutIfNeeded:]_block_invoke', symObjAddr: 0x51D4, symBinAddr: 0x26634, symSize: 0x81 }
+  - { offsetInCU: 0x7F35, offset: 0x3E155, size: 0x8, addend: 0x0, symName: '___62-[SRGlobalShortcutMonitor _registerHotKeyForShortcutIfNeeded:]_block_invoke.367', symObjAddr: 0x5255, symBinAddr: 0x266B5, symSize: 0x81 }
+  - { offsetInCU: 0x8007, offset: 0x3E227, size: 0x8, addend: 0x0, symName: '___64-[SRGlobalShortcutMonitor _unregisterHotKeyForShortcutIfNeeded:]_block_invoke', symObjAddr: 0x564B, symBinAddr: 0x26AAB, symSize: 0x81 }
+  - { offsetInCU: 0x80C6, offset: 0x3E2E6, size: 0x8, addend: 0x0, symName: '___64-[SRGlobalShortcutMonitor _unregisterHotKeyForShortcutIfNeeded:]_block_invoke.375', symObjAddr: 0x56CC, symBinAddr: 0x26B2C, symSize: 0x81 }
+  - { offsetInCU: 0x8185, offset: 0x3E3A5, size: 0x8, addend: 0x0, symName: '-[SRGlobalShortcutMonitor didAddShortcut:]', symObjAddr: 0x574D, symBinAddr: 0x26BAD, symSize: 0x2E }
+  - { offsetInCU: 0x81F4, offset: 0x3E414, size: 0x8, addend: 0x0, symName: '-[SRGlobalShortcutMonitor willRemoveShortcut:]', symObjAddr: 0x577B, symBinAddr: 0x26BDB, symSize: 0x2E }
+  - { offsetInCU: 0x8263, offset: 0x3E483, size: 0x8, addend: 0x0, symName: '-[SRGlobalShortcutMonitor .cxx_destruct]', symObjAddr: 0x57A9, symBinAddr: 0x26C09, symSize: 0x42 }
+  - { offsetInCU: 0x82A9, offset: 0x3E4C9, size: 0x8, addend: 0x0, symName: '-[SRAXGlobalShortcutMonitor init]', symObjAddr: 0x592E, symBinAddr: 0x26D8E, symSize: 0x5A }
+  - { offsetInCU: 0x83B8, offset: 0x3E5D8, size: 0x8, addend: 0x0, symName: '-[SRAXGlobalShortcutMonitor dealloc]', symObjAddr: 0x5AB1, symBinAddr: 0x26F11, symSize: 0x56 }
+  - { offsetInCU: 0x8413, offset: 0x3E633, size: 0x8, addend: 0x0, symName: '___41-[SRAXGlobalShortcutMonitor handleEvent:]_block_invoke.416', symObjAddr: 0x5D90, symBinAddr: 0x271F0, symSize: 0x34 }
+  - { offsetInCU: 0x8495, offset: 0x3E6B5, size: 0x8, addend: 0x0, symName: '-[SRAXGlobalShortcutMonitor didAddShortcut:]', symObjAddr: 0x5DC4, symBinAddr: 0x27224, symSize: 0x41 }
+  - { offsetInCU: 0x84F3, offset: 0x3E713, size: 0x8, addend: 0x0, symName: '-[SRAXGlobalShortcutMonitor willRemoveShortcut:]', symObjAddr: 0x5E05, symBinAddr: 0x27265, symSize: 0x66 }
+  - { offsetInCU: 0x858B, offset: 0x3E7AB, size: 0x8, addend: 0x0, symName: '-[SRAXGlobalShortcutMonitor eventTap]', symObjAddr: 0x5E6B, symBinAddr: 0x272CB, symSize: 0x11 }
+  - { offsetInCU: 0x85BF, offset: 0x3E7DF, size: 0x8, addend: 0x0, symName: '-[SRAXGlobalShortcutMonitor eventTapSource]', symObjAddr: 0x5E7C, symBinAddr: 0x272DC, symSize: 0x11 }
+  - { offsetInCU: 0x85F3, offset: 0x3E813, size: 0x8, addend: 0x0, symName: '-[SRAXGlobalShortcutMonitor eventTapRunLoop]', symObjAddr: 0x5E8D, symBinAddr: 0x272ED, symSize: 0x16 }
+  - { offsetInCU: 0x862B, offset: 0x3E84B, size: 0x8, addend: 0x0, symName: '-[SRAXGlobalShortcutMonitor .cxx_destruct]', symObjAddr: 0x5EA3, symBinAddr: 0x27303, symSize: 0x13 }
+  - { offsetInCU: 0x865D, offset: 0x3E87D, size: 0x8, addend: 0x0, symName: '+[SRLocalShortcutMonitor standardShortcuts]', symObjAddr: 0x5EB6, symBinAddr: 0x27316, symSize: 0x866 }
+  - { offsetInCU: 0x895A, offset: 0x3EB7A, size: 0x8, addend: 0x0, symName: '+[SRLocalShortcutMonitor mainMenuShortcuts]', symObjAddr: 0x671C, symBinAddr: 0x27B7C, symSize: 0x685 }
+  - { offsetInCU: 0x8BAB, offset: 0x3EDCB, size: 0x8, addend: 0x0, symName: '+[SRLocalShortcutMonitor clipboardShortcuts]', symObjAddr: 0x6DA1, symBinAddr: 0x28201, symSize: 0x10A }
+  - { offsetInCU: 0x8C39, offset: 0x3EE59, size: 0x8, addend: 0x0, symName: '+[SRLocalShortcutMonitor windowShortcuts]', symObjAddr: 0x6EAB, symBinAddr: 0x2830B, symSize: 0xA4 }
+  - { offsetInCU: 0x8CA6, offset: 0x3EEC6, size: 0x8, addend: 0x0, symName: '+[SRLocalShortcutMonitor documentShortcuts]', symObjAddr: 0x6F4F, symBinAddr: 0x283AF, symSize: 0x12C }
+  - { offsetInCU: 0x8D3F, offset: 0x3EF5F, size: 0x8, addend: 0x0, symName: '+[SRLocalShortcutMonitor appShortcuts]', symObjAddr: 0x707B, symBinAddr: 0x284DB, symSize: 0xA4 }
+  - { offsetInCU: 0x8DAC, offset: 0x3EFCC, size: 0x8, addend: 0x0, symName: '___49-[SRLocalShortcutMonitor handleEvent:withTarget:]_block_invoke', symObjAddr: 0x72EE, symBinAddr: 0x2874E, symSize: 0x36 }
+  - { offsetInCU: 0x8E39, offset: 0x3F059, size: 0x8, addend: 0x0, symName: '-[SRLocalShortcutMonitor updateWithCocoaTextKeyBindings]', symObjAddr: 0x7324, symBinAddr: 0x28784, symSize: 0x119 }
+  - { offsetInCU: 0x8F6D, offset: 0x3F18D, size: 0x8, addend: 0x0, symName: '___56-[SRLocalShortcutMonitor updateWithCocoaTextKeyBindings]_block_invoke', symObjAddr: 0x743D, symBinAddr: 0x2889D, symSize: 0x3CB }
+  - { offsetInCU: 0x9227, offset: 0x3F447, size: 0x8, addend: 0x0, symName: '___56-[SRLocalShortcutMonitor updateWithCocoaTextKeyBindings]_block_invoke_2', symObjAddr: 0x7808, symBinAddr: 0x28C68, symSize: 0x38 }
+  - { offsetInCU: 0x9294, offset: 0x3F4B4, size: 0x8, addend: 0x0, symName: '___49+[SRLocalShortcutMonitor _parseSystemKeyBindings]_block_invoke', symObjAddr: 0x7A38, symBinAddr: 0x28E98, symSize: 0x81 }
+  - { offsetInCU: 0x935D, offset: 0x3F57D, size: 0x8, addend: 0x0, symName: '___47+[SRLocalShortcutMonitor _parseUserKeyBindings]_block_invoke', symObjAddr: 0x7CB8, symBinAddr: 0x29118, symSize: 0x88 }
+  - { offsetInCU: 0x27, offset: 0x40971, size: 0x8, addend: 0x0, symName: '-[SRShortcutController initWithContent:]', symObjAddr: 0x0, symBinAddr: 0x291A0, symSize: 0x47 }
+  - { offsetInCU: 0x40, offset: 0x4098A, size: 0x8, addend: 0x0, symName: _SRShortcutControllerSelectionKeyKeyEquivalent, symObjAddr: 0x1740, symBinAddr: 0x392D0, symSize: 0x0 }
+  - { offsetInCU: 0xB4, offset: 0x409FE, size: 0x8, addend: 0x0, symName: _SRShortcutControllerSelectionKeyKeyEquivalentModifierMask, symObjAddr: 0x1748, symBinAddr: 0x392D8, symSize: 0x0 }
+  - { offsetInCU: 0xC9, offset: 0x40A13, size: 0x8, addend: 0x0, symName: _SRShortcutControllerSelectionKeyLiteralKeyCode, symObjAddr: 0x1750, symBinAddr: 0x392E0, symSize: 0x0 }
+  - { offsetInCU: 0xDE, offset: 0x40A28, size: 0x8, addend: 0x0, symName: _SRShortcutControllerSelectionKeySymbolicKeyCode, symObjAddr: 0x1758, symBinAddr: 0x392E8, symSize: 0x0 }
+  - { offsetInCU: 0xF3, offset: 0x40A3D, size: 0x8, addend: 0x0, symName: _SRShortcutControllerSelectionKeyLiteralASCIIKeyCode, symObjAddr: 0x1760, symBinAddr: 0x392F0, symSize: 0x0 }
+  - { offsetInCU: 0x108, offset: 0x40A52, size: 0x8, addend: 0x0, symName: _SRShortcutControllerSelectionKeySymbolicASCIIKeyCode, symObjAddr: 0x1768, symBinAddr: 0x392F8, symSize: 0x0 }
+  - { offsetInCU: 0x11D, offset: 0x40A67, size: 0x8, addend: 0x0, symName: _SRShortcutControllerSelectionKeyLiteralModifierFlags, symObjAddr: 0x1770, symBinAddr: 0x39300, symSize: 0x0 }
+  - { offsetInCU: 0x132, offset: 0x40A7C, size: 0x8, addend: 0x0, symName: _SRShortcutControllerSelectionKeySymbolicModifierFlags, symObjAddr: 0x1778, symBinAddr: 0x39308, symSize: 0x0 }
+  - { offsetInCU: 0x147, offset: 0x40A91, size: 0x8, addend: 0x0, symName: _SRShortcutControllerKeyPathKeyEquivalent, symObjAddr: 0x1780, symBinAddr: 0x39310, symSize: 0x0 }
+  - { offsetInCU: 0x16C, offset: 0x40AB6, size: 0x8, addend: 0x0, symName: _SRShortcutControllerKeyPathKeyEquivalentModifierMask, symObjAddr: 0x1788, symBinAddr: 0x39318, symSize: 0x0 }
+  - { offsetInCU: 0x181, offset: 0x40ACB, size: 0x8, addend: 0x0, symName: _SRShortcutControllerKeyPathLiteralKeyCode, symObjAddr: 0x1790, symBinAddr: 0x39320, symSize: 0x0 }
+  - { offsetInCU: 0x196, offset: 0x40AE0, size: 0x8, addend: 0x0, symName: _SRShortcutControllerKeyPathSymbolicKeyCode, symObjAddr: 0x1798, symBinAddr: 0x39328, symSize: 0x0 }
+  - { offsetInCU: 0x1AB, offset: 0x40AF5, size: 0x8, addend: 0x0, symName: _SRShortcutControllerKeyPathLiteralASCIIKeyCode, symObjAddr: 0x17A0, symBinAddr: 0x39330, symSize: 0x0 }
+  - { offsetInCU: 0x1C0, offset: 0x40B0A, size: 0x8, addend: 0x0, symName: _SRShortcutControllerKeyPathSymbolicASCIIKeyCode, symObjAddr: 0x17A8, symBinAddr: 0x39338, symSize: 0x0 }
+  - { offsetInCU: 0x1D5, offset: 0x40B1F, size: 0x8, addend: 0x0, symName: _SRShortcutControllerKeyPathLiteralModifierFlags, symObjAddr: 0x17B0, symBinAddr: 0x39340, symSize: 0x0 }
+  - { offsetInCU: 0x1EA, offset: 0x40B34, size: 0x8, addend: 0x0, symName: _SRShortcutControllerKeyPathSymbolicModifierFlags, symObjAddr: 0x17B8, symBinAddr: 0x39348, symSize: 0x0 }
+  - { offsetInCU: 0xA2E, offset: 0x41378, size: 0x8, addend: 0x0, symName: '-[SRShortcutController initWithContent:]', symObjAddr: 0x0, symBinAddr: 0x291A0, symSize: 0x47 }
+  - { offsetInCU: 0xA7C, offset: 0x413C6, size: 0x8, addend: 0x0, symName: '-[SRShortcutController initWithCoder:]', symObjAddr: 0x47, symBinAddr: 0x291E7, symSize: 0x47 }
+  - { offsetInCU: 0xACA, offset: 0x41414, size: 0x8, addend: 0x0, symName: '-[SRShortcutController initInternalState]', symObjAddr: 0x8E, symBinAddr: 0x2922E, symSize: 0xD0 }
+  - { offsetInCU: 0xB11, offset: 0x4145B, size: 0x8, addend: 0x0, symName: '-[SRShortcutController dealloc]', symObjAddr: 0x15E, symBinAddr: 0x292FE, symSize: 0x3E }
+  - { offsetInCU: 0xB55, offset: 0x4149F, size: 0x8, addend: 0x0, symName: '+[SRShortcutController automaticallyNotifiesObserversOfShortcutActionTarget]', symObjAddr: 0x19C, symBinAddr: 0x2933C, symSize: 0x8 }
+  - { offsetInCU: 0xB85, offset: 0x414CF, size: 0x8, addend: 0x0, symName: '+[SRShortcutController automaticallyNotifiesObserversOfShortcutAction]', symObjAddr: 0x1A4, symBinAddr: 0x29344, symSize: 0x8 }
+  - { offsetInCU: 0xBB5, offset: 0x414FF, size: 0x8, addend: 0x0, symName: '-[SRShortcutController shortcutActionTarget]', symObjAddr: 0x1AC, symBinAddr: 0x2934C, symSize: 0x1D }
+  - { offsetInCU: 0xBF4, offset: 0x4153E, size: 0x8, addend: 0x0, symName: '-[SRShortcutController setShortcutActionTarget:]', symObjAddr: 0x1C9, symBinAddr: 0x29369, symSize: 0x255 }
+  - { offsetInCU: 0xE02, offset: 0x4174C, size: 0x8, addend: 0x0, symName: '-[SRShortcutController recorderControl]', symObjAddr: 0x41E, symBinAddr: 0x295BE, symSize: 0x19 }
+  - { offsetInCU: 0xE36, offset: 0x41780, size: 0x8, addend: 0x0, symName: '-[SRShortcutController setRecorderControl:]', symObjAddr: 0x437, symBinAddr: 0x295D7, symSize: 0x8B }
+  - { offsetInCU: 0xED2, offset: 0x4181C, size: 0x8, addend: 0x0, symName: '-[SRShortcutController addSelectedKeyboardInputSourceObserverIfNeeded]', symObjAddr: 0x4C2, symBinAddr: 0x29662, symSize: 0x4C }
+  - { offsetInCU: 0xF8A, offset: 0x418D4, size: 0x8, addend: 0x0, symName: __onSelectedKeyboardInputSourceChange, symObjAddr: 0x50E, symBinAddr: 0x296AE, symSize: 0x15 }
+  - { offsetInCU: 0xFF0, offset: 0x4193A, size: 0x8, addend: 0x0, symName: '-[SRShortcutController removeSelectedKeyboardInputSourceObserverIfNeeded]', symObjAddr: 0x523, symBinAddr: 0x296C3, symSize: 0x3E }
+  - { offsetInCU: 0x1063, offset: 0x419AD, size: 0x8, addend: 0x0, symName: '-[SRShortcutController onSelectedKeyboardInputSourceObserverChange]', symObjAddr: 0x561, symBinAddr: 0x29701, symSize: 0xDF }
+  - { offsetInCU: 0x11A4, offset: 0x41AEE, size: 0x8, addend: 0x0, symName: '-[SRShortcutController updateComputedKeyPaths]', symObjAddr: 0x640, symBinAddr: 0x297E0, symSize: 0x411 }
+  - { offsetInCU: 0x1444, offset: 0x41D8E, size: 0x8, addend: 0x0, symName: '-[SRShortcutController _updateRecorderControlValueBinding]', symObjAddr: 0xA51, symBinAddr: 0x29BF1, symSize: 0x1CE }
+  - { offsetInCU: 0x1582, offset: 0x41ECC, size: 0x8, addend: 0x0, symName: '-[SRShortcutController valueForKeyPath:]', symObjAddr: 0xC1F, symBinAddr: 0x29DBF, symSize: 0x17D }
+  - { offsetInCU: 0x16B1, offset: 0x41FFB, size: 0x8, addend: 0x0, symName: '-[SRShortcutController bind:toObject:withKeyPath:options:]', symObjAddr: 0xD9C, symBinAddr: 0x29F3C, symSize: 0xA3 }
+  - { offsetInCU: 0x176E, offset: 0x420B8, size: 0x8, addend: 0x0, symName: '-[SRShortcutController didChangeValueForKey:]', symObjAddr: 0xE3F, symBinAddr: 0x29FDF, symSize: 0xC3 }
+  - { offsetInCU: 0x181A, offset: 0x42164, size: 0x8, addend: 0x0, symName: '-[SRShortcutController identifier]', symObjAddr: 0xF02, symBinAddr: 0x2A0A2, symSize: 0x15 }
+  - { offsetInCU: 0x184F, offset: 0x42199, size: 0x8, addend: 0x0, symName: '-[SRShortcutController setIdentifier:]', symObjAddr: 0xF17, symBinAddr: 0x2A0B7, symSize: 0x72 }
+  - { offsetInCU: 0x18E6, offset: 0x42230, size: 0x8, addend: 0x0, symName: '-[SRShortcutController objectClass]', symObjAddr: 0xF89, symBinAddr: 0x2A129, symSize: 0x19 }
+  - { offsetInCU: 0x1922, offset: 0x4226C, size: 0x8, addend: 0x0, symName: '-[SRShortcutController newObject]', symObjAddr: 0xFA2, symBinAddr: 0x2A142, symSize: 0x2D }
+  - { offsetInCU: 0x195E, offset: 0x422A8, size: 0x8, addend: 0x0, symName: '-[SRShortcutController addObject:]', symObjAddr: 0xFCF, symBinAddr: 0x2A16F, symSize: 0x12 }
+  - { offsetInCU: 0x19B9, offset: 0x42303, size: 0x8, addend: 0x0, symName: '-[SRShortcutController removeObject:]', symObjAddr: 0xFE1, symBinAddr: 0x2A181, symSize: 0x12 }
+  - { offsetInCU: 0x1A14, offset: 0x4235E, size: 0x8, addend: 0x0, symName: '-[SRShortcutController _singleValueForKey:]', symObjAddr: 0xFF3, symBinAddr: 0x2A193, symSize: 0x189 }
+  - { offsetInCU: 0x1B7E, offset: 0x424C8, size: 0x8, addend: 0x0, symName: '-[SRShortcutController shortcutAction]', symObjAddr: 0x117C, symBinAddr: 0x2A31C, symSize: 0x16 }
+  - { offsetInCU: 0x1BB5, offset: 0x424FF, size: 0x8, addend: 0x0, symName: '-[SRShortcutController .cxx_destruct]', symObjAddr: 0x1192, symBinAddr: 0x2A332, symSize: 0xC8 }
+  - { offsetInCU: 0x27, offset: 0x42578, size: 0x8, addend: 0x0, symName: '-[SRShortcutFormatter init]', symObjAddr: 0x0, symBinAddr: 0x2A3FA, symSize: 0x74 }
+  - { offsetInCU: 0x439, offset: 0x4298A, size: 0x8, addend: 0x0, symName: '-[SRShortcutFormatter init]', symObjAddr: 0x0, symBinAddr: 0x2A3FA, symSize: 0x74 }
+  - { offsetInCU: 0x478, offset: 0x429C9, size: 0x8, addend: 0x0, symName: '-[SRShortcutFormatter initWithCoder:]', symObjAddr: 0x74, symBinAddr: 0x2A46E, symSize: 0x74 }
+  - { offsetInCU: 0x4C6, offset: 0x42A17, size: 0x8, addend: 0x0, symName: '-[SRShortcutFormatter stringForObjectValue:]', symObjAddr: 0xE8, symBinAddr: 0x2A4E2, symSize: 0x2DE }
+  - { offsetInCU: 0x729, offset: 0x42C7A, size: 0x8, addend: 0x0, symName: '-[SRShortcutFormatter getObjectValue:forString:errorDescription:]', symObjAddr: 0x3C6, symBinAddr: 0x2A7C0, symSize: 0xBD }
+  - { offsetInCU: 0x809, offset: 0x42D5A, size: 0x8, addend: 0x0, symName: '-[SRShortcutFormatter isKeyCodeLiteral]', symObjAddr: 0x483, symBinAddr: 0x2A87D, symSize: 0x11 }
+  - { offsetInCU: 0x83D, offset: 0x42D8E, size: 0x8, addend: 0x0, symName: '-[SRShortcutFormatter setIsKeyCodeLiteral:]', symObjAddr: 0x494, symBinAddr: 0x2A88E, symSize: 0x10 }
+  - { offsetInCU: 0x879, offset: 0x42DCA, size: 0x8, addend: 0x0, symName: '-[SRShortcutFormatter areModifierFlagsLiteral]', symObjAddr: 0x4A4, symBinAddr: 0x2A89E, symSize: 0x11 }
+  - { offsetInCU: 0x8AD, offset: 0x42DFE, size: 0x8, addend: 0x0, symName: '-[SRShortcutFormatter setAreModifierFlagsLiteral:]', symObjAddr: 0x4B5, symBinAddr: 0x2A8AF, symSize: 0x10 }
+  - { offsetInCU: 0x8E9, offset: 0x42E3A, size: 0x8, addend: 0x0, symName: '-[SRShortcutFormatter usesASCIICapableKeyboardInputSource]', symObjAddr: 0x4C5, symBinAddr: 0x2A8BF, symSize: 0x11 }
+  - { offsetInCU: 0x91D, offset: 0x42E6E, size: 0x8, addend: 0x0, symName: '-[SRShortcutFormatter setUsesASCIICapableKeyboardInputSource:]', symObjAddr: 0x4D6, symBinAddr: 0x2A8D0, symSize: 0x10 }
+  - { offsetInCU: 0x959, offset: 0x42EAA, size: 0x8, addend: 0x0, symName: '-[SRShortcutFormatter layoutDirection]', symObjAddr: 0x4E6, symBinAddr: 0x2A8E0, symSize: 0x11 }
+  - { offsetInCU: 0x98D, offset: 0x42EDE, size: 0x8, addend: 0x0, symName: '-[SRShortcutFormatter setLayoutDirection:]', symObjAddr: 0x4F7, symBinAddr: 0x2A8F1, symSize: 0x11 }
+  - { offsetInCU: 0x27, offset: 0x4306D, size: 0x8, addend: 0x0, symName: '-[SRShortcutValidator initWithDelegate:]', symObjAddr: 0x0, symBinAddr: 0x2A902, symSize: 0x64 }
+  - { offsetInCU: 0x34, offset: 0x4307A, size: 0x8, addend: 0x0, symName: '-[SRShortcutValidator validateShortcut:error:]', symObjAddr: 0x78, symBinAddr: 0x2A97A, symSize: 0xEB }
+  - { offsetInCU: 0x109, offset: 0x4314F, size: 0x8, addend: 0x0, symName: '-[SRShortcutValidator validateShortcutAgainstDelegate:error:]', symObjAddr: 0x360, symBinAddr: 0x2ABEB, symSize: 0x1A1 }
+  - { offsetInCU: 0x243, offset: 0x43289, size: 0x8, addend: 0x0, symName: '-[SRShortcutValidator validateShortcutAgainstSystemShortcuts:error:]', symObjAddr: 0x97F, symBinAddr: 0x2B130, symSize: 0xEB }
+  - { offsetInCU: 0x305, offset: 0x4334B, size: 0x8, addend: 0x0, symName: '___68-[SRShortcutValidator validateShortcutAgainstSystemShortcuts:error:]_block_invoke', symObjAddr: 0xA6A, symBinAddr: 0x2B21B, symSize: 0x564 }
+  - { offsetInCU: 0x7AC, offset: 0x437F2, size: 0x8, addend: 0x0, symName: '-[SRShortcutValidator validateShortcut:againstMenu:error:]', symObjAddr: 0xFCE, symBinAddr: 0x2B77F, symSize: 0x115 }
+  - { offsetInCU: 0x8C5, offset: 0x4390B, size: 0x8, addend: 0x0, symName: '-[NSMenuItem(SRShortcutValidator) SR_path]', symObjAddr: 0x196A, symBinAddr: 0x2C0D0, symSize: 0x2CB }
+  - { offsetInCU: 0xEEE, offset: 0x43F34, size: 0x8, addend: 0x0, symName: '-[SRShortcutValidator initWithDelegate:]', symObjAddr: 0x0, symBinAddr: 0x2A902, symSize: 0x64 }
+  - { offsetInCU: 0xF56, offset: 0x43F9C, size: 0x8, addend: 0x0, symName: '-[SRShortcutValidator init]', symObjAddr: 0x64, symBinAddr: 0x2A966, symSize: 0x14 }
+  - { offsetInCU: 0xFA1, offset: 0x43FE7, size: 0x8, addend: 0x0, symName: '___46-[SRShortcutValidator validateShortcut:error:]_block_invoke', symObjAddr: 0x163, symBinAddr: 0x2AA65, symSize: 0x186 }
+  - { offsetInCU: 0x111C, offset: 0x44162, size: 0x8, addend: 0x0, symName: '___61-[SRShortcutValidator validateShortcutAgainstDelegate:error:]_block_invoke', symObjAddr: 0x501, symBinAddr: 0x2AD8C, symSize: 0xF5 }
+  - { offsetInCU: 0x122B, offset: 0x44271, size: 0x8, addend: 0x0, symName: '___61-[SRShortcutValidator validateShortcutAgainstDelegate:error:]_block_invoke.28', symObjAddr: 0x640, symBinAddr: 0x2AE81, symSize: 0x2AF }
+  - { offsetInCU: 0x154F, offset: 0x44595, size: 0x8, addend: 0x0, symName: '___58-[SRShortcutValidator validateShortcut:againstMenu:error:]_block_invoke', symObjAddr: 0x10E3, symBinAddr: 0x2B894, symSize: 0x520 }
+  - { offsetInCU: 0x1890, offset: 0x448D6, size: 0x8, addend: 0x0, symName: '-[SRShortcutValidator recorderControl:canRecordShortcut:]', symObjAddr: 0x164E, symBinAddr: 0x2BDB4, symSize: 0x10B }
+  - { offsetInCU: 0x19CF, offset: 0x44A15, size: 0x8, addend: 0x0, symName: '-[SRShortcutValidator isKeyCode:andFlagsTaken:error:]', symObjAddr: 0x1759, symBinAddr: 0x2BEBF, symSize: 0x68 }
+  - { offsetInCU: 0x1A6A, offset: 0x44AB0, size: 0x8, addend: 0x0, symName: '-[SRShortcutValidator isKeyCode:andFlagTakenInDelegate:error:]', symObjAddr: 0x17C1, symBinAddr: 0x2BF27, symSize: 0x68 }
+  - { offsetInCU: 0x1B05, offset: 0x44B4B, size: 0x8, addend: 0x0, symName: '-[SRShortcutValidator isKeyCode:andFlagsTakenInSystemShortcuts:error:]', symObjAddr: 0x1829, symBinAddr: 0x2BF8F, symSize: 0x68 }
+  - { offsetInCU: 0x1BA0, offset: 0x44BE6, size: 0x8, addend: 0x0, symName: '-[SRShortcutValidator isKeyCode:andFlags:takenInMenu:error:]', symObjAddr: 0x1891, symBinAddr: 0x2BFF7, symSize: 0xA4 }
+  - { offsetInCU: 0x1C7A, offset: 0x44CC0, size: 0x8, addend: 0x0, symName: '-[SRShortcutValidator delegate]', symObjAddr: 0x1935, symBinAddr: 0x2C09B, symSize: 0x16 }
+  - { offsetInCU: 0x1CAF, offset: 0x44CF5, size: 0x8, addend: 0x0, symName: '-[SRShortcutValidator setDelegate:]', symObjAddr: 0x194B, symBinAddr: 0x2C0B1, symSize: 0x11 }
+  - { offsetInCU: 0x1CEC, offset: 0x44D32, size: 0x8, addend: 0x0, symName: '-[SRShortcutValidator .cxx_destruct]', symObjAddr: 0x195C, symBinAddr: 0x2C0C2, symSize: 0xE }
+...

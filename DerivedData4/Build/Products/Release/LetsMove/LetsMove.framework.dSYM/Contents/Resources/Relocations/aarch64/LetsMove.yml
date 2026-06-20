@@ -1,0 +1,18 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Products/Release/LetsMove/LetsMove.framework/Versions/A/LetsMove'
+relocations:
+  - { offsetInCU: 0x34, offset: 0xC49F3, size: 0x8, addend: 0x0, symName: _LetsMoveVersionString, symObjAddr: 0x0, symBinAddr: 0x3390, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0xC4A28, size: 0x8, addend: 0x0, symName: _LetsMoveVersionNumber, symObjAddr: 0x28, symBinAddr: 0x33B8, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0xC4A65, size: 0x8, addend: 0x0, symName: '+[LetsMove bundle]', symObjAddr: 0x0, symBinAddr: 0x1660, symSize: 0x10 }
+  - { offsetInCU: 0xF5, offset: 0xC4B33, size: 0x8, addend: 0x0, symName: _MoveInProgress, symObjAddr: 0x6D48, symBinAddr: 0x8548, symSize: 0x0 }
+  - { offsetInCU: 0x177, offset: 0xC4BB5, size: 0x8, addend: 0x0, symName: '+[LetsMove bundle]', symObjAddr: 0x0, symBinAddr: 0x1660, symSize: 0x10 }
+  - { offsetInCU: 0x4B0, offset: 0xC4EEE, size: 0x8, addend: 0x0, symName: _PFMoveToApplicationsFolderIfNecessary, symObjAddr: 0x10, symBinAddr: 0x1670, symSize: 0xD4C }
+  - { offsetInCU: 0xB6C, offset: 0xC55AA, size: 0x8, addend: 0x0, symName: _IsApplicationAtPathRunning, symObjAddr: 0xD60, symBinAddr: 0x23C0, symSize: 0x1D0 }
+  - { offsetInCU: 0xC12, offset: 0xC5650, size: 0x8, addend: 0x0, symName: _Trash, symObjAddr: 0xF30, symBinAddr: 0x2590, symSize: 0xF4 }
+  - { offsetInCU: 0xCA8, offset: 0xC56E6, size: 0x8, addend: 0x0, symName: _DeleteOrTrash, symObjAddr: 0x1024, symBinAddr: 0x2684, symSize: 0x84 }
+  - { offsetInCU: 0xCFC, offset: 0xC573A, size: 0x8, addend: 0x0, symName: _Relaunch, symObjAddr: 0x10A8, symBinAddr: 0x2708, symSize: 0x104 }
+  - { offsetInCU: 0xD84, offset: 0xC57C2, size: 0x8, addend: 0x0, symName: ___PFMoveToApplicationsFolderIfNecessary_block_invoke, symObjAddr: 0xD5C, symBinAddr: 0x23BC, symSize: 0x4 }
+  - { offsetInCU: 0xDAE, offset: 0xC57EC, size: 0x8, addend: 0x0, symName: ___PFMoveToApplicationsFolderIfNecessary_block_invoke, symObjAddr: 0xD5C, symBinAddr: 0x23BC, symSize: 0x4 }
+  - { offsetInCU: 0xDB9, offset: 0xC57F7, size: 0x8, addend: 0x0, symName: _PFMoveIsInProgress, symObjAddr: 0x11AC, symBinAddr: 0x280C, symSize: 0xC }
+...

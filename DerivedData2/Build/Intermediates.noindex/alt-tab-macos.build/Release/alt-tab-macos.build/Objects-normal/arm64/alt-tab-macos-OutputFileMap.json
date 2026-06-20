@@ -1,0 +1,555 @@
+{
+  "" : {
+    "const-values" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/alt-tab-macos-master.swiftconstvalues",
+    "dependencies" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/alt-tab-macos-master.d",
+    "diagnostics" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/alt-tab-macos-master.dia",
+    "emit-module-dependencies" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/alt-tab-macos-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/alt-tab-macos-master-emit-module.dia",
+    "swift-dependencies" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/alt-tab-macos-master.swiftdeps"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/api-wrappers/AXUIElement.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AXUIElement.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AXUIElement.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AXUIElement.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/api-wrappers/Bash.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Bash.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Bash.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Bash.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/api-wrappers/CGWindow.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CGWindow.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CGWindow.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CGWindow.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/api-wrappers/CGWindowID.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CGWindowID.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CGWindowID.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CGWindowID.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/api-wrappers/HelperExtensions.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/HelperExtensions.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/HelperExtensions.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/HelperExtensions.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/api-wrappers/HelperExtensionsTestable.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/HelperExtensionsTestable.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/HelperExtensionsTestable.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/HelperExtensionsTestable.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/api-wrappers/LightweightTimer.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/LightweightTimer.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/LightweightTimer.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/LightweightTimer.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/api-wrappers/Logger.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Logger.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Logger.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Logger.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/api-wrappers/Markdown.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Markdown.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Markdown.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Markdown.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/api-wrappers/MissionControl.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/MissionControl.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/MissionControl.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/MissionControl.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/api-wrappers/private-apis/ApplicationServices.HIServices.framework.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ApplicationServices.HIServices.framework.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ApplicationServices.HIServices.framework.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ApplicationServices.HIServices.framework.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/api-wrappers/private-apis/SkyLight.framework.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SkyLight.framework.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SkyLight.framework.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SkyLight.framework.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/api-wrappers/Sysctl.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Sysctl.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Sysctl.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Sysctl.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/AppCenterCrashes.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AppCenterCrashes.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AppCenterCrashes.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AppCenterCrashes.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/Appearance.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Appearance.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Appearance.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Appearance.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/AppearanceTestable.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AppearanceTestable.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AppearanceTestable.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AppearanceTestable.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/Application.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Application.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Application.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Application.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/ApplicationDiscriminator.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ApplicationDiscriminator.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ApplicationDiscriminator.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ApplicationDiscriminator.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/Applications.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Applications.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Applications.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Applications.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/ATShortcut.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ATShortcut.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ATShortcut.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ATShortcut.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/AXCallScheduler.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AXCallScheduler.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AXCallScheduler.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AXCallScheduler.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/BackgroundWork.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/BackgroundWork.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/BackgroundWork.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/BackgroundWork.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/Benchmark.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Benchmark.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Benchmark.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Benchmark.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/DebugProfile.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/DebugProfile.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/DebugProfile.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/DebugProfile.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/events/AccessibilityEvents.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AccessibilityEvents.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AccessibilityEvents.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AccessibilityEvents.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/events/CliEvents.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CliEvents.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CliEvents.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CliEvents.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/events/ContextMenuEvents.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ContextMenuEvents.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ContextMenuEvents.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ContextMenuEvents.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/events/CursorEvents.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CursorEvents.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CursorEvents.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CursorEvents.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/events/DockEvents.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/DockEvents.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/DockEvents.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/DockEvents.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/events/InputSourceEvents.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/InputSourceEvents.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/InputSourceEvents.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/InputSourceEvents.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/events/KeyboardEvents.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/KeyboardEvents.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/KeyboardEvents.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/KeyboardEvents.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/events/KeyboardEventsTestable.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/KeyboardEventsTestable.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/KeyboardEventsTestable.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/KeyboardEventsTestable.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/events/PreferencesEvents.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/PreferencesEvents.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/PreferencesEvents.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/PreferencesEvents.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/events/RunningApplicationsEvents.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/RunningApplicationsEvents.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/RunningApplicationsEvents.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/RunningApplicationsEvents.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/events/ScreensEvents.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ScreensEvents.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ScreensEvents.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ScreensEvents.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/events/ScrollwheelEvents.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ScrollwheelEvents.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ScrollwheelEvents.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ScrollwheelEvents.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/events/SleepWakeEvents.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SleepWakeEvents.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SleepWakeEvents.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SleepWakeEvents.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/events/SpacesEvents.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SpacesEvents.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SpacesEvents.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SpacesEvents.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/events/SystemAppearanceEvents.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SystemAppearanceEvents.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SystemAppearanceEvents.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SystemAppearanceEvents.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/events/SystemScrollerStyleEvents.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SystemScrollerStyleEvents.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SystemScrollerStyleEvents.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SystemScrollerStyleEvents.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/events/TrackpadEvents.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TrackpadEvents.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TrackpadEvents.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TrackpadEvents.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/events/UserDefaultsEvents.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/UserDefaultsEvents.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/UserDefaultsEvents.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/UserDefaultsEvents.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/events/WindowCaptureEvents.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/WindowCaptureEvents.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/WindowCaptureEvents.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/WindowCaptureEvents.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/KeyRepeatTimer.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/KeyRepeatTimer.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/KeyRepeatTimer.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/KeyRepeatTimer.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/MacroPreferences.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/MacroPreferences.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/MacroPreferences.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/MacroPreferences.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/Preferences.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Preferences.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Preferences.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Preferences.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/PreferencesMigrations.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/PreferencesMigrations.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/PreferencesMigrations.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/PreferencesMigrations.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/Screens.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Screens.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Screens.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Screens.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/search/Search.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Search.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Search.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Search.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/search/SearchTestable.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SearchTestable.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SearchTestable.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SearchTestable.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/Spaces.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Spaces.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Spaces.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Spaces.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/SystemPermissions.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SystemPermissions.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SystemPermissions.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SystemPermissions.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/TabGroup.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TabGroup.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TabGroup.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TabGroup.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/Throttler.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Throttler.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Throttler.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Throttler.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/UsageStats.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/UsageStats.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/UsageStats.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/UsageStats.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/Window.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Window.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Window.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Window.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/WindowDiscriminator.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/WindowDiscriminator.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/WindowDiscriminator.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/WindowDiscriminator.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/logic/Windows.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Windows.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Windows.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Windows.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/main.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/main.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/main.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/main.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/App.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/App.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/App.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/App.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/DebugMenu.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/DebugMenu.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/DebugMenu.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/DebugMenu.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/DebugWindow.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/DebugWindow.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/DebugWindow.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/DebugWindow.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/FeedbackWindow.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/FeedbackWindow.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/FeedbackWindow.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/FeedbackWindow.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/Button.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Button.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Button.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Button.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/CustomRecorderControl.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CustomRecorderControl.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CustomRecorderControl.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CustomRecorderControl.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/CustomRecorderControlTestable.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CustomRecorderControlTestable.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CustomRecorderControlTestable.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CustomRecorderControlTestable.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/GridView.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/GridView.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/GridView.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/GridView.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/ImageTextButtonView.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ImageTextButtonView.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ImageTextButtonView.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ImageTextButtonView.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/LightImageLayer.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/LightImageLayer.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/LightImageLayer.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/LightImageLayer.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/LightImageView.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/LightImageView.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/LightImageView.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/LightImageView.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/PopupButtonLikeSystemSettings.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/PopupButtonLikeSystemSettings.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/PopupButtonLikeSystemSettings.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/PopupButtonLikeSystemSettings.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/SheetWindow.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SheetWindow.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SheetWindow.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SheetWindow.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/StackView.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/StackView.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/StackView.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/StackView.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/Switch.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Switch.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Switch.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Switch.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/TableGroupView.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TableGroupView.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TableGroupView.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TableGroupView.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/TableView.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TableView.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TableView.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TableView.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/text/BoldLabel.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/BoldLabel.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/BoldLabel.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/BoldLabel.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/text/HyperlinkLabel.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/HyperlinkLabel.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/HyperlinkLabel.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/HyperlinkLabel.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/text/TextArea.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TextArea.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TextArea.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TextArea.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/text/TextField.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TextField.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TextField.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TextField.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/text/TitleLabel.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TitleLabel.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TitleLabel.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TitleLabel.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/TrafficLightButton.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TrafficLightButton.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TrafficLightButton.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TrafficLightButton.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/generic-components/WindowlessAppIndicator.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/WindowlessAppIndicator.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/WindowlessAppIndicator.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/WindowlessAppIndicator.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/main-window/StatusIconsView.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/StatusIconsView.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/StatusIconsView.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/StatusIconsView.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/main-window/TileFontIconView.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TileFontIconView.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TileFontIconView.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TileFontIconView.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/main-window/TileOverView.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TileOverView.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TileOverView.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TileOverView.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/main-window/TilesPanel.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TilesPanel.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TilesPanel.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TilesPanel.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/main-window/TilesPanelBackgroundView.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TilesPanelBackgroundView.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TilesPanelBackgroundView.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TilesPanelBackgroundView.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/main-window/TilesView.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TilesView.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TilesView.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TilesView.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/main-window/TileTitleView.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TileTitleView.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TileTitleView.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TileTitleView.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/main-window/TileUnderLayer.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TileUnderLayer.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TileUnderLayer.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TileUnderLayer.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/main-window/TileView.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TileView.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TileView.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/TileView.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/MainMenu.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/MainMenu.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/MainMenu.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/MainMenu.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/Menubar.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Menubar.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Menubar.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/Menubar.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/permission-window/PermissionsWindow.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/PermissionsWindow.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/PermissionsWindow.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/PermissionsWindow.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/permission-window/PermissionView.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/PermissionView.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/PermissionView.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/PermissionView.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/PreviewPanel.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/PreviewPanel.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/PreviewPanel.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/PreviewPanel.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/settings-window/LabelAndControl.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/LabelAndControl.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/LabelAndControl.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/LabelAndControl.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/settings-window/SettingsWindow.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SettingsWindow.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SettingsWindow.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/SettingsWindow.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/settings-window/tabs/AboutTab.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AboutTab.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AboutTab.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AboutTab.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/settings-window/tabs/AcknowledgmentsTab.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AcknowledgmentsTab.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AcknowledgmentsTab.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AcknowledgmentsTab.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/settings-window/tabs/appearance/AnimationsSheet.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AnimationsSheet.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AnimationsSheet.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AnimationsSheet.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/settings-window/tabs/appearance/AppearanceTab.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AppearanceTab.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AppearanceTab.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AppearanceTab.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/settings-window/tabs/appearance/CustomizeStyleSheet.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CustomizeStyleSheet.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CustomizeStyleSheet.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/CustomizeStyleSheet.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/settings-window/tabs/controls/AdditionalControlsSheet.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AdditionalControlsSheet.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AdditionalControlsSheet.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/AdditionalControlsSheet.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/settings-window/tabs/controls/ControlsTab.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ControlsTab.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ControlsTab.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ControlsTab.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/settings-window/tabs/controls/ShortcutsWhenActiveSheet.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ShortcutsWhenActiveSheet.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ShortcutsWhenActiveSheet.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ShortcutsWhenActiveSheet.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/settings-window/tabs/ExceptionsTab.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ExceptionsTab.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ExceptionsTab.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/ExceptionsTab.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/src/ui/settings-window/tabs/GeneralTab.swift" : {
+    "index-unit-output-path" : "/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/GeneralTab.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/GeneralTab.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData2/Build/Intermediates.noindex/alt-tab-macos.build/Release/alt-tab-macos.build/Objects-normal/arm64/GeneralTab.o"
+  }
+}

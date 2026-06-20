@@ -1,0 +1,65 @@
+{
+  "" : {
+    "const-values" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/SwiftyBeaver-master.swiftconstvalues",
+    "dependencies" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/SwiftyBeaver-master.d",
+    "diagnostics" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/SwiftyBeaver-master.dia",
+    "emit-module-dependencies" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/SwiftyBeaver-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/SwiftyBeaver-master-emit-module.dia",
+    "swift-dependencies" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/SwiftyBeaver-master.swiftdeps"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/AES256CBC.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/AES256CBC.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/AES256CBC.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/AES256CBC.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/Base64.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/Base64.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/Base64.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/Base64.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/BaseDestination.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/BaseDestination.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/BaseDestination.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/BaseDestination.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/ConsoleDestination.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/ConsoleDestination.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/ConsoleDestination.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/ConsoleDestination.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/Extensions.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/Extensions.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/Extensions.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/Extensions.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/FileDestination.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/FileDestination.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/FileDestination.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/FileDestination.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/Filter.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/Filter.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/Filter.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/Filter.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/FilterValidator.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/FilterValidator.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/FilterValidator.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/FilterValidator.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/GoogleCloudDestination.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/GoogleCloudDestination.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/GoogleCloudDestination.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/GoogleCloudDestination.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/SBPlatformDestination.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/SBPlatformDestination.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/SBPlatformDestination.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/SBPlatformDestination.o"
+  },
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/SwiftyBeaver.swift" : {
+    "index-unit-output-path" : "/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/SwiftyBeaver.o",
+    "llvm-bc" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/SwiftyBeaver.bc",
+    "object" : "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/Objects-normal/x86_64/SwiftyBeaver.o"
+  }
+}

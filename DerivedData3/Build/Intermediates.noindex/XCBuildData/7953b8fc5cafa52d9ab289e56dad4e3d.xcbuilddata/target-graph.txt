@@ -1,0 +1,17 @@
+Target dependency graph (7 targets)
+Target 'alt-tab-macos' in project 'alt-tab-macos'
+➜ Implicit dependency on target 'Pods-alt-tab-macos' in project 'Pods' via file 'Pods_alt_tab_macos.framework' in build phase 'Link Binary'
+➜ Implicit dependency on target 'LetsMove' in project 'Pods' via options '-framework LetsMove' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'ShortcutRecorder' in project 'Pods' via options '-framework ShortcutRecorder' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SwiftyBeaver' in project 'Pods' via options '-framework SwiftyBeaver' in build setting 'OTHER_LDFLAGS'
+Target 'Pods-alt-tab-macos' in project 'Pods'
+➜ Explicit dependency on target 'AppCenter' in project 'Pods'
+➜ Explicit dependency on target 'LetsMove' in project 'Pods'
+➜ Explicit dependency on target 'ShortcutRecorder' in project 'Pods'
+➜ Explicit dependency on target 'Sparkle' in project 'Pods'
+➜ Explicit dependency on target 'SwiftyBeaver' in project 'Pods'
+Target 'SwiftyBeaver' in project 'Pods' (no dependencies)
+Target 'Sparkle' in project 'Pods' (no dependencies)
+Target 'ShortcutRecorder' in project 'Pods' (no dependencies)
+Target 'LetsMove' in project 'Pods' (no dependencies)
+Target 'AppCenter' in project 'Pods' (no dependencies)

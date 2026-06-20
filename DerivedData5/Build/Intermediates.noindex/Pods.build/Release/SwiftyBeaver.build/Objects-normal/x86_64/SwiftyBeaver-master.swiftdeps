@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)"
+options: "ae47585367a5846892332e0b4fc725877c21baea1edb69bc52b1d331bd2e75af"
+build_start_time: [1781771624, 118875000]
+build_end_time: [1781771704, 370704000]
+inputs:
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/AES256CBC.swift": [1781769132, 442790517]
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/Base64.swift": [1781769132, 443164680]
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/BaseDestination.swift": [1781769132, 443546771]
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/ConsoleDestination.swift": [1781769132, 444043393]
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/Extensions.swift": [1781769132, 444303249]
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/FileDestination.swift": [1781769132, 444565504]
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/Filter.swift": [1781769132, 444867422]
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/FilterValidator.swift": [1781769132, 445151143]
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/GoogleCloudDestination.swift": [1781769132, 445523849]
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/SBPlatformDestination.swift": [1781769132, 446360101]
+  "/Users/hangsyusang/Opensources/alt-tab-macos/Pods/SwiftyBeaver/Sources/SwiftyBeaver.swift": [1781769132, 446774702]

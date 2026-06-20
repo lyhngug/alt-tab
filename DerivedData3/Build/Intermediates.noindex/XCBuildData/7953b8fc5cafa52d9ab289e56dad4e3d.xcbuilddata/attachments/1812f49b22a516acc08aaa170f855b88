@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData3/Build/Products/Release/SwiftyBeaver/SwiftyBeaver.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData3/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData3/Build/Products/Release/SwiftyBeaver/SwiftyBeaver.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "SwiftyBeaver-Swift.h",
+      'external-contents': "/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData3/Build/Intermediates.noindex/Pods.build/Release/SwiftyBeaver.build/unextended-interface-header.h",
+    }]
+    }]
+}

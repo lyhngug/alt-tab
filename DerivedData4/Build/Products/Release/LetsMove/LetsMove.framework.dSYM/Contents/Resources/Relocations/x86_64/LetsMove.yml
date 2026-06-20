@@ -1,0 +1,17 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/hangsyusang/Opensources/alt-tab-macos/DerivedData4/Build/Products/Release/LetsMove/LetsMove.framework/Versions/A/LetsMove'
+relocations:
+  - { offsetInCU: 0x34, offset: 0xC7B4C, size: 0x8, addend: 0x0, symName: _LetsMoveVersionString, symObjAddr: 0x0, symBinAddr: 0x3390, symSize: 0x0 }
+  - { offsetInCU: 0x69, offset: 0xC7B81, size: 0x8, addend: 0x0, symName: _LetsMoveVersionNumber, symObjAddr: 0x28, symBinAddr: 0x33B8, symSize: 0x0 }
+  - { offsetInCU: 0x27, offset: 0xC7BBE, size: 0x8, addend: 0x0, symName: '+[LetsMove bundle]', symObjAddr: 0x0, symBinAddr: 0x1A10, symSize: 0x1C }
+  - { offsetInCU: 0xF5, offset: 0xC7C8C, size: 0x8, addend: 0x0, symName: _MoveInProgress, symObjAddr: 0x8DF8, symBinAddr: 0x4B70, symSize: 0x0 }
+  - { offsetInCU: 0x177, offset: 0xC7D0E, size: 0x8, addend: 0x0, symName: '+[LetsMove bundle]', symObjAddr: 0x0, symBinAddr: 0x1A10, symSize: 0x1C }
+  - { offsetInCU: 0x4C4, offset: 0xC805B, size: 0x8, addend: 0x0, symName: _PFMoveToApplicationsFolderIfNecessary, symObjAddr: 0x1C, symBinAddr: 0x1A2C, symSize: 0x12F8 }
+  - { offsetInCU: 0x157A, offset: 0xC9111, size: 0x8, addend: 0x0, symName: _IsApplicationAtPathRunning, symObjAddr: 0x131E, symBinAddr: 0x2D2E, symSize: 0x28A }
+  - { offsetInCU: 0x175E, offset: 0xC92F5, size: 0x8, addend: 0x0, symName: _Trash, symObjAddr: 0x15A8, symBinAddr: 0x2FB8, symSize: 0x115 }
+  - { offsetInCU: 0x1870, offset: 0xC9407, size: 0x8, addend: 0x0, symName: _DeleteOrTrash, symObjAddr: 0x16BD, symBinAddr: 0x30CD, symSize: 0xA1 }
+  - { offsetInCU: 0x190B, offset: 0xC94A2, size: 0x8, addend: 0x0, symName: _Relaunch, symObjAddr: 0x175E, symBinAddr: 0x316E, symSize: 0x115 }
+  - { offsetInCU: 0x1A38, offset: 0xC95CF, size: 0x8, addend: 0x0, symName: ___PFMoveToApplicationsFolderIfNecessary_block_invoke, symObjAddr: 0x1314, symBinAddr: 0x2D24, symSize: 0xA }
+  - { offsetInCU: 0x1A6D, offset: 0xC9604, size: 0x8, addend: 0x0, symName: _PFMoveIsInProgress, symObjAddr: 0x1873, symBinAddr: 0x3283, symSize: 0xD }
+...

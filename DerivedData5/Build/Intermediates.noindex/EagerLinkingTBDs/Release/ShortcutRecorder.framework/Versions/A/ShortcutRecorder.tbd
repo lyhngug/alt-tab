@@ -1,0 +1,148 @@
+{
+  "main_library": {
+    "exported_symbols": [
+      {
+        "data": {
+          "global": [
+            "_ShortcutRecorderVersionNumber",
+            "_SRShortcutControllerKeyPathSymbolicKeyCode",
+            "_SRShortcutControllerSelectionKeyKeyEquivalent",
+            "_SRKeyCodeStringLeftArrow",
+            "_SRShortcutKeyCharacters",
+            "_SRModifierFlagStringControl",
+            "_SRShortcutControllerSelectionKeyKeyEquivalentModifierMask",
+            "_SRKeyCodeStringRightArrow",
+            "_SRModifierFlagStringOption",
+            "_SRShortcutControllerKeyPathSymbolicModifierFlags",
+            "_SRShortcutControllerSelectionKeyLiteralModifierFlags",
+            "_SRKeyCodeStringJISUnderscore",
+            "_SRKeyCodeStringDownArrow",
+            "_SRShortcutControllerSelectionKeyLiteralKeyCode",
+            "_SRKeyCodeStringTabRight",
+            "_SRShortcutCharactersIgnoringModifiers",
+            "_SRMinimalDrawableWidthAttributeName",
+            "_SRModifierFlagStringShift",
+            "_SRKeyCodeStringPageDown",
+            "_SRKeyCodeStringReturn",
+            "_SRKeyCodeStringNorthwestArrow",
+            "_SRModifierFlagStringCommand",
+            "_SRShortcutControllerKeyPathLiteralModifierFlags",
+            "_SRShortcutActionSignature",
+            "_SRKeyCodeStringJISYen",
+            "_SRShortcutControllerKeyPathLiteralASCIIKeyCode",
+            "_SRShortcutKeyKeyCode",
+            "_SRShortcutControllerSelectionKeySymbolicASCIIKeyCode",
+            "_SRShortcutControllerSelectionKeySymbolicKeyCode",
+            "_SRKeyCodeStringPageUp",
+            "_SRShortcutControllerSelectionKeySymbolicModifierFlags",
+            "_SRShortcutCharacters",
+            "_SRShortcutModifierFlagsKey",
+            "_SRKeyCodeStringSpace",
+            "_SRKeyCodeStringPadClear",
+            "_SRKeyCodeStringEscape",
+            "_SRRecorderControlLabelWidthPriority",
+            "_ShortcutRecorderVersionString",
+            "_SRKeyCodeStringHelp",
+            "_SRShortcutKeyCode",
+            "_SRShortcutControllerKeyPathKeyEquivalentModifierMask",
+            "_SRKeyCodeStringSoutheastArrow",
+            "_SRKeyCodeStringDeleteRight",
+            "_SRKeyCodeStringJISComma",
+            "_SRShortcutControllerKeyPathKeyEquivalent",
+            "_SRShortcutControllerSelectionKeyLiteralASCIIKeyCode",
+            "_SRKeyCodeStringUpArrow",
+            "_SRKeyCodeStringTabLeft",
+            "_SRShortcutKeyModifierFlags",
+            "_SRKeyCodeStringDeleteLeft",
+            "_SRShortcutControllerKeyPathSymbolicASCIIKeyCode",
+            "_SRShortcutControllerKeyPathLiteralKeyCode",
+            "_SRKeyCodeStringReturnR2L",
+            "_SRShortcutKeyCharactersIgnoringModifiers"
+          ],
+          "objc_class": [
+            "SRShortcutValidator",
+            "_SRKeyCodeTranslatorCacheKey",
+            "SRKeyEquivalentTransformer",
+            "SRGlobalShortcutMonitor",
+            "_SRKeyCodeASCIITranslator",
+            "SRShortcutMonitor",
+            "SRLocalShortcutMonitor",
+            "SRRecorderControl",
+            "SRASCIILiteralKeyCodeTransformer",
+            "SRShortcut",
+            "SRSymbolicKeyCodeTransformer",
+            "SRRecorderControlStyleComponents",
+            "_SRKeyCodeTranslator",
+            "SRSymbolicModifierFlagsTransformer",
+            "SRKeyEquivalentModifierMaskTransformer",
+            "SRShortcutController",
+            "SRRecorderControlStyleResourceLoader",
+            "SRLiteralModifierFlagsTransformer",
+            "_SRRecorderControlStyleResourceLoaderCacheImageKey",
+            "SRShortcutFormatter",
+            "SRShortcutAction",
+            "SRLiteralKeyCodeTransformer",
+            "PodsDummy_ShortcutRecorder",
+            "SRModifierFlagsTransformer",
+            "SRASCIISymbolicKeyCodeTransformer",
+            "SRRecorderControlStyle",
+            "SRKeyBindingTransformer",
+            "SRAXGlobalShortcutMonitor",
+            "_SRRecorderControlStyleResourceLoaderCacheLookupPrefixesKey",
+            "SRKeyCodeTransformer"
+          ],
+          "objc_ivar": [
+            "SRShortcutMonitor._keyUpActions",
+            "SRShortcutMonitor._enabledActions",
+            "SRShortcutMonitor._shortcuts",
+            "SRShortcutMonitor._shortcutToEnabledKeyDownActions",
+            "SRShortcutMonitor._actions",
+            "SRKeyCodeTransformer._translator",
+            "SRShortcutMonitor._shortcutToEnabledKeyUpActions",
+            "SRShortcutMonitor._keyDownActions"
+          ]
+        },
+        "text": {
+          "global": [
+            "_SRRecorderControlStyleComponentsTintToSystem",
+            "_SRImage",
+            "_SRRecorderControlStyleComponentsLayoutDirectionFromSystem",
+            "_SRRecorderControlStyleComponentsLayoutDirectionToSystem",
+            "_SRKeyCodeWithFlagsEqualToKeyEquivalentWithFlags",
+            "_SRRecorderControlStyleComponentsAppearanceFromSystem",
+            "_SRLoc",
+            "_SRBundle",
+            "_SRReadableASCIIStringForCocoaModifierFlagsAndKeyCode",
+            "_SRRecorderControlStyleComponentsAppearanceToSystem",
+            "__SRQuartzEventHandler",
+            "_SRRecorderControlStyleComponentsTintFromSystem",
+            "_SRReadableStringForCocoaModifierFlagsAndKeyCode"
+          ]
+        }
+      }
+    ],
+    "flags": [
+      {
+        "attributes": [
+          "not_app_extension_safe"
+        ]
+      }
+    ],
+    "install_names": [
+      {
+        "name": "@rpath/ShortcutRecorder.framework/Versions/A/ShortcutRecorder"
+      }
+    ],
+    "target_info": [
+      {
+        "min_deployment": "10.12",
+        "target": "x86_64-macos"
+      },
+      {
+        "min_deployment": "11",
+        "target": "arm64-macos"
+      }
+    ]
+  },
+  "tapi_tbd_version": 5
+}
