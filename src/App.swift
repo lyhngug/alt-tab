@@ -686,11 +686,7 @@ extension App: NSApplicationDelegate {
         #if DEBUG
         // The QA launch never initializes persisted licensing: its in-memory state must neither read nor
         // alter the real license, and it must not schedule a revalidation that can later replace the mock.
-        if CommandLine.arguments.contains("--mock-pro") {
-            LicenseManager.shared.mockProUser()
-        } else {
-            LicenseManager.shared.initialize()
-        }
+        LicenseManager.shared.mockProUser()
         #else
         LicenseManager.shared.initialize()
         #endif
