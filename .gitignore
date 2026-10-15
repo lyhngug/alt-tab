@@ -5,7 +5,7 @@ xcuserdata/
 WorkspaceSettings.xcsettings
 IDEWorkspaceChecks.plist
 /node_modules/
-/DerivedData/
+/DerivedData*/
 /build/
 /vendor/*/.build/
 /vendor/*/.swiftpm/
