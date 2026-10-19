@@ -578,11 +578,12 @@ class App: AppCenterApplication {
             updaterDelegate: App.sparkleDelegate!,
             userDriverDelegate: nil)
         #if DEBUG
-        if !Preferences.qaPristine && !QaLifecycle.enabled {
-            DispatchQueue.main.asyncAfter(deadline: .now() + 30) { App.updaterController?.startUpdater() }
-        }
+        // Auto-update disabled for local build
+        // if !Preferences.qaPristine && !QaLifecycle.enabled {
+        //     DispatchQueue.main.asyncAfter(deadline: .now() + 30) { App.updaterController?.startUpdater() }
+        // }
         #else
-        DispatchQueue.main.asyncAfter(deadline: .now() + 30) { App.updaterController?.startUpdater() }
+        // DispatchQueue.main.asyncAfter(deadline: .now() + 30) { App.updaterController?.startUpdater() }
         #endif
         PreferencesEvents.initialize()
         #if DEBUG
